@@ -1,0 +1,948 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="6" build="5" lslib_meta="v1,bswap_guids" />
+	<region id="CharacterVisualBank">
+		<node id="CharacterVisualBank">
+			<children>
+				<node id="Resource">
+					<attribute id="BaseVisual" type="FixedString" value="11c26b50-f4fe-4796-8dde-d0089d26e820" />
+					<attribute id="BodySetVisual" type="FixedString" value="7412135b-1d03-437c-9230-1cca604642ca" />
+					<attribute id="ID" type="FixedString" value="c6c45335-e9d6-432a-ac55-8f021f1c3636" />
+					<attribute id="Name" type="LSString" value="Fairy_Female_Small_9fdc8c1a-101c-4d6e-9615-718760a6767b" />
+					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209010" />
+					<children>
+						<node id="MaterialOverrides">
+							<attribute id="MaterialResource" type="FixedString" value="" />
+							<children>
+								<node id="ColorPreset">
+									<attribute id="ForcePresetValues" type="bool" value="True" />
+									<attribute id="GroupName" type="FixedString" value="" />
+									<attribute id="MaterialPresetResource" type="FixedString" value="" />
+								</node>
+								<node id="MaterialPresets">
+									<children>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
+											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="e1ec28ab-1c68-bdfe-d6dd-9e81fa2fa894" />
+										</node>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="03Hair" />
+											<attribute id="MapKey" type="FixedString" value="03Hair" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="a12b5b3e-543b-f28f-1bed-fcca75040fda" />
+										</node>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="06Eyes" />
+											<attribute id="MapKey" type="FixedString" value="06Eyes" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="b017242c-6360-47f0-938d-88cf3f21507d" />
+										</node>
+									</children>
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="TattooIndex" />
+									<attribute id="Value" type="float" value="0" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="TattooIntensity" />
+									<attribute id="Value" type="float" value="1" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="TattooCurvatureInfluence" />
+									<attribute id="Value" type="float" value="0" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="TattooMetalness" />
+									<attribute id="Value" type="float" value="1.8" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="MakeUpIndex" />
+									<attribute id="Value" type="float" value="4" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="MakeupRoughness" />
+									<attribute id="Value" type="float" value="0.2" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="EyesMakeupMetalness" />
+									<attribute id="Value" type="float" value="1" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="LipsMakeupIntensity" />
+									<attribute id="Value" type="float" value="0.3" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="MakeupIntensity" />
+									<attribute id="Value" type="float" value="0.75" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="NonSkinMetalness" />
+									<attribute id="Value" type="float" value="1.8" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="Highlight_Intensity" />
+									<attribute id="Value" type="float" value="0.08" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="TattooColor" />
+									<attribute id="Value" type="fvec3" value="0.615686 0 0" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="Lips_Makeup_Color" />
+									<attribute id="Value" type="fvec3" value="0.576471 0.286275 0.317647" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="MakeupColor" />
+									<attribute id="Value" type="fvec3" value="0.34902 0 0.015686" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="NonSkinColor" />
+									<attribute id="Value" type="fvec3" value="0.04439873 0.01316299 0.0006657844" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="NonSkinTipColor" />
+									<attribute id="Value" type="fvec3" value="0.78431374 0.6627451 0.96862745" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="Highlight_Color" />
+									<attribute id="Value" type="fvec3" value="0.8941177 0.4117647 1" />
+								</node>
+							</children>
+						</node>
+						<node id="Materials">
+							<attribute id="MapKey" type="FixedString" value="a8ac61c8-b639-ed30-1b5a-71e9ed2e377f" />
+							<children>
+								<node id="MaterialOverrides">
+									<attribute id="MaterialResource" type="FixedString" value="a8ac61c8-b639-ed30-1b5a-71e9ed2e377f" />
+									<children>
+										<node id="MaterialPresets" />
+										<node id="Texture2DParameters">
+											<attribute id="Color" type="bool" value="False" />
+											<attribute id="Custom" type="bool" value="False" />
+											<attribute id="Enabled" type="bool" value="True" />
+											<attribute id="Parameter" type="FixedString" value="CancelMSK" />
+											<attribute id="Value" type="FixedString" value="40339292-5b7d-4ec2-8a68-3ae60dcc13c9" />
+										</node>
+										<node id="Texture2DParameters">
+											<attribute id="Color" type="bool" value="False" />
+											<attribute id="Custom" type="bool" value="False" />
+											<attribute id="Enabled" type="bool" value="True" />
+											<attribute id="Parameter" type="FixedString" value="BaseColor_NonSkin" />
+											<attribute id="Value" type="FixedString" value="512ae749-50a7-403a-8bc8-f82443387a7d" />
+										</node>
+										<node id="Texture2DParameters">
+											<attribute id="Color" type="bool" value="False" />
+											<attribute id="Custom" type="bool" value="False" />
+											<attribute id="Enabled" type="bool" value="True" />
+											<attribute id="Parameter" type="FixedString" value="TattooAtlas" />
+											<attribute id="Value" type="FixedString" value="f95c2eac-973f-41e7-9947-8ac09bb7eb97" />
+										</node>
+										<node id="Texture2DParameters">
+											<attribute id="Color" type="bool" value="False" />
+											<attribute id="Custom" type="bool" value="False" />
+											<attribute id="Enabled" type="bool" value="True" />
+											<attribute id="Parameter" type="FixedString" value="MakeUpAtlas" />
+											<attribute id="Value" type="FixedString" value="6fcbf693-5530-4d7e-95f5-c5b4df2e6569" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="Materials">
+							<attribute id="MapKey" type="FixedString" value="456370f6-d6bf-d89d-ecd0-5a5f09686354" />
+							<children>
+								<node id="MaterialOverrides">
+									<attribute id="MaterialResource" type="FixedString" value="456370f6-d6bf-d89d-ecd0-5a5f09686354" />
+									<children>
+										<node id="MaterialPresets" />
+										<node id="Texture2DParameters">
+											<attribute id="Color" type="bool" value="False" />
+											<attribute id="Custom" type="bool" value="False" />
+											<attribute id="Enabled" type="bool" value="True" />
+											<attribute id="Parameter" type="FixedString" value="CancelMSK" />
+											<attribute id="Value" type="FixedString" value="40339292-5b7d-4ec2-8a68-3ae60dcc13c9" />
+										</node>
+										<node id="Texture2DParameters">
+											<attribute id="Color" type="bool" value="False" />
+											<attribute id="Custom" type="bool" value="False" />
+											<attribute id="Enabled" type="bool" value="True" />
+											<attribute id="Parameter" type="FixedString" value="BaseColor_NonSkin" />
+											<attribute id="Value" type="FixedString" value="512ae749-50a7-403a-8bc8-f82443387a7d" />
+										</node>
+										<node id="Texture2DParameters">
+											<attribute id="Color" type="bool" value="False" />
+											<attribute id="Custom" type="bool" value="False" />
+											<attribute id="Enabled" type="bool" value="True" />
+											<attribute id="Parameter" type="FixedString" value="TattooAtlas" />
+											<attribute id="Value" type="FixedString" value="f95c2eac-973f-41e7-9947-8ac09bb7eb97" />
+										</node>
+										<node id="Texture2DParameters">
+											<attribute id="Color" type="bool" value="False" />
+											<attribute id="Custom" type="bool" value="False" />
+											<attribute id="Enabled" type="bool" value="True" />
+											<attribute id="Parameter" type="FixedString" value="MakeUpAtlas" />
+											<attribute id="Value" type="FixedString" value="6fcbf693-5530-4d7e-95f5-c5b4df2e6569" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="Materials">
+							<attribute id="MapKey" type="FixedString" value="8bfc2eee-5786-6a49-c383-b367f021715d" />
+							<children>
+								<node id="MaterialOverrides">
+									<attribute id="MaterialResource" type="FixedString" value="8bfc2eee-5786-6a49-c383-b367f021715d" />
+									<children>
+										<node id="MaterialPresets" />
+										<node id="Texture2DParameters">
+											<attribute id="Color" type="bool" value="False" />
+											<attribute id="Custom" type="bool" value="False" />
+											<attribute id="Enabled" type="bool" value="True" />
+											<attribute id="Parameter" type="FixedString" value="CancelMSK" />
+											<attribute id="Value" type="FixedString" value="40339292-5b7d-4ec2-8a68-3ae60dcc13c9" />
+										</node>
+										<node id="Texture2DParameters">
+											<attribute id="Color" type="bool" value="False" />
+											<attribute id="Custom" type="bool" value="False" />
+											<attribute id="Enabled" type="bool" value="True" />
+											<attribute id="Parameter" type="FixedString" value="BaseColor_NonSkin" />
+											<attribute id="Value" type="FixedString" value="512ae749-50a7-403a-8bc8-f82443387a7d" />
+										</node>
+										<node id="Texture2DParameters">
+											<attribute id="Color" type="bool" value="False" />
+											<attribute id="Custom" type="bool" value="False" />
+											<attribute id="Enabled" type="bool" value="True" />
+											<attribute id="Parameter" type="FixedString" value="TattooAtlas" />
+											<attribute id="Value" type="FixedString" value="f95c2eac-973f-41e7-9947-8ac09bb7eb97" />
+										</node>
+										<node id="Texture2DParameters">
+											<attribute id="Color" type="bool" value="False" />
+											<attribute id="Custom" type="bool" value="False" />
+											<attribute id="Enabled" type="bool" value="True" />
+											<attribute id="Parameter" type="FixedString" value="MakeUpAtlas" />
+											<attribute id="Value" type="FixedString" value="6fcbf693-5530-4d7e-95f5-c5b4df2e6569" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="Materials">
+							<attribute id="MapKey" type="FixedString" value="334d281b-5f67-ee17-a2d4-10db18f3c667" />
+							<children>
+								<node id="MaterialOverrides">
+									<attribute id="MaterialResource" type="FixedString" value="334d281b-5f67-ee17-a2d4-10db18f3c667" />
+									<children>
+										<node id="MaterialPresets" />
+										<node id="Texture2DParameters">
+											<attribute id="Color" type="bool" value="False" />
+											<attribute id="Custom" type="bool" value="False" />
+											<attribute id="Enabled" type="bool" value="True" />
+											<attribute id="Parameter" type="FixedString" value="CancelMSK" />
+											<attribute id="Value" type="FixedString" value="40339292-5b7d-4ec2-8a68-3ae60dcc13c9" />
+										</node>
+										<node id="Texture2DParameters">
+											<attribute id="Color" type="bool" value="False" />
+											<attribute id="Custom" type="bool" value="False" />
+											<attribute id="Enabled" type="bool" value="True" />
+											<attribute id="Parameter" type="FixedString" value="BaseColor_NonSkin" />
+											<attribute id="Value" type="FixedString" value="512ae749-50a7-403a-8bc8-f82443387a7d" />
+										</node>
+										<node id="Texture2DParameters">
+											<attribute id="Color" type="bool" value="False" />
+											<attribute id="Custom" type="bool" value="False" />
+											<attribute id="Enabled" type="bool" value="True" />
+											<attribute id="Parameter" type="FixedString" value="TattooAtlas" />
+											<attribute id="Value" type="FixedString" value="f95c2eac-973f-41e7-9947-8ac09bb7eb97" />
+										</node>
+										<node id="Texture2DParameters">
+											<attribute id="Color" type="bool" value="False" />
+											<attribute id="Custom" type="bool" value="False" />
+											<attribute id="Enabled" type="bool" value="True" />
+											<attribute id="Parameter" type="FixedString" value="MakeUpAtlas" />
+											<attribute id="Value" type="FixedString" value="6fcbf693-5530-4d7e-95f5-c5b4df2e6569" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="Materials">
+							<attribute id="MapKey" type="FixedString" value="15116395-3a29-a281-32b2-b02447c4b989" />
+							<children>
+								<node id="MaterialOverrides">
+									<attribute id="MaterialResource" type="FixedString" value="15116395-3a29-a281-32b2-b02447c4b989" />
+									<children>
+										<node id="MaterialPresets" />
+										<node id="Texture2DParameters">
+											<attribute id="Color" type="bool" value="False" />
+											<attribute id="Custom" type="bool" value="False" />
+											<attribute id="Enabled" type="bool" value="True" />
+											<attribute id="Parameter" type="FixedString" value="CancelMSK" />
+											<attribute id="Value" type="FixedString" value="40339292-5b7d-4ec2-8a68-3ae60dcc13c9" />
+										</node>
+										<node id="Texture2DParameters">
+											<attribute id="Color" type="bool" value="False" />
+											<attribute id="Custom" type="bool" value="False" />
+											<attribute id="Enabled" type="bool" value="True" />
+											<attribute id="Parameter" type="FixedString" value="BaseColor_NonSkin" />
+											<attribute id="Value" type="FixedString" value="512ae749-50a7-403a-8bc8-f82443387a7d" />
+										</node>
+										<node id="Texture2DParameters">
+											<attribute id="Color" type="bool" value="False" />
+											<attribute id="Custom" type="bool" value="False" />
+											<attribute id="Enabled" type="bool" value="True" />
+											<attribute id="Parameter" type="FixedString" value="TattooAtlas" />
+											<attribute id="Value" type="FixedString" value="f95c2eac-973f-41e7-9947-8ac09bb7eb97" />
+										</node>
+										<node id="Texture2DParameters">
+											<attribute id="Color" type="bool" value="False" />
+											<attribute id="Custom" type="bool" value="False" />
+											<attribute id="Enabled" type="bool" value="True" />
+											<attribute id="Parameter" type="FixedString" value="MakeUpAtlas" />
+											<attribute id="Value" type="FixedString" value="6fcbf693-5530-4d7e-95f5-c5b4df2e6569" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="Materials">
+							<attribute id="MapKey" type="FixedString" value="d1742e97-4202-f507-97c5-78196abf2d9a" />
+							<children>
+								<node id="MaterialOverrides">
+									<attribute id="MaterialResource" type="FixedString" value="d1742e97-4202-f507-97c5-78196abf2d9a" />
+									<children>
+										<node id="MaterialPresets" />
+										<node id="Texture2DParameters">
+											<attribute id="Color" type="bool" value="False" />
+											<attribute id="Custom" type="bool" value="False" />
+											<attribute id="Enabled" type="bool" value="True" />
+											<attribute id="Parameter" type="FixedString" value="CancelMSK" />
+											<attribute id="Value" type="FixedString" value="40339292-5b7d-4ec2-8a68-3ae60dcc13c9" />
+										</node>
+										<node id="Texture2DParameters">
+											<attribute id="Color" type="bool" value="False" />
+											<attribute id="Custom" type="bool" value="False" />
+											<attribute id="Enabled" type="bool" value="True" />
+											<attribute id="Parameter" type="FixedString" value="BaseColor_NonSkin" />
+											<attribute id="Value" type="FixedString" value="512ae749-50a7-403a-8bc8-f82443387a7d" />
+										</node>
+										<node id="Texture2DParameters">
+											<attribute id="Color" type="bool" value="False" />
+											<attribute id="Custom" type="bool" value="False" />
+											<attribute id="Enabled" type="bool" value="True" />
+											<attribute id="Parameter" type="FixedString" value="TattooAtlas" />
+											<attribute id="Value" type="FixedString" value="f95c2eac-973f-41e7-9947-8ac09bb7eb97" />
+										</node>
+										<node id="Texture2DParameters">
+											<attribute id="Color" type="bool" value="False" />
+											<attribute id="Custom" type="bool" value="False" />
+											<attribute id="Enabled" type="bool" value="True" />
+											<attribute id="Parameter" type="FixedString" value="MakeUpAtlas" />
+											<attribute id="Value" type="FixedString" value="6fcbf693-5530-4d7e-95f5-c5b4df2e6569" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="RealMaterialOverrides">
+							<children>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_A.GNO_F_NKD_Head_A_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="24509ade-501f-4093-9954-2095920b55f5" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_A.GNO_F_NKD_Head_A_Eyelashes_Mesh.5" />
+									<attribute id="MapValue" type="FixedString" value="90ba2c8c-ddec-49b5-8918-3eb707e678e6" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_B.GNO_F_NKD_Head_B_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="24509ade-501f-4093-9954-2095920b55f5" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_B.GNO_F_NKD_Head_B_Eyelashes_Mesh.5" />
+									<attribute id="MapValue" type="FixedString" value="90ba2c8c-ddec-49b5-8918-3eb707e678e6" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_C.GNO_F_NKD_Head_C_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="24509ade-501f-4093-9954-2095920b55f5" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_C.GNO_F_NKD_Head_C_Eyelashes_Mesh.5" />
+									<attribute id="MapValue" type="FixedString" value="90ba2c8c-ddec-49b5-8918-3eb707e678e6" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_D.GNO_F_NKD_Head_D_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="24509ade-501f-4093-9954-2095920b55f5" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_D.GNO_F_NKD_Head_D_Eyelashes_Mesh.5" />
+									<attribute id="MapValue" type="FixedString" value="90ba2c8c-ddec-49b5-8918-3eb707e678e6" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_E.GNO_F_NKD_Head_E_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="24509ade-501f-4093-9954-2095920b55f5" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_E.GNO_F_NKD_Head_E_Eyelashes_Mesh.5" />
+									<attribute id="MapValue" type="FixedString" value="90ba2c8c-ddec-49b5-8918-3eb707e678e6" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_F.GNO_F_NKD_Head_F_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="24509ade-501f-4093-9954-2095920b55f5" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_F.GNO_F_NKD_Head_F_Eyelashes_Mesh.5" />
+									<attribute id="MapValue" type="FixedString" value="90ba2c8c-ddec-49b5-8918-3eb707e678e6" />
+								</node>
+							</children>
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Horns" />
+							<attribute id="VisualResource" type="FixedString" value="e7693c9e-c0ef-4efc-aa81-b9eda147e47c" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Head" />
+							<attribute id="VisualResource" type="FixedString" value="48ac16c1-914e-7c24-b083-a7c90a735328" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="ModestyLeaf" />
+							<attribute id="VisualResource" type="FixedString" value="c5994929-c597-1736-977e-13167c588107" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="ModestyLeaf" />
+							<attribute id="VisualResource" type="FixedString" value="c9f8b58b-662f-6380-5a1a-da537dad50cc" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Private Parts" />
+							<attribute id="VisualResource" type="FixedString" value="6ddaa741-84e3-75e6-ddc6-abe2e7b3a871" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Hair" />
+							<attribute id="VisualResource" type="FixedString" value="f475c4cd-ab01-977b-e21d-1e07bc4d1d1f" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="BaseVisual" type="FixedString" value="4a956a53-ad32-4256-8bc9-427dbf086236" />
+					<attribute id="BodySetVisual" type="FixedString" value="a55793cf-6ca8-47c8-b59d-6bb1af4865f7" />
+					<attribute id="ID" type="FixedString" value="79d82bbe-3054-4ab0-a179-d1b0a7935382" />
+					<attribute id="Name" type="LSString" value="Fairy_Male_Small_a8f152b1-061d-4a8f-87bb-de097ebc7f00" />
+					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209010" />
+					<children>
+						<node id="MaterialOverrides">
+							<attribute id="MaterialResource" type="FixedString" value="" />
+							<children>
+								<node id="ColorPreset">
+									<attribute id="ForcePresetValues" type="bool" value="True" />
+									<attribute id="GroupName" type="FixedString" value="" />
+									<attribute id="MaterialPresetResource" type="FixedString" value="" />
+								</node>
+								<node id="MaterialPresets">
+									<children>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
+											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="4df24708-ae6d-882a-c0ea-0ec76a2a3bc5" />
+										</node>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="03Hair" />
+											<attribute id="MapKey" type="FixedString" value="03Hair" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="5b166aea-29f3-8185-ccf2-38a526ba65fa" />
+										</node>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="06Eyes" />
+											<attribute id="MapKey" type="FixedString" value="06Eyes" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="ad256687-84c1-4c03-afb2-3015e798fde9" />
+										</node>
+									</children>
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="TattooIndex" />
+									<attribute id="Value" type="float" value="2" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="TattooIntensity" />
+									<attribute id="Value" type="float" value="0.7" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="TattooCurvatureInfluence" />
+									<attribute id="Value" type="float" value="0" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="TattooMetalness" />
+									<attribute id="Value" type="float" value="1.8" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="MakeUpIndex" />
+									<attribute id="Value" type="float" value="2" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="MakeupRoughness" />
+									<attribute id="Value" type="float" value="0" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="EyesMakeupMetalness" />
+									<attribute id="Value" type="float" value="1" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="LipsMakeupIntensity" />
+									<attribute id="Value" type="float" value="0" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="MakeupIntensity" />
+									<attribute id="Value" type="float" value="0.5" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="NonSkinMetalness" />
+									<attribute id="Value" type="float" value="1.8" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="Highlight_Intensity" />
+									<attribute id="Value" type="float" value="0.6" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="TattooColor" />
+									<attribute id="Value" type="fvec3" value="0.87451 0.835294 0.976471" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="MakeupColor" />
+									<attribute id="Value" type="fvec3" value="0 0 0" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="NonSkinColor" />
+									<attribute id="Value" type="fvec3" value="0.04439873 0.01316299 0.0006657844" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="NonSkinTipColor" />
+									<attribute id="Value" type="fvec3" value="0.78431374 0.6627451 0.96862745" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="Highlight_Color" />
+									<attribute id="Value" type="fvec3" value="0.98039216 0.32156864 0.28627452" />
+								</node>
+							</children>
+						</node>
+						<node id="Materials">
+							<attribute id="MapKey" type="FixedString" value="dd279652-8d4c-c8fe-5853-b9cfe41f2027" />
+							<children>
+								<node id="MaterialOverrides">
+									<attribute id="MaterialResource" type="FixedString" value="dd279652-8d4c-c8fe-5853-b9cfe41f2027" />
+									<children>
+										<node id="MaterialPresets" />
+										<node id="Texture2DParameters">
+											<attribute id="Color" type="bool" value="False" />
+											<attribute id="Custom" type="bool" value="False" />
+											<attribute id="Enabled" type="bool" value="True" />
+											<attribute id="Parameter" type="FixedString" value="CancelMSK" />
+											<attribute id="Value" type="FixedString" value="40339292-5b7d-4ec2-8a68-3ae60dcc13c9" />
+										</node>
+										<node id="Texture2DParameters">
+											<attribute id="Color" type="bool" value="False" />
+											<attribute id="Custom" type="bool" value="False" />
+											<attribute id="Enabled" type="bool" value="True" />
+											<attribute id="Parameter" type="FixedString" value="BaseColor_NonSkin" />
+											<attribute id="Value" type="FixedString" value="512ae749-50a7-403a-8bc8-f82443387a7d" />
+										</node>
+										<node id="Texture2DParameters">
+											<attribute id="Color" type="bool" value="False" />
+											<attribute id="Custom" type="bool" value="False" />
+											<attribute id="Enabled" type="bool" value="True" />
+											<attribute id="Parameter" type="FixedString" value="TattooAtlas" />
+											<attribute id="Value" type="FixedString" value="f95c2eac-973f-41e7-9947-8ac09bb7eb97" />
+										</node>
+										<node id="Texture2DParameters">
+											<attribute id="Color" type="bool" value="False" />
+											<attribute id="Custom" type="bool" value="False" />
+											<attribute id="Enabled" type="bool" value="True" />
+											<attribute id="Parameter" type="FixedString" value="MakeUpAtlas" />
+											<attribute id="Value" type="FixedString" value="6fcbf693-5530-4d7e-95f5-c5b4df2e6569" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="Materials">
+							<attribute id="MapKey" type="FixedString" value="a45df80d-ac7f-a35a-f3e2-420891a8a8ae" />
+							<children>
+								<node id="MaterialOverrides">
+									<attribute id="MaterialResource" type="FixedString" value="a45df80d-ac7f-a35a-f3e2-420891a8a8ae" />
+									<children>
+										<node id="MaterialPresets" />
+										<node id="Texture2DParameters">
+											<attribute id="Color" type="bool" value="False" />
+											<attribute id="Custom" type="bool" value="False" />
+											<attribute id="Enabled" type="bool" value="True" />
+											<attribute id="Parameter" type="FixedString" value="CancelMSK" />
+											<attribute id="Value" type="FixedString" value="40339292-5b7d-4ec2-8a68-3ae60dcc13c9" />
+										</node>
+										<node id="Texture2DParameters">
+											<attribute id="Color" type="bool" value="False" />
+											<attribute id="Custom" type="bool" value="False" />
+											<attribute id="Enabled" type="bool" value="True" />
+											<attribute id="Parameter" type="FixedString" value="BaseColor_NonSkin" />
+											<attribute id="Value" type="FixedString" value="512ae749-50a7-403a-8bc8-f82443387a7d" />
+										</node>
+										<node id="Texture2DParameters">
+											<attribute id="Color" type="bool" value="False" />
+											<attribute id="Custom" type="bool" value="False" />
+											<attribute id="Enabled" type="bool" value="True" />
+											<attribute id="Parameter" type="FixedString" value="TattooAtlas" />
+											<attribute id="Value" type="FixedString" value="f95c2eac-973f-41e7-9947-8ac09bb7eb97" />
+										</node>
+										<node id="Texture2DParameters">
+											<attribute id="Color" type="bool" value="False" />
+											<attribute id="Custom" type="bool" value="False" />
+											<attribute id="Enabled" type="bool" value="True" />
+											<attribute id="Parameter" type="FixedString" value="MakeUpAtlas" />
+											<attribute id="Value" type="FixedString" value="6fcbf693-5530-4d7e-95f5-c5b4df2e6569" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="Materials">
+							<attribute id="MapKey" type="FixedString" value="7a6530f2-a097-70a2-e8ca-390cfa549db6" />
+							<children>
+								<node id="MaterialOverrides">
+									<attribute id="MaterialResource" type="FixedString" value="7a6530f2-a097-70a2-e8ca-390cfa549db6" />
+									<children>
+										<node id="MaterialPresets" />
+										<node id="Texture2DParameters">
+											<attribute id="Color" type="bool" value="False" />
+											<attribute id="Custom" type="bool" value="False" />
+											<attribute id="Enabled" type="bool" value="True" />
+											<attribute id="Parameter" type="FixedString" value="CancelMSK" />
+											<attribute id="Value" type="FixedString" value="40339292-5b7d-4ec2-8a68-3ae60dcc13c9" />
+										</node>
+										<node id="Texture2DParameters">
+											<attribute id="Color" type="bool" value="False" />
+											<attribute id="Custom" type="bool" value="False" />
+											<attribute id="Enabled" type="bool" value="True" />
+											<attribute id="Parameter" type="FixedString" value="BaseColor_NonSkin" />
+											<attribute id="Value" type="FixedString" value="512ae749-50a7-403a-8bc8-f82443387a7d" />
+										</node>
+										<node id="Texture2DParameters">
+											<attribute id="Color" type="bool" value="False" />
+											<attribute id="Custom" type="bool" value="False" />
+											<attribute id="Enabled" type="bool" value="True" />
+											<attribute id="Parameter" type="FixedString" value="TattooAtlas" />
+											<attribute id="Value" type="FixedString" value="f95c2eac-973f-41e7-9947-8ac09bb7eb97" />
+										</node>
+										<node id="Texture2DParameters">
+											<attribute id="Color" type="bool" value="False" />
+											<attribute id="Custom" type="bool" value="False" />
+											<attribute id="Enabled" type="bool" value="True" />
+											<attribute id="Parameter" type="FixedString" value="MakeUpAtlas" />
+											<attribute id="Value" type="FixedString" value="6fcbf693-5530-4d7e-95f5-c5b4df2e6569" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="Materials">
+							<attribute id="MapKey" type="FixedString" value="dbff0fef-1b2c-6947-8945-9a1822aeae07" />
+							<children>
+								<node id="MaterialOverrides">
+									<attribute id="MaterialResource" type="FixedString" value="dbff0fef-1b2c-6947-8945-9a1822aeae07" />
+									<children>
+										<node id="MaterialPresets" />
+										<node id="Texture2DParameters">
+											<attribute id="Color" type="bool" value="False" />
+											<attribute id="Custom" type="bool" value="False" />
+											<attribute id="Enabled" type="bool" value="True" />
+											<attribute id="Parameter" type="FixedString" value="CancelMSK" />
+											<attribute id="Value" type="FixedString" value="40339292-5b7d-4ec2-8a68-3ae60dcc13c9" />
+										</node>
+										<node id="Texture2DParameters">
+											<attribute id="Color" type="bool" value="False" />
+											<attribute id="Custom" type="bool" value="False" />
+											<attribute id="Enabled" type="bool" value="True" />
+											<attribute id="Parameter" type="FixedString" value="BaseColor_NonSkin" />
+											<attribute id="Value" type="FixedString" value="512ae749-50a7-403a-8bc8-f82443387a7d" />
+										</node>
+										<node id="Texture2DParameters">
+											<attribute id="Color" type="bool" value="False" />
+											<attribute id="Custom" type="bool" value="False" />
+											<attribute id="Enabled" type="bool" value="True" />
+											<attribute id="Parameter" type="FixedString" value="TattooAtlas" />
+											<attribute id="Value" type="FixedString" value="f95c2eac-973f-41e7-9947-8ac09bb7eb97" />
+										</node>
+										<node id="Texture2DParameters">
+											<attribute id="Color" type="bool" value="False" />
+											<attribute id="Custom" type="bool" value="False" />
+											<attribute id="Enabled" type="bool" value="True" />
+											<attribute id="Parameter" type="FixedString" value="MakeUpAtlas" />
+											<attribute id="Value" type="FixedString" value="6fcbf693-5530-4d7e-95f5-c5b4df2e6569" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="Materials">
+							<attribute id="MapKey" type="FixedString" value="932a9f0a-3ae3-4e27-bf95-80131b8e1c60" />
+							<children>
+								<node id="MaterialOverrides">
+									<attribute id="MaterialResource" type="FixedString" value="932a9f0a-3ae3-4e27-bf95-80131b8e1c60" />
+									<children>
+										<node id="MaterialPresets" />
+										<node id="Texture2DParameters">
+											<attribute id="Color" type="bool" value="False" />
+											<attribute id="Custom" type="bool" value="False" />
+											<attribute id="Enabled" type="bool" value="True" />
+											<attribute id="Parameter" type="FixedString" value="CancelMSK" />
+											<attribute id="Value" type="FixedString" value="40339292-5b7d-4ec2-8a68-3ae60dcc13c9" />
+										</node>
+										<node id="Texture2DParameters">
+											<attribute id="Color" type="bool" value="False" />
+											<attribute id="Custom" type="bool" value="False" />
+											<attribute id="Enabled" type="bool" value="True" />
+											<attribute id="Parameter" type="FixedString" value="BaseColor_NonSkin" />
+											<attribute id="Value" type="FixedString" value="512ae749-50a7-403a-8bc8-f82443387a7d" />
+										</node>
+										<node id="Texture2DParameters">
+											<attribute id="Color" type="bool" value="False" />
+											<attribute id="Custom" type="bool" value="False" />
+											<attribute id="Enabled" type="bool" value="True" />
+											<attribute id="Parameter" type="FixedString" value="TattooAtlas" />
+											<attribute id="Value" type="FixedString" value="f95c2eac-973f-41e7-9947-8ac09bb7eb97" />
+										</node>
+										<node id="Texture2DParameters">
+											<attribute id="Color" type="bool" value="False" />
+											<attribute id="Custom" type="bool" value="False" />
+											<attribute id="Enabled" type="bool" value="True" />
+											<attribute id="Parameter" type="FixedString" value="MakeUpAtlas" />
+											<attribute id="Value" type="FixedString" value="6fcbf693-5530-4d7e-95f5-c5b4df2e6569" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="Materials">
+							<attribute id="MapKey" type="FixedString" value="4b60106a-3483-4524-a755-6807a6858fcc" />
+							<children>
+								<node id="MaterialOverrides">
+									<attribute id="MaterialResource" type="FixedString" value="4b60106a-3483-4524-a755-6807a6858fcc" />
+									<children>
+										<node id="MaterialPresets" />
+										<node id="Texture2DParameters">
+											<attribute id="Color" type="bool" value="False" />
+											<attribute id="Custom" type="bool" value="False" />
+											<attribute id="Enabled" type="bool" value="True" />
+											<attribute id="Parameter" type="FixedString" value="CancelMSK" />
+											<attribute id="Value" type="FixedString" value="40339292-5b7d-4ec2-8a68-3ae60dcc13c9" />
+										</node>
+										<node id="Texture2DParameters">
+											<attribute id="Color" type="bool" value="False" />
+											<attribute id="Custom" type="bool" value="False" />
+											<attribute id="Enabled" type="bool" value="True" />
+											<attribute id="Parameter" type="FixedString" value="BaseColor_NonSkin" />
+											<attribute id="Value" type="FixedString" value="512ae749-50a7-403a-8bc8-f82443387a7d" />
+										</node>
+										<node id="Texture2DParameters">
+											<attribute id="Color" type="bool" value="False" />
+											<attribute id="Custom" type="bool" value="False" />
+											<attribute id="Enabled" type="bool" value="True" />
+											<attribute id="Parameter" type="FixedString" value="TattooAtlas" />
+											<attribute id="Value" type="FixedString" value="f95c2eac-973f-41e7-9947-8ac09bb7eb97" />
+										</node>
+										<node id="Texture2DParameters">
+											<attribute id="Color" type="bool" value="False" />
+											<attribute id="Custom" type="bool" value="False" />
+											<attribute id="Enabled" type="bool" value="True" />
+											<attribute id="Parameter" type="FixedString" value="MakeUpAtlas" />
+											<attribute id="Value" type="FixedString" value="6fcbf693-5530-4d7e-95f5-c5b4df2e6569" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="RealMaterialOverrides">
+							<children>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="GNO_M_NKD_Head_A.GNO_M_NKD_Head_A_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="24509ade-501f-4093-9954-2095920b55f5" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="GNO_M_NKD_Head_A.GNO_M_NKD_Head_A_Eyelashes_Mesh.5" />
+									<attribute id="MapValue" type="FixedString" value="90ba2c8c-ddec-49b5-8918-3eb707e678e6" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="GNO_M_NKD_Head_B.GNO_M_NKD_Head_B_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="24509ade-501f-4093-9954-2095920b55f5" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="GNO_M_NKD_Head_B.GNO_M_NKD_Head_B_Eyelashes_Mesh.5" />
+									<attribute id="MapValue" type="FixedString" value="90ba2c8c-ddec-49b5-8918-3eb707e678e6" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="GNO_M_NKD_Head_C.GNO_M_NKD_Head_C_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="24509ade-501f-4093-9954-2095920b55f5" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="GNO_M_NKD_Head_C.GNO_M_NKD_Head_C_Eyelashes_Mesh.5" />
+									<attribute id="MapValue" type="FixedString" value="90ba2c8c-ddec-49b5-8918-3eb707e678e6" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="GNO_M_NKD_Head_D.GNO_M_NKD_Head_D_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="24509ade-501f-4093-9954-2095920b55f5" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="GNO_M_NKD_Head_D.GNO_M_NKD_Head_D_Eyelashes_Mesh.5" />
+									<attribute id="MapValue" type="FixedString" value="90ba2c8c-ddec-49b5-8918-3eb707e678e6" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="GNO_M_NKD_Head_E.GNO_M_NKD_Head_E_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="24509ade-501f-4093-9954-2095920b55f5" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="GNO_M_NKD_Head_E.GNO_M_NKD_Head_E_Eyelashes_Mesh.5" />
+									<attribute id="MapValue" type="FixedString" value="90ba2c8c-ddec-49b5-8918-3eb707e678e6" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="P4_GNO_M_HEL_E.P4_GNO_M_HEL_E_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="24509ade-501f-4093-9954-2095920b55f5" />
+								</node>
+							</children>
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Horns" />
+							<attribute id="VisualResource" type="FixedString" value="32bff1ce-f226-4c94-8b3d-598e13335e84" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Head" />
+							<attribute id="VisualResource" type="FixedString" value="53c32b8a-b214-5afb-bede-25ae49aeeae9" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Private Parts" />
+							<attribute id="VisualResource" type="FixedString" value="6ba2d52a-bb3a-8b7d-e670-22edc796fb2a" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="ModestyLeaf" />
+							<attribute id="VisualResource" type="FixedString" value="9d962f63-1072-8e85-25c4-199f37e67ccc" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Hair" />
+							<attribute id="VisualResource" type="FixedString" value="70123af1-f9c6-42af-6358-03a49b236cb3" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

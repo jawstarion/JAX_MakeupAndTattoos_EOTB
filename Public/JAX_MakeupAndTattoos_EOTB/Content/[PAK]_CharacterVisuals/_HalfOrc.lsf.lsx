@@ -1,0 +1,910 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+    <version major="4" minor="0" revision="0" build="51" />
+    <region id="CharacterVisualBank">
+        <node id="CharacterVisualBank">
+            <children>
+				<node id="Resource"> Female Half-Orc 
+					<attribute id="BaseVisual" type="FixedString" value="a96187a4-68dc-db02-93b4-ae0efd2ba939" />
+					<attribute id="BodySetVisual" type="FixedString" value="ecf0a1f3-1874-8f5c-dde4-40d57af42fe6" />
+					<attribute id="ID" type="FixedString" value="6bcf04be-942d-2980-2e59-089a5a6ba36e" />
+					<attribute id="Name" type="LSString" value="HalfOrcs_Female_Player_cf7809c0-2b84-4062-8aef-0184ccea4aba" />
+					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
+					<children>
+						<node id="MaterialOverrides">
+							<attribute id="MaterialResource" type="FixedString" value="" />
+							<children>
+								<node id="MaterialPresets">
+									<children>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
+											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="c03e0620-e055-2767-799d-54179332b4a6" />
+										</node>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="03Hair" />
+											<attribute id="MapKey" type="FixedString" value="03Hair" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="65fa1b9a-f151-bad3-f9f4-ee156a897812" />
+										</node>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="06Eyes" />
+											<attribute id="MapKey" type="FixedString" value="06Eyes" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="2737e393-3833-8aa9-dfed-8153a962add7" />
+										</node>
+									</children>
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="Opacity" />
+									<attribute id="Value" type="float" value="2" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="Reflectance" />
+									<attribute id="Value" type="float" value="0.6" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="Scalp_Scatter" />
+									<attribute id="Value" type="float" value="0.4" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="PixelDepthOffset" />
+									<attribute id="Value" type="float" value="0.001" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="Scalp_HornMaskWeight" />
+									<attribute id="Value" type="float" value="0" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="Scalp_Graying_Intensity" />
+									<attribute id="Value" type="float" value="0" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="Scalp_ColorTransitionMidPoint" />
+									<attribute id="Value" type="float" value="0.1" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="Scalp_ColorTransitionSoftness" />
+									<attribute id="Value" type="float" value="0.5" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="Scalp_DepthColorExponent" />
+									<attribute id="Value" type="float" value="0" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="Scalp_DepthColorIntensity" />
+									<attribute id="Value" type="float" value="0" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="Scalp_IDContrast" />
+									<attribute id="Value" type="float" value="1" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="Scalp_ColorDepthContrast" />
+									<attribute id="Value" type="float" value="0.7" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="Scalp_Roughness" />
+									<attribute id="Value" type="float" value="0.4" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="Scalp_RoughnessContrast" />
+									<attribute id="Value" type="float" value="0.2" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="Scatter" />
+									<attribute id="Value" type="float" value="0.05" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="SecondaryColourIntensity" />
+									<attribute id="Value" type="float" value="1" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="doDrawMakeup" />
+									<attribute id="Value" type="float" value="0" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="doBodyHide" />
+									<attribute id="Value" type="float" value="1" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="AddedColor" />
+									<attribute id="Value" type="fvec3" value="0.025700033 0 0" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="Color_01" />
+									<attribute id="Value" type="fvec3" value="0.38891023 0.2233104 0.15415226" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="Color_02" />
+									<attribute id="Value" type="fvec3" value="0.34402564 0.12474094 0.09151835" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="Highlight_Color" />
+									<attribute id="Value" type="fvec3" value="0.9476402 0 0.31298825" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="Hair_Scalp_Graying_Color" />
+									<attribute id="Value" type="fvec3" value="0.73169655 0.73169655 0.73169655" />
+								</node>
+							</children>
+						</node>
+                        <node id="RealMaterialOverrides">
+                            <children>
+                <!-- Head A -->
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_A.HRC_F_NKD_Head_A_Mesh.0" />
+							<attribute id="MapValue" type="FixedString" value="cec038c4-95ea-139e-fffa-bd1a3a37d2ff" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_A.HRC_F_NKD_Head_A_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="cec038c4-95ea-139e-fffa-bd1a3a37d2ff" />
+                        </node>
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_A.HRC_F_NKD_Head_A_Mesh_LOD1.8" />
+							<attribute id="MapValue" type="FixedString" value="f5df74ec-c8b9-2e8f-9087-4d458f8af02f" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_A.HRC_F_NKD_Head_A_Ears_Mesh_LOD1.9" />
+                            <attribute id="MapValue" type="FixedString" value="f5df74ec-c8b9-2e8f-9087-4d458f8af02f" />
+                        </node>
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_A.HRC_F_NKD_Head_A_Mesh_LOD2.11" />
+							<attribute id="MapValue" type="FixedString" value="cde059ec-d75e-f193-a94d-614d2aa36bba" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_A.HRC_F_NKD_Head_A_Ears_Mesh_LOD2.12" />
+                            <attribute id="MapValue" type="FixedString" value="cde059ec-d75e-f193-a94d-614d2aa36bba" />
+                        </node>
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_A.HRC_F_NKD_Head_A_Mesh_LOD3.14" />
+							<attribute id="MapValue" type="FixedString" value="cde059ec-d75e-f193-a94d-614d2aa36bba" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_A.HRC_F_NKD_Head_A_Ears_Mesh_LOD3.15" />
+                            <attribute id="MapValue" type="FixedString" value="cde059ec-d75e-f193-a94d-614d2aa36bba" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_A.HRC_F_NKD_Head_A_Mesh_LOD4.16" />
+                            <attribute id="MapValue" type="FixedString" value="39946c63-382b-c10a-a103-dd319fe8a6d4" />
+                        </node>
+                <!-- Head B -->
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_B.HRC_F_NKD_Head_B_Mesh.0" />
+							<attribute id="MapValue" type="FixedString" value="ee7ceb6b-ea48-0e86-764d-8dfbb907044b" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_B.HRC_F_NKD_Head_B_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="ee7ceb6b-ea48-0e86-764d-8dfbb907044b" />
+                        </node>
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_B.HRC_F_NKD_Head_B_Mesh_LOD1.8" />
+							<attribute id="MapValue" type="FixedString" value="3a25f441-6ba2-4045-3c22-84b129fc5f79" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_B.HRC_F_NKD_Head_B_Ears_Mesh_LOD1.9" />
+                            <attribute id="MapValue" type="FixedString" value="3a25f441-6ba2-4045-3c22-84b129fc5f79" />
+                        </node>
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_B.HRC_F_NKD_Head_B_Mesh_LOD2.11" />
+							<attribute id="MapValue" type="FixedString" value="18eb085d-1f5b-ed53-37bb-ac0388235f28" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_B.HRC_F_NKD_Head_B_Ears_Mesh_LOD2.12" />
+                            <attribute id="MapValue" type="FixedString" value="18eb085d-1f5b-ed53-37bb-ac0388235f28" />
+                        </node>
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_B.HRC_F_NKD_Head_B_Mesh_LOD3.14" />
+							<attribute id="MapValue" type="FixedString" value="18eb085d-1f5b-ed53-37bb-ac0388235f28" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_B.HRC_F_NKD_Head_B_Ears_Mesh_LOD3.15" />
+                            <attribute id="MapValue" type="FixedString" value="18eb085d-1f5b-ed53-37bb-ac0388235f28" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_B.HRC_F_NKD_Head_B_Mesh_LOD4.16" />
+                            <attribute id="MapValue" type="FixedString" value="93804e9d-7dd0-12b6-dd69-e9f6e3e1520d" />
+                        </node>
+                <!-- Head C -->
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_C.HRC_F_NKD_Head_C_Mesh.0" />
+							<attribute id="MapValue" type="FixedString" value="be7f794c-dbaa-9676-73d9-535f8026ecae" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_C.HRC_F_NKD_Head_C_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="be7f794c-dbaa-9676-73d9-535f8026ecae" />
+                        </node>
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_C.HRC_F_NKD_Head_C_Mesh_LOD1.8" />
+							<attribute id="MapValue" type="FixedString" value="3ff17088-0a44-870a-6990-03cf7a5eea33" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_C.HRC_F_NKD_Head_C_Ears_Mesh_LOD1.9" />
+                            <attribute id="MapValue" type="FixedString" value="3ff17088-0a44-870a-6990-03cf7a5eea33" />
+                        </node>
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_C.HRC_F_NKD_Head_C_Mesh_LOD2.11" />
+							<attribute id="MapValue" type="FixedString" value="12823a3e-c8c6-1cd1-5423-3ba7d1307a06" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_C.HRC_F_NKD_Head_C_Ears_Mesh_LOD2.12" />
+                            <attribute id="MapValue" type="FixedString" value="12823a3e-c8c6-1cd1-5423-3ba7d1307a06" />
+                        </node>
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_C.HRC_F_NKD_Head_C_Mesh_LOD3.14" />
+							<attribute id="MapValue" type="FixedString" value="12823a3e-c8c6-1cd1-5423-3ba7d1307a06" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_C.HRC_F_NKD_Head_C_Ears_Mesh_LOD3.15" />
+                            <attribute id="MapValue" type="FixedString" value="12823a3e-c8c6-1cd1-5423-3ba7d1307a06" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_C.HRC_F_NKD_Head_C_Mesh_LOD4.16" />
+                            <attribute id="MapValue" type="FixedString" value="a815f941-1b5d-ca87-6122-7452042d9dde" />
+                        </node>
+                <!-- Head D -->
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_D.HRC_F_NKD_Head_D_Mesh.0" />
+							<attribute id="MapValue" type="FixedString" value="4c4031f8-8b7e-5701-17d2-5ba14592d9ba" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_D.HRC_F_NKD_Head_D_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="4c4031f8-8b7e-5701-17d2-5ba14592d9ba" />
+                        </node>
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_D.HRC_F_NKD_Head_D_Mesh_LOD1.8" />
+							<attribute id="MapValue" type="FixedString" value="bf998cd1-b3d5-f7cb-21b8-0b1576341078" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_D.HRC_F_NKD_Head_D_Ears_Mesh_LOD1.9" />
+                            <attribute id="MapValue" type="FixedString" value="bf998cd1-b3d5-f7cb-21b8-0b1576341078" />
+                        </node>
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_D.HRC_F_NKD_Head_D_Mesh_LOD2.11" />
+							<attribute id="MapValue" type="FixedString" value="d0f28a39-a25c-e5a8-a7ab-d819ca88ff91" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_D.HRC_F_NKD_Head_D_Ears_Mesh_LOD2.12" />
+                            <attribute id="MapValue" type="FixedString" value="d0f28a39-a25c-e5a8-a7ab-d819ca88ff91" />
+                        </node>
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_D.HRC_F_NKD_Head_D_Mesh_LOD3.14" />
+							<attribute id="MapValue" type="FixedString" value="d0f28a39-a25c-e5a8-a7ab-d819ca88ff91" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_D.HRC_F_NKD_Head_D_Ears_Mesh_LOD3.15" />
+                            <attribute id="MapValue" type="FixedString" value="d0f28a39-a25c-e5a8-a7ab-d819ca88ff91" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_D.HRC_F_NKD_Head_D_Mesh_LOD4.16" />
+                            <attribute id="MapValue" type="FixedString" value="90901286-93dd-8ca2-f95f-61433f2f4097" />
+                        </node>
+                <!-- Head E -->
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_E.HRC_F_NKD_Head_E_Mesh.0" />
+							<attribute id="MapValue" type="FixedString" value="bf00f623-d19a-ee36-3e55-0d21430301a9" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_E.HRC_F_NKD_Head_E_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="bf00f623-d19a-ee36-3e55-0d21430301a9" />
+                        </node>
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_E.HRC_F_NKD_Head_E_Mesh_LOD1.8" />
+							<attribute id="MapValue" type="FixedString" value="ba18a4f8-c27f-6983-842f-7746242161ee" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_E.HRC_F_NKD_Head_E_Ears_Mesh_LOD1.9" />
+                            <attribute id="MapValue" type="FixedString" value="ba18a4f8-c27f-6983-842f-7746242161ee" />
+                        </node>
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_E.HRC_F_NKD_Head_E_Mesh_LOD2.11" />
+							<attribute id="MapValue" type="FixedString" value="cfaa1be5-3a5f-d558-824d-74255201805f" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_E.HRC_F_NKD_Head_E_Ears_Mesh_LOD2.12" />
+                            <attribute id="MapValue" type="FixedString" value="cfaa1be5-3a5f-d558-824d-74255201805f" />
+                        </node>
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_E.HRC_F_NKD_Head_E_Mesh_LOD3.14" />
+							<attribute id="MapValue" type="FixedString" value="cfaa1be5-3a5f-d558-824d-74255201805f" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_E.HRC_F_NKD_Head_E_Ears_Mesh_LOD3.15" />
+                            <attribute id="MapValue" type="FixedString" value="cfaa1be5-3a5f-d558-824d-74255201805f" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_E.HRC_F_NKD_Head_E_Mesh_LOD4.16" />
+                            <attribute id="MapValue" type="FixedString" value="ace25a76-3c96-fa63-474d-06babac7d27d" />
+                        </node>
+                <!-- Head F -->
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_F.HRC_F_NKD_Head_F_Mesh.0" />
+							<attribute id="MapValue" type="FixedString" value="712ed014-44af-b704-a747-d2699e876a8a" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_F.HRC_F_NKD_Head_F_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="712ed014-44af-b704-a747-d2699e876a8a" />
+                        </node>
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_F.HRC_F_NKD_Head_F_Mesh_LOD1.8" />
+							<attribute id="MapValue" type="FixedString" value="d7a4e8e8-1575-ee62-13ef-7016c655fa91" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_F.HRC_F_NKD_Head_F_Ears_Mesh_LOD1.9" />
+                            <attribute id="MapValue" type="FixedString" value="d7a4e8e8-1575-ee62-13ef-7016c655fa91" />
+                        </node>
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_F.HRC_F_NKD_Head_F_Mesh_LOD2.11" />
+							<attribute id="MapValue" type="FixedString" value="42b8f9f2-b867-96a9-d7cd-90615048e43e" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_F.HRC_F_NKD_Head_F_Ears_Mesh_LOD2.12" />
+                            <attribute id="MapValue" type="FixedString" value="42b8f9f2-b867-96a9-d7cd-90615048e43e" />
+                        </node>
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_F.HRC_F_NKD_Head_F_Mesh_LOD3.14" />
+							<attribute id="MapValue" type="FixedString" value="42b8f9f2-b867-96a9-d7cd-90615048e43e" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_F.HRC_F_NKD_Head_F_Ears_Mesh_LOD3.15" />
+                            <attribute id="MapValue" type="FixedString" value="42b8f9f2-b867-96a9-d7cd-90615048e43e" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_F.HRC_F_NKD_Head_F_Mesh_LOD4.16" />
+                            <attribute id="MapValue" type="FixedString" value="8201c407-cd2b-7863-2964-e5a43d23be69" />
+                        </node>
+                            </children>
+                            </node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Head" />
+							<attribute id="VisualResource" type="FixedString" value="7117c407-51df-fbc7-a7bb-8a5539848776" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Hair" />
+							<attribute id="VisualResource" type="FixedString" value="e4d249e4-8984-aa48-ab65-d7ad50954982" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Private Parts" />
+							<attribute id="VisualResource" type="FixedString" value="b6333ae0-90ab-785c-582c-2e40a7dc2e1f" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="ModestyLeaf" />
+							<attribute id="VisualResource" type="FixedString" value="74a70979-673a-3abf-0149-06d37f19697c" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="ModestyLeaf" />
+							<attribute id="VisualResource" type="FixedString" value="333cdac8-1d3c-85f3-8b4c-30e72681d93a" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource"> Male Half-Orc 
+					<attribute id="BaseVisual" type="FixedString" value="d408a7d2-4767-5593-93ec-0961cf24add6" />
+					<attribute id="BodySetVisual" type="FixedString" value="0146aeba-f96d-9273-bb1c-0121453d9a8d" />
+					<attribute id="ID" type="FixedString" value="355b3b3c-cdae-8805-04dd-d6299920876f" />
+					<attribute id="Name" type="LSString" value="HalfOrcs_Male_Player_51af09b7-6062-4d8e-88d0-09e9225b06e6" />
+					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209030" />
+					<children>
+						<node id="MaterialOverrides">
+							<attribute id="MaterialResource" type="FixedString" value="" />
+							<children>
+								<node id="MaterialPresets">
+									<children>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
+											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="ffe3d06e-75b7-c53c-e065-e7e835f5467e" />
+										</node>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="06Eyes" />
+											<attribute id="MapKey" type="FixedString" value="06Eyes" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="1a950e27-e090-beb6-3042-317e2ebfa904" />
+										</node>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="03Hair" />
+											<attribute id="MapKey" type="FixedString" value="03Hair" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="90a01929-a5ef-01a7-c22d-000245888f0e" />
+										</node>
+									</children>
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="Reflectance" />
+									<attribute id="Value" type="float" value="0.6" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="Opacity" />
+									<attribute id="Value" type="float" value="2" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="Scatter" />
+									<attribute id="Value" type="float" value="0.4" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="PixelDepthOffset" />
+									<attribute id="Value" type="float" value="0.01" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="DepthTransitionMidPoint" />
+									<attribute id="Value" type="float" value="0.6" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="DepthTransitionSoftness" />
+									<attribute id="Value" type="float" value="0.003" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="Scalp_MinValue" />
+									<attribute id="Value" type="float" value="0.3" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="Scalp_HornMaskWeight" />
+									<attribute id="Value" type="float" value="0" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="Scalp_Graying_Intensity" />
+									<attribute id="Value" type="float" value="0" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="Scalp_ColorTransitionMidPoint" />
+									<attribute id="Value" type="float" value="0.1" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="Scalp_ColorTransitionSoftness" />
+									<attribute id="Value" type="float" value="0.5" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="Scalp_DepthColorExponent" />
+									<attribute id="Value" type="float" value="0.1" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="Scalp_DepthColorIntensity" />
+									<attribute id="Value" type="float" value="0.1" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="Scalp_IDContrast" />
+									<attribute id="Value" type="float" value="1" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="Scalp_ColorDepthContrast" />
+									<attribute id="Value" type="float" value="0.6" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="Scalp_Roughness" />
+									<attribute id="Value" type="float" value="0.45" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="Scalp_RoughnessContrast" />
+									<attribute id="Value" type="float" value="0.6" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="Scalp_Scatter" />
+									<attribute id="Value" type="float" value="0.5" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="SharedNoiseTiling" />
+									<attribute id="Value" type="float" value="20" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="MaxWindMovementAmount" />
+									<attribute id="Value" type="float" value="0.01" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="DreadNoiseNormal" />
+									<attribute id="Value" type="float" value="0" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="RootTransitionMidPoint" />
+									<attribute id="Value" type="float" value="0.3" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="RootTransitionSoftness" />
+									<attribute id="Value" type="float" value="0.3" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="DreadNoiseBaseColor" />
+									<attribute id="Value" type="float" value="0.02" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="RoughnessContrast" />
+									<attribute id="Value" type="float" value="0.75" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="doBodyHide" />
+									<attribute id="Value" type="float" value="1" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="AddedColor" />
+									<attribute id="Value" type="fvec3" value="0.025700033 0 0" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="Color_01" />
+									<attribute id="Value" type="fvec3" value="0.5479935 0.19046287 0.14198029" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="Color_02" />
+									<attribute id="Value" type="fvec3" value="1 0.52344316 0.3344578" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="Color_03" />
+									<attribute id="Value" type="fvec3" value="0.15728073 0.09151835 0.34886482" />
+								</node>
+							</children>
+						</node>
+                        <node id="RealMaterialOverrides">
+                            <children>
+                <!-- Head A -->
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_A.HRC_M_NKD_Head_A_Mesh.0" />
+							<attribute id="MapValue" type="FixedString" value="1181ac74-e857-0afb-da59-55b663b9b658" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_A.HRC_M_NKD_Head_A_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="1181ac74-e857-0afb-da59-55b663b9b658" />
+                        </node>
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_A.HRC_M_NKD_Head_A_Mesh_LOD1.8" />
+							<attribute id="MapValue" type="FixedString" value="7607ce57-a6a1-a91a-40be-dfdcfa985369" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_A.HRC_M_NKD_Head_A_Ears_Mesh_LOD1.9" />
+                            <attribute id="MapValue" type="FixedString" value="7607ce57-a6a1-a91a-40be-dfdcfa985369" />
+                        </node>
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_A.HRC_M_NKD_Head_A_Mesh_LOD2.11" />
+							<attribute id="MapValue" type="FixedString" value="9edf4f23-12be-d9fe-5bf5-16db56bb2726" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_A.HRC_M_NKD_Head_A_Ears_Mesh_LOD2.12" />
+                            <attribute id="MapValue" type="FixedString" value="9edf4f23-12be-d9fe-5bf5-16db56bb2726" />
+                        </node>
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_A.HRC_M_NKD_Head_A_Mesh_LOD3.14" />
+							<attribute id="MapValue" type="FixedString" value="9edf4f23-12be-d9fe-5bf5-16db56bb2726" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_A.HRC_M_NKD_Head_A_Ears_Mesh_LOD3.15" />
+                            <attribute id="MapValue" type="FixedString" value="9edf4f23-12be-d9fe-5bf5-16db56bb2726" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_A.HRC_M_NKD_Head_A_Mesh_LOD4.16" />
+                            <attribute id="MapValue" type="FixedString" value="88100cec-d698-d01d-3160-9dec9c134508" />
+                        </node>
+                <!-- Head B -->
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_B.HRC_M_NKD_Head_B_Mesh.0" />
+							<attribute id="MapValue" type="FixedString" value="620745f3-9215-cfa0-10e0-cee0bad44d19" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_B.HRC_M_NKD_Head_B_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="620745f3-9215-cfa0-10e0-cee0bad44d19" />
+                        </node>
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_B.HRC_M_NKD_Head_B_Mesh_LOD1.8" />
+							<attribute id="MapValue" type="FixedString" value="0960f419-285f-459f-c5a4-ec5906da201c" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_B.HRC_M_NKD_Head_B_Ears_Mesh_LOD1.9" />
+                            <attribute id="MapValue" type="FixedString" value="0960f419-285f-459f-c5a4-ec5906da201c" />
+                        </node>
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_B.HRC_M_NKD_Head_B_Mesh_LOD2.11" />
+							<attribute id="MapValue" type="FixedString" value="3968183c-01e9-8715-afb1-242ca47fbba3" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_B.HRC_M_NKD_Head_B_Ears_Mesh_LOD2.12" />
+                            <attribute id="MapValue" type="FixedString" value="3968183c-01e9-8715-afb1-242ca47fbba3" />
+                        </node>
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_B.HRC_M_NKD_Head_B_Mesh_LOD3.14" />
+							<attribute id="MapValue" type="FixedString" value="3968183c-01e9-8715-afb1-242ca47fbba3" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_B.HRC_M_NKD_Head_B_Ears_Mesh_LOD3.15" />
+                            <attribute id="MapValue" type="FixedString" value="3968183c-01e9-8715-afb1-242ca47fbba3" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_B.HRC_M_NKD_Head_B_Mesh_LOD4.16" />
+                            <attribute id="MapValue" type="FixedString" value="2ebcd7b0-e250-29f0-97cd-451f9dd2c995" />
+                        </node>
+                <!-- Head C -->
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_C.HRC_M_NKD_Head_C_Mesh.0" />
+							<attribute id="MapValue" type="FixedString" value="ab1269e2-7805-834b-1bed-5f5494dea7f4" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_C.HRC_M_NKD_Head_C_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="ab1269e2-7805-834b-1bed-5f5494dea7f4" />
+                        </node>
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_C.HRC_M_NKD_Head_C_Mesh_LOD1.8" />
+							<attribute id="MapValue" type="FixedString" value="6f49d1a1-cf2c-19bb-ef99-13c0cc2530d8" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_C.HRC_M_NKD_Head_C_Ears_Mesh_LOD1.9" />
+                            <attribute id="MapValue" type="FixedString" value="6f49d1a1-cf2c-19bb-ef99-13c0cc2530d8" />
+                        </node>
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_C.HRC_M_NKD_Head_C_Mesh_LOD2.11" />
+							<attribute id="MapValue" type="FixedString" value="691d8217-3ab0-e9ef-1fa9-330be9989a15" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_C.HRC_M_NKD_Head_C_Ears_Mesh_LOD2.12" />
+                            <attribute id="MapValue" type="FixedString" value="691d8217-3ab0-e9ef-1fa9-330be9989a15" />
+                        </node>
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_C.HRC_M_NKD_Head_C_Mesh_LOD3.14" />
+							<attribute id="MapValue" type="FixedString" value="691d8217-3ab0-e9ef-1fa9-330be9989a15" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_C.HRC_M_NKD_Head_C_Ears_Mesh_LOD3.15" />
+                            <attribute id="MapValue" type="FixedString" value="691d8217-3ab0-e9ef-1fa9-330be9989a15" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_C.HRC_M_NKD_Head_C_Mesh_LOD4.16" />
+                            <attribute id="MapValue" type="FixedString" value="46a5fd3f-2f5c-54a6-b476-0a1c817444e5" />
+                        </node>
+                <!-- Head D -->
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_D.HRC_M_NKD_Head_D_Mesh.0" />
+							<attribute id="MapValue" type="FixedString" value="1c6efe94-ffb0-c374-f3ed-0f701c5db68b" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_D.HRC_M_NKD_Head_D_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="1c6efe94-ffb0-c374-f3ed-0f701c5db68b" />
+                        </node>
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_D.HRC_M_NKD_Head_D_Mesh_LOD1.8" />
+							<attribute id="MapValue" type="FixedString" value="ad8f0c0e-8e49-43e8-cf76-6ab8f7297cd1" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_D.HRC_M_NKD_Head_D_Ears_Mesh_LOD1.9" />
+                            <attribute id="MapValue" type="FixedString" value="ad8f0c0e-8e49-43e8-cf76-6ab8f7297cd1" />
+                        </node>
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_D.HRC_M_NKD_Head_D_Mesh_LOD2.11" />
+							<attribute id="MapValue" type="FixedString" value="7c61f7fe-7108-2992-4e96-5f1ee570983e" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_D.HRC_M_NKD_Head_D_Ears_Mesh_LOD2.12" />
+                            <attribute id="MapValue" type="FixedString" value="7c61f7fe-7108-2992-4e96-5f1ee570983e" />
+                        </node>
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_D.HRC_M_NKD_Head_D_Mesh_LOD3.14" />
+							<attribute id="MapValue" type="FixedString" value="7c61f7fe-7108-2992-4e96-5f1ee570983e" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_D.HRC_M_NKD_Head_D_Ears_Mesh_LOD3.15" />
+                            <attribute id="MapValue" type="FixedString" value="7c61f7fe-7108-2992-4e96-5f1ee570983e" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_D.HRC_M_NKD_Head_D_Mesh_LOD4.16" />
+                            <attribute id="MapValue" type="FixedString" value="9a417ab7-012b-4fcc-95ab-ea0e38c55c0a" />
+                        </node>
+                <!-- Head E -->
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_E.HRC_M_NKD_Head_E_Mesh.0" />
+							<attribute id="MapValue" type="FixedString" value="8e0e901b-c969-24b1-de44-a8d5b7df3f9c" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_E.HRC_M_NKD_Head_E_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="8e0e901b-c969-24b1-de44-a8d5b7df3f9c" />
+                        </node>
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_E.HRC_M_NKD_Head_E_Mesh_LOD1.8" />
+							<attribute id="MapValue" type="FixedString" value="bb599149-dedd-a31b-cfc2-d61d0ea33fde" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_E.HRC_M_NKD_Head_E_Ears_Mesh_LOD1.9" />
+                            <attribute id="MapValue" type="FixedString" value="bb599149-dedd-a31b-cfc2-d61d0ea33fde" />
+                        </node>
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_E.HRC_M_NKD_Head_E_Mesh_LOD2.11" />
+							<attribute id="MapValue" type="FixedString" value="a4e569d9-7b02-a033-fb2a-2ceec3c9892d" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_E.HRC_M_NKD_Head_E_Ears_Mesh_LOD2.12" />
+                            <attribute id="MapValue" type="FixedString" value="a4e569d9-7b02-a033-fb2a-2ceec3c9892d" />
+                        </node>
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_E.HRC_M_NKD_Head_E_Mesh_LOD3.14" />
+							<attribute id="MapValue" type="FixedString" value="a4e569d9-7b02-a033-fb2a-2ceec3c9892d" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_E.HRC_M_NKD_Head_E_Ears_Mesh_LOD3.15" />
+                            <attribute id="MapValue" type="FixedString" value="a4e569d9-7b02-a033-fb2a-2ceec3c9892d" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_E.HRC_M_NKD_Head_E_Mesh_LOD4.16" />
+                            <attribute id="MapValue" type="FixedString" value="090a08ab-09a5-6e66-568e-8bae6a812136" />
+                        </node>
+                            </children>
+                            </node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Head" />
+							<attribute id="VisualResource" type="FixedString" value="6c4cdf4f-49b3-8839-4be4-c61d85b6583b" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Private Parts" />
+							<attribute id="VisualResource" type="FixedString" value="0e396e65-5051-5e4f-390a-430299070142" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="ModestyLeaf" />
+							<attribute id="VisualResource" type="FixedString" value="8e3067c2-aa33-d9a0-8a2e-a74f77253605" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

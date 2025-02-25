@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids" />
+	<region id="TextureBank">
+		<node id="TextureBank">
+			<children>
+				<node id="Resource"> 
+					<attribute id="Name" type="LSString" value="More_Makeup" /> 
+					<attribute id="ID" type="FixedString" value="6fcbf693-5530-4d7e-95f5-c5b4df2e6569" /> 
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/MakeupAndTattoos/More_Makeup.DDS" /> 
+					<attribute id="Format" type="uint32" value="64" /> 
+					<attribute id="Width" type="int32" value="4096" /> 
+					<attribute id="Height" type="int32" value="8192" />				
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="SRGB" type="bool" value="False" /> 
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="" />
+					<attribute id="Type" type="int32" value="1" />
+				</node>	
+				<node id="Resource"> 
+					<attribute id="Name" type="LSString" value="More_Tattoos" /> 
+					<attribute id="ID" type="FixedString" value="f95c2eac-973f-41e7-9947-8ac09bb7eb97" /> 
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/MakeupAndTattoos/More_Tattoos.DDS" /> 
+					<attribute id="Format" type="uint32" value="64" /> 
+					<attribute id="Width" type="int32" value="4096" /> 
+					<attribute id="Height" type="int32" value="8192" />				
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="SRGB" type="bool" value="False" /> 
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="" />
+					<attribute id="Type" type="int32" value="1" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
