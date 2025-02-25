@@ -6967,7 +6967,7 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="57fab18d-00a6-4dae-a14c-340f24611810" />
+							<attribute id="MaterialID" type="FixedString" value="9d087230-74a2-4f4b-83d4-495422b6f663" />
 							<attribute id="ObjectID" type="FixedString" value="ArwenTIF.ArwenTIF_Eyes_Mesh.2" />
 						</node>
 						<node id="Objects">
@@ -7261,7 +7261,7 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="57fab18d-00a6-4dae-a14c-340f24611810" />
+							<attribute id="MaterialID" type="FixedString" value="9d087230-74a2-4f4b-83d4-495422b6f663" />
 							<attribute id="ObjectID" type="FixedString" value="GaladrielTIF.GaladrielTIF_Eyes_Mesh.2" />
 						</node>
 						<node id="Objects">
@@ -7555,7 +7555,7 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="57fab18d-00a6-4dae-a14c-340f24611810" />
+							<attribute id="MaterialID" type="FixedString" value="9d087230-74a2-4f4b-83d4-495422b6f663" />
 							<attribute id="ObjectID" type="FixedString" value="ThranduilTIF.ThranduilTIF_Eyes_Mesh.2" />
 						</node>
 						<node id="Objects">
