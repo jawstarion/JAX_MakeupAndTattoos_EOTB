@@ -431,7 +431,7 @@
 					</children>
 				</node>
 			<!-- Lennath -->
-				<node id="Resource">
+				<node id="Resource"> ELF
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="b55a0184-9506-4367-2401-76f40aa15c75" />
@@ -516,7 +516,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<node id="Resource"> DROW
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="b55a0184-9506-4367-2401-76f40aa15c75" />
@@ -601,7 +601,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<node id="Resource"> HEL
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="b55a0184-9506-4367-2401-76f40aa15c75" />
@@ -686,7 +686,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<node id="Resource"> HUM
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="b55a0184-9506-4367-2401-76f40aa15c75" />
@@ -771,7 +771,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<node id="Resource"> TIF
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="b55a0184-9506-4367-2401-76f40aa15c75" />
@@ -857,7 +857,7 @@
 					</children>
 				</node>
 			<!-- Maya -->
-				<node id="Resource">
+				<node id="Resource"> ELF
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="b55a0184-9506-4367-2401-76f40aa15c75" />
@@ -939,7 +939,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<node id="Resource"> DROW
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="b55a0184-9506-4367-2401-76f40aa15c75" />
@@ -1021,7 +1021,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<node id="Resource"> HEL
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="b55a0184-9506-4367-2401-76f40aa15c75" />
@@ -1103,7 +1103,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<node id="Resource"> HUM
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="b55a0184-9506-4367-2401-76f40aa15c75" />
@@ -1185,7 +1185,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<node id="Resource"> TIF
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="b55a0184-9506-4367-2401-76f40aa15c75" />
@@ -1267,7 +1267,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<node id="Resource"> TIF ALT
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="b55a0184-9506-4367-2401-76f40aa15c75" />
@@ -1350,7 +1350,7 @@
 					</children>
 				</node>
 			<!-- Stitches -->
-				<node id="Resource">
+				<node id="Resource"> ELF
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="26b22e52-2939-874e-8767-d62a8e7a73e6" />
@@ -1440,7 +1440,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<node id="Resource"> DROW
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="26b22e52-2939-874e-8767-d62a8e7a73e6" />
@@ -1530,7 +1530,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<node id="Resource"> HEL
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="26b22e52-2939-874e-8767-d62a8e7a73e6" />
@@ -1620,7 +1620,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<node id="Resource"> HUM
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="26b22e52-2939-874e-8767-d62a8e7a73e6" />
@@ -1710,7 +1710,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<node id="Resource"> TIF
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="26b22e52-2939-874e-8767-d62a8e7a73e6" />
@@ -1800,7 +1800,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<node id="Resource"> ELF B
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="26b22e52-2939-874e-8767-d62a8e7a73e6" />
@@ -1890,7 +1890,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<node id="Resource"> DROW B
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="26b22e52-2939-874e-8767-d62a8e7a73e6" />
@@ -1980,7 +1980,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<node id="Resource"> HEL B
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="26b22e52-2939-874e-8767-d62a8e7a73e6" />
@@ -2070,7 +2070,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<node id="Resource"> HUM B
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="26b22e52-2939-874e-8767-d62a8e7a73e6" />
@@ -2160,7 +2160,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<node id="Resource"> TIF B
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="26b22e52-2939-874e-8767-d62a8e7a73e6" />
@@ -2251,7 +2251,7 @@
 					</children>
 				</node>
 			<!-- Serafina -->
-				<node id="Resource">
+				<node id="Resource"> ELF
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="94bfc1b8-b166-08e4-c1c2-5ce59f3348f9" />
@@ -2336,7 +2336,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<node id="Resource"> DROW
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="94bfc1b8-b166-08e4-c1c2-5ce59f3348f9" />
@@ -2421,7 +2421,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<node id="Resource"> HEL
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="94bfc1b8-b166-08e4-c1c2-5ce59f3348f9" />
@@ -2506,7 +2506,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<node id="Resource"> HUM
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="94bfc1b8-b166-08e4-c1c2-5ce59f3348f9" />
@@ -2591,7 +2591,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<node id="Resource"> TIF
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="94bfc1b8-b166-08e4-c1c2-5ce59f3348f9" />
@@ -2676,7 +2676,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<node id="Resource"> ELF FS
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="bf034764-d800-1601-8a17-8adc661ca616" />
@@ -2764,7 +2764,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<node id="Resource"> DROW FS
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="bf034764-d800-1601-8a17-8adc661ca616" />
@@ -2852,7 +2852,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<node id="Resource"> HEL FS
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="bf034764-d800-1601-8a17-8adc661ca616" />
@@ -2940,7 +2940,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<node id="Resource"> HUM FS
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="bf034764-d800-1601-8a17-8adc661ca616" />
@@ -3028,7 +3028,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<node id="Resource"> TIF FS
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="bf034764-d800-1601-8a17-8adc661ca616" />
@@ -3117,7 +3117,7 @@
 					</children>
 				</node>
 			<!-- Serafina Vampire -->
-				<node id="Resource">
+				<node id="Resource"> ELF
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="94bfc1b8-b166-08e4-c1c2-5ce59f3348f9" />
@@ -3202,7 +3202,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<node id="Resource"> HEL
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="94bfc1b8-b166-08e4-c1c2-5ce59f3348f9" />
@@ -3287,7 +3287,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<node id="Resource"> HUM
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="94bfc1b8-b166-08e4-c1c2-5ce59f3348f9" />
@@ -3372,7 +3372,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<node id="Resource"> TIF
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="94bfc1b8-b166-08e4-c1c2-5ce59f3348f9" />
@@ -3459,7 +3459,7 @@
 				</node>
 			<!-- Servants of the Raven Queen -->
 			<!-- SK F 01 -->
-				<node id="Resource">
+				<node id="Resource"> HEL
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="94bfc1b8-b166-08e4-c1c2-5ce59f3348f9" />
@@ -3542,7 +3542,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<node id="Resource"> HUM
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="94bfc1b8-b166-08e4-c1c2-5ce59f3348f9" />
@@ -3625,7 +3625,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<node id="Resource"> ELF
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="94bfc1b8-b166-08e4-c1c2-5ce59f3348f9" />
@@ -3708,7 +3708,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<node id="Resource"> DROW
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="94bfc1b8-b166-08e4-c1c2-5ce59f3348f9" />
@@ -3791,7 +3791,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<node id="Resource"> HEL ALT
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="94bfc1b8-b166-08e4-c1c2-5ce59f3348f9" />
@@ -3879,7 +3879,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<node id="Resource"> HUM ALT
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="94bfc1b8-b166-08e4-c1c2-5ce59f3348f9" />
@@ -3967,7 +3967,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<node id="Resource"> ELF ALT B
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="94bfc1b8-b166-08e4-c1c2-5ce59f3348f9" />
@@ -4055,7 +4055,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<node id="Resource"> DROW ALT B
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="94bfc1b8-b166-08e4-c1c2-5ce59f3348f9" />
@@ -4143,7 +4143,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<node id="Resource"> HEL ALT
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="94bfc1b8-b166-08e4-c1c2-5ce59f3348f9" />
@@ -4231,7 +4231,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<node id="Resource"> HUM ALT
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="94bfc1b8-b166-08e4-c1c2-5ce59f3348f9" />
@@ -4319,7 +4319,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<node id="Resource"> ELF ALT
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="94bfc1b8-b166-08e4-c1c2-5ce59f3348f9" />
@@ -4407,7 +4407,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<node id="Resource"> DROW ALT
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="94bfc1b8-b166-08e4-c1c2-5ce59f3348f9" />
@@ -4495,7 +4495,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<node id="Resource"> HEL ALT FS
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="94bfc1b8-b166-08e4-c1c2-5ce59f3348f9" />
@@ -4583,7 +4583,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<node id="Resource"> HUM ALT FS
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="94bfc1b8-b166-08e4-c1c2-5ce59f3348f9" />
@@ -4671,7 +4671,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<node id="Resource"> ELF ALT B FS
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="94bfc1b8-b166-08e4-c1c2-5ce59f3348f9" />
@@ -4759,7 +4759,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<node id="Resource"> DROW ALT B FS
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="94bfc1b8-b166-08e4-c1c2-5ce59f3348f9" />
@@ -4847,7 +4847,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<node id="Resource"> HEL ALT FS
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="94bfc1b8-b166-08e4-c1c2-5ce59f3348f9" />
@@ -4935,7 +4935,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<node id="Resource"> HUM ALT
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="94bfc1b8-b166-08e4-c1c2-5ce59f3348f9" />
@@ -5023,7 +5023,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<node id="Resource"> ELF ALT
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="94bfc1b8-b166-08e4-c1c2-5ce59f3348f9" />
@@ -5111,7 +5111,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<node id="Resource"> DROW ALT
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="94bfc1b8-b166-08e4-c1c2-5ce59f3348f9" />
@@ -5199,7 +5199,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<node id="Resource"> HEL FS
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="94bfc1b8-b166-08e4-c1c2-5ce59f3348f9" />
@@ -5282,7 +5282,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<node id="Resource"> HUM FS
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="94bfc1b8-b166-08e4-c1c2-5ce59f3348f9" />
@@ -5365,7 +5365,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<node id="Resource"> ELF FS
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="94bfc1b8-b166-08e4-c1c2-5ce59f3348f9" />
@@ -5448,7 +5448,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<node id="Resource"> DROW FS
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="94bfc1b8-b166-08e4-c1c2-5ce59f3348f9" />
