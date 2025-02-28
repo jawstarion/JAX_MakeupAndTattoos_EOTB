@@ -4,6 +4,7 @@
     <region id="VisualBank">
 		<node id="VisualBank">
 			<children>
+			<!-- Elf Female -->
 				<node id="Resource"> MissandeiELF
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
