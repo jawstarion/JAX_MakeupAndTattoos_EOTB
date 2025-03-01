@@ -1,0 +1,1120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+    <region id="VisualBank">
+		<node id="VisualBank">
+			<children>
+				<node id="Resource"> FRY_F_NKD_Head_A
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="26b22e52-2939-874e-8767-d62a8e7a73e6" />
+					<attribute id="BoundsMax" type="fvec3" value="0.1162777 1.826978 0.095084" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.1162761 1.518022 -0.1155412" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="a985fd72-9ed7-4ac0-b976-4eaf1f41a55f" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="FRY_F_NKD_Head_A" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="55f46c00-a4be-43ae-b3f2-06755618c929" />
+					<attribute id="SkeletonSlot" type="FixedString" value="1" />
+					<attribute id="Slot" type="FixedString" value="Head" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Anims/Fairies/_Female/Resources/FRY_F_NKD_Head_A.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Shared/Assets/Characters/_Anims/Fairies/_Female/Resources/FRY_F_NKD_Head_A.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144396663052566528" />
+					<children>
+						<node id="AnimationSetOverrides">
+							<attribute id="PairElement1" type="guid" value="b6aa23c3-c96d-42d5-8ffa-8d441d18faa7" />
+							<attribute id="PairElement2" type="FixedString" value="f4ead328-66b0-35c8-4c30-319ce28fa36f" />
+							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="d03eccee-71aa-4ceb-b265-67127df6e2eb" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="80a95be9-3904-ddb7-463e-2cf729bd4958" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="808188e8-6305-4627-d6e3-f2ec6cd05f0b" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="6a7868fe-33ab-1650-7cbd-ac8cc512ee79" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="c465d4f0-e0b8-6f59-1515-8ee33a15669e" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="7baff7fd-3eb2-4da3-9e3a-26b50d536d68" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_F_NKD_Head_A.FRY_F_NKD_Head_A_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="f3283bba-6025-dd5e-7a68-36fa639db970" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_F_NKD_Head_A.FRY_F_NKD_Head_A_Mouth_Interior_Mesh.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="9d087230-74a2-4f4b-83d4-495422b6f663" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_F_NKD_Head_A.FRY_F_NKD_Head_A_Eyes_Mesh.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="7baff7fd-3eb2-4da3-9e3a-26b50d536d68" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_F_NKD_Head_A.FRY_F_NKD_Head_A_Ears_Mesh.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="873e5acb-1bc5-28df-7fc9-c9e25cf8bb84" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_F_NKD_Head_A.FRY_F_NKD_Head_A_Tearline_Mesh.4" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="90ba2c8c-ddec-49b5-8918-3eb707e678e6" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_F_NKD_Head_A.FRY_F_NKD_Head_A_Eyelashes_Mesh.5" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="90ba2c8c-ddec-49b5-8918-3eb707e678e6" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_F_NKD_Head_A.FRY_F_NKD_Head_A_Eyeshadow_Mesh.6" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_F_NKD_Head_A.FRY_F_NKD_Head_A_Scalp_Mesh.7" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="fec45f15-7f6c-4f11-aae1-0f13eca1b380" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_F_NKD_Head_A.FRY_F_NKD_Head_A_COPY_Mesh.8" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="9c0e25b2-6b06-44b6-8e34-c303aa37bcec" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_F_NKD_Head_A.FRY_F_NKD_Head_A_COPY_Mesh.9" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource"> FRY_F_NKD_Head_B
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="26b22e52-2939-874e-8767-d62a8e7a73e6" />
+					<attribute id="BoundsMax" type="fvec3" value="0.0966326 1.826979 0.094984" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.09593834 1.518031 -0.1160511" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="fa4098e4-57f6-4823-ac5a-4bfd498ce662" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="FRY_F_NKD_Head_B" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="8ac8b75b-e929-4a61-ad27-276c6659e657" />
+					<attribute id="SkeletonSlot" type="FixedString" value="1" />
+					<attribute id="Slot" type="FixedString" value="Head" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Anims/Fairies/_Female/Resources/FRY_F_NKD_Head_B.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Shared/Assets/Characters/_Anims/Fairies/_Female/Resources/FRY_F_NKD_Head_B.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144396663052566528" />
+					<children>
+						<node id="AnimationSetOverrides">
+							<attribute id="PairElement1" type="guid" value="b6aa23c3-c96d-42d5-8ffa-8d441d18faa7" />
+							<attribute id="PairElement2" type="FixedString" value="f4ead328-66b0-35c8-4c30-319ce28fa36f" />
+							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="d03eccee-71aa-4ceb-b265-67127df6e2eb" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="297963b4-1b67-7300-ff97-c31215db28d9" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="808188e8-6305-4627-d6e3-f2ec6cd05f0b" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="6a7868fe-33ab-1650-7cbd-ac8cc512ee79" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="c465d4f0-e0b8-6f59-1515-8ee33a15669e" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="d6871eae-9be2-43af-b272-f59ef482f862" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_F_NKD_Head_B.FRY_F_NKD_Head_B_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="f3283bba-6025-dd5e-7a68-36fa639db970" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_F_NKD_Head_B.FRY_F_NKD_Head_B_Mouth_Interior_Mesh.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="9d087230-74a2-4f4b-83d4-495422b6f663" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_F_NKD_Head_B.FRY_F_NKD_Head_B_Eyes_Mesh.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="d6871eae-9be2-43af-b272-f59ef482f862" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_F_NKD_Head_B.FRY_F_NKD_Head_B_Ears_Mesh.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="873e5acb-1bc5-28df-7fc9-c9e25cf8bb84" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_F_NKD_Head_B.FRY_F_NKD_Head_B_Tearline_Mesh.4" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="90ba2c8c-ddec-49b5-8918-3eb707e678e6" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_F_NKD_Head_B.FRY_F_NKD_Head_B_Eyelashes_Mesh.5" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="90ba2c8c-ddec-49b5-8918-3eb707e678e6" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_F_NKD_Head_B.FRY_F_NKD_Head_B_Eyeshadow_Mesh.6" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_F_NKD_Head_B.FRY_F_NKD_Head_B_Scalp_Mesh.7" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="fec45f15-7f6c-4f11-aae1-0f13eca1b380" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_F_NKD_Head_B.FRY_F_NKD_Head_B_COPY_Mesh.8" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="9c0e25b2-6b06-44b6-8e34-c303aa37bcec" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_F_NKD_Head_B.FRY_F_NKD_Head_B_COPY_Mesh.9" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource"> FRY_F_NKD_Head_C
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="86c2af56-8ea8-4270-aed8-4b07a7a905be" />
+					<attribute id="BoundsMax" type="fvec3" value="0.08992472 1.827231 0.095084" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.09103195 1.51804 -0.1181804" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="63584ed6-b6d0-4aca-9ac6-eabc7b8c5b04" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="FRY_F_NKD_Head_C" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="4b59635e-00ab-4260-956d-049155aa3fc5" />
+					<attribute id="SkeletonSlot" type="FixedString" value="1" />
+					<attribute id="Slot" type="FixedString" value="Head" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Anims/Fairies/_Female/Resources/FRY_F_NKD_Head_C.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Shared/Assets/Characters/_Anims/Fairies/_Female/Resources/FRY_F_NKD_Head_C.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144396663052566628" />
+					<children>
+						<node id="AnimationSetOverrides">
+							<attribute id="PairElement1" type="guid" value="b6aa23c3-c96d-42d5-8ffa-8d441d18faa7" />
+							<attribute id="PairElement2" type="FixedString" value="f4ead328-66b0-35c8-4c30-319ce28fa36f" />
+							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="d03eccee-71aa-4ceb-b265-67127df6e2eb" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="fb935102-48e5-27cb-bf74-b00fbea56292" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="6a7868fe-33ab-1650-7cbd-ac8cc512ee79" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="c465d4f0-e0b8-6f59-1515-8ee33a15669e" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="1feb0395-dda3-4c38-adce-84301e37d961" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_F_NKD_Head_C.FRY_F_NKD_Head_C_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="f3283bba-6025-dd5e-7a68-36fa639db970" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_F_NKD_Head_C.FRY_F_NKD_Head_C_Mouth_Interior_Mesh.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="9d087230-74a2-4f4b-83d4-495422b6f663" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_F_NKD_Head_C.FRY_F_NKD_Head_C_Eyes_Mesh.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="1feb0395-dda3-4c38-adce-84301e37d961" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_F_NKD_Head_C.FRY_F_NKD_Head_C_Ears_Mesh.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="873e5acb-1bc5-28df-7fc9-c9e25cf8bb84" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_F_NKD_Head_C.FRY_F_NKD_Head_C_Tearline_Mesh.4" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="90ba2c8c-ddec-49b5-8918-3eb707e678e6" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_F_NKD_Head_C.FRY_F_NKD_Head_C_Eyelashes_Mesh.5" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="90ba2c8c-ddec-49b5-8918-3eb707e678e6" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_F_NKD_Head_C.FRY_F_NKD_Head_C_Eyeshadow_Mesh.6" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_F_NKD_Head_C.FRY_F_NKD_Head_C_Scalp_Mesh.7" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="fec45f15-7f6c-4f11-aae1-0f13eca1b380" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_F_NKD_Head_C.FRY_F_NKD_Head_C_COPY_Mesh.8" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="9c0e25b2-6b06-44b6-8e34-c303aa37bcec" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_F_NKD_Head_C.FRY_F_NKD_Head_C_COPY_Mesh.9" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource"> FRY_FS_NKD_Head_A
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="26b22e52-2939-874e-8767-d62a8e7a73e6" />
+					<attribute id="BoundsMax" type="fvec3" value="0.1162777 1.826978 0.095084" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.1162761 1.518022 -0.1155412" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="e8b380fe-e77d-49c3-aadd-b1d16d508799" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="FRY_FS_NKD_Head_A" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="5d908052-388d-409d-adc2-0fa40b0f0a3e" />
+					<attribute id="SkeletonSlot" type="FixedString" value="1" />
+					<attribute id="Slot" type="FixedString" value="Head" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Anims/Fairies/_FemaleSmall/Resources/FRY_FS_NKD_Head_A.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Shared/Assets/Characters/_Anims/Fairies/_FemaleSmall/Resources/FRY_FS_NKD_Head_A.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144396663052566528" />
+					<children>
+						<node id="AnimationSetOverrides">
+							<attribute id="PairElement1" type="guid" value="b6aa23c3-c96d-42d5-8ffa-8d441d18faa7" />
+							<attribute id="PairElement2" type="FixedString" value="f4ead328-66b0-35c8-4c30-319ce28fa36f" />
+							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="d03eccee-71aa-4ceb-b265-67127df6e2eb" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="80a95be9-3904-ddb7-463e-2cf729bd4958" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="808188e8-6305-4627-d6e3-f2ec6cd05f0b" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="6a7868fe-33ab-1650-7cbd-ac8cc512ee79" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="c465d4f0-e0b8-6f59-1515-8ee33a15669e" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="f8c5e3b7-0769-4ca0-80ec-0d9780343e7e" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_FS_NKD_Head_A.FRY_FS_NKD_Head_A_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="f3283bba-6025-dd5e-7a68-36fa639db970" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_FS_NKD_Head_A.FRY_FS_NKD_Head_A_Mouth_Interior_Mesh.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="9d087230-74a2-4f4b-83d4-495422b6f663" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_FS_NKD_Head_A.FRY_FS_NKD_Head_A_Eyes_Mesh.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="f8c5e3b7-0769-4ca0-80ec-0d9780343e7e" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_FS_NKD_Head_A.FRY_FS_NKD_Head_A_Ears_Mesh.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="873e5acb-1bc5-28df-7fc9-c9e25cf8bb84" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_FS_NKD_Head_A.FRY_FS_NKD_Head_A_Tearline_Mesh.4" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="90ba2c8c-ddec-49b5-8918-3eb707e678e6" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_FS_NKD_Head_A.FRY_FS_NKD_Head_A_Eyelashes_Mesh.5" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="90ba2c8c-ddec-49b5-8918-3eb707e678e6" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_FS_NKD_Head_A.FRY_FS_NKD_Head_A_Eyeshadow_Mesh.6" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_FS_NKD_Head_A.FRY_FS_NKD_Head_A_Scalp_Mesh.7" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="fec45f15-7f6c-4f11-aae1-0f13eca1b380" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_FS_NKD_Head_A.FRY_FS_NKD_Head_A_COPY_Mesh.8" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="9c0e25b2-6b06-44b6-8e34-c303aa37bcec" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_FS_NKD_Head_A.FRY_FS_NKD_Head_A_COPY_Mesh.9" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource"> FRY_FS_NKD_Head_B
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="26b22e52-2939-874e-8767-d62a8e7a73e6" />
+					<attribute id="BoundsMax" type="fvec3" value="0.0966326 1.826979 0.094984" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.09593834 1.518031 -0.1160511" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="36168c22-8162-4bc5-9376-60afb83e840a" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="FRY_FS_NKD_Head_B" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="0420375f-cff0-4a87-8fb3-5953a8b7e7c0" />
+					<attribute id="SkeletonSlot" type="FixedString" value="1" />
+					<attribute id="Slot" type="FixedString" value="Head" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Anims/Fairies/_FemaleSmall/Resources/FRY_FS_NKD_Head_B.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Shared/Assets/Characters/_Anims/Fairies/_FemaleSmall/Resources/FRY_FS_NKD_Head_B.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144396663052566528" />
+					<children>
+						<node id="AnimationSetOverrides">
+							<attribute id="PairElement1" type="guid" value="b6aa23c3-c96d-42d5-8ffa-8d441d18faa7" />
+							<attribute id="PairElement2" type="FixedString" value="f4ead328-66b0-35c8-4c30-319ce28fa36f" />
+							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="d03eccee-71aa-4ceb-b265-67127df6e2eb" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="297963b4-1b67-7300-ff97-c31215db28d9" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="808188e8-6305-4627-d6e3-f2ec6cd05f0b" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="6a7868fe-33ab-1650-7cbd-ac8cc512ee79" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="c465d4f0-e0b8-6f59-1515-8ee33a15669e" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="5833d18a-70cc-4254-b487-ae9c9e5eea33" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_FS_NKD_Head_B.FRY_FS_NKD_Head_B_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="f3283bba-6025-dd5e-7a68-36fa639db970" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_FS_NKD_Head_B.FRY_FS_NKD_Head_B_Mouth_Interior_Mesh.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="9d087230-74a2-4f4b-83d4-495422b6f663" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_FS_NKD_Head_B.FRY_FS_NKD_Head_B_Eyes_Mesh.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="5833d18a-70cc-4254-b487-ae9c9e5eea33" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_FS_NKD_Head_B.FRY_FS_NKD_Head_B_Ears_Mesh.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="873e5acb-1bc5-28df-7fc9-c9e25cf8bb84" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_FS_NKD_Head_B.FRY_FS_NKD_Head_B_Tearline_Mesh.4" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="90ba2c8c-ddec-49b5-8918-3eb707e678e6" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_FS_NKD_Head_B.FRY_FS_NKD_Head_B_Eyelashes_Mesh.5" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="90ba2c8c-ddec-49b5-8918-3eb707e678e6" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_FS_NKD_Head_B.FRY_FS_NKD_Head_B_Eyeshadow_Mesh.6" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_FS_NKD_Head_B.FRY_FS_NKD_Head_B_Scalp_Mesh.7" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="fec45f15-7f6c-4f11-aae1-0f13eca1b380" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_FS_NKD_Head_B.FRY_FS_NKD_Head_B_COPY_Mesh.8" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="9c0e25b2-6b06-44b6-8e34-c303aa37bcec" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_FS_NKD_Head_B.FRY_FS_NKD_Head_B_COPY_Mesh.9" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource"> FRY_FS_NKD_Head_C
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="86c2af56-8ea8-4270-aed8-4b07a7a905be" />
+					<attribute id="BoundsMax" type="fvec3" value="0.08992472 1.827231 0.095084" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.09103195 1.51804 -0.1181804" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="47121a05-80eb-42f3-ba11-06d345b8479f" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="FRY_FS_NKD_Head_C" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="83962dd8-8ff5-4b50-a0b1-d00e3e7803aa" />
+					<attribute id="SkeletonSlot" type="FixedString" value="1" />
+					<attribute id="Slot" type="FixedString" value="Head" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Anims/Fairies/_FemaleSmall/Resources/FRY_FS_NKD_Head_C.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Shared/Assets/Characters/_Anims/Fairies/_FemaleSmall/Resources/FRY_FS_NKD_Head_C.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144396663052566628" />
+					<children>
+						<node id="AnimationSetOverrides">
+							<attribute id="PairElement1" type="guid" value="b6aa23c3-c96d-42d5-8ffa-8d441d18faa7" />
+							<attribute id="PairElement2" type="FixedString" value="f4ead328-66b0-35c8-4c30-319ce28fa36f" />
+							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="d03eccee-71aa-4ceb-b265-67127df6e2eb" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="fb935102-48e5-27cb-bf74-b00fbea56292" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="6a7868fe-33ab-1650-7cbd-ac8cc512ee79" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="c465d4f0-e0b8-6f59-1515-8ee33a15669e" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="1c117558-7e2d-49ed-a7d2-45cba57559a8" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_FS_NKD_Head_C.FRY_FS_NKD_Head_C_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="f3283bba-6025-dd5e-7a68-36fa639db970" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_FS_NKD_Head_C.FRY_FS_NKD_Head_C_Mouth_Interior_Mesh.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="9d087230-74a2-4f4b-83d4-495422b6f663" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_FS_NKD_Head_C.FRY_FS_NKD_Head_C_Eyes_Mesh.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="1c117558-7e2d-49ed-a7d2-45cba57559a8" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_FS_NKD_Head_C.FRY_FS_NKD_Head_C_Ears_Mesh.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="873e5acb-1bc5-28df-7fc9-c9e25cf8bb84" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_FS_NKD_Head_C.FRY_FS_NKD_Head_C_Tearline_Mesh.4" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="90ba2c8c-ddec-49b5-8918-3eb707e678e6" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_FS_NKD_Head_C.FRY_FS_NKD_Head_C_Eyelashes_Mesh.5" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="90ba2c8c-ddec-49b5-8918-3eb707e678e6" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_FS_NKD_Head_C.FRY_FS_NKD_Head_C_Eyeshadow_Mesh.6" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_FS_NKD_Head_C.FRY_FS_NKD_Head_C_Scalp_Mesh.7" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="fec45f15-7f6c-4f11-aae1-0f13eca1b380" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_FS_NKD_Head_C.FRY_FS_NKD_Head_C_COPY_Mesh.8" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="9c0e25b2-6b06-44b6-8e34-c303aa37bcec" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_FS_NKD_Head_C.FRY_FS_NKD_Head_C_COPY_Mesh.9" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource"> FRY_M_NKD_Head_A
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="c277276f-3a23-4bc8-9c20-710e14117598" />
+					<attribute id="BoundsMax" type="fvec3" value="0.09227238 1.933398 0.08174011" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.09227238 1.59803 -0.1477359" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="592c3ce7-52dc-4e95-a4af-4c4ea1dc0097" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="FRY_M_NKD_Head_A" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="fe394b21-4cf8-4888-939e-6a6d57d1fd6a" />
+					<attribute id="SkeletonSlot" type="FixedString" value="1" />
+					<attribute id="Slot" type="FixedString" value="Head" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Anims/Fairies/_Male/Resources/FRY_M_NKD_Head_A.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Shared/Assets/Characters/_Anims/Fairies/_Male/Resources/FRY_M_NKD_Head_A.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725665" />
+					<children>
+						<node id="AnimationSetOverrides">
+							<attribute id="PairElement1" type="guid" value="b6aa23c3-c96d-42d5-8ffa-8d441d18faa7" />
+							<attribute id="PairElement2" type="FixedString" value="f4ead328-66b0-35c8-4c30-319ce28fa36f" />
+							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="48453c88-8a91-1704-73ba-6936197a3527" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="c465d4f0-e0b8-6f59-1515-8ee33a15669e" />
+						</node>
+						<node id="Base" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="710eb31a-df28-4c0e-96cf-48dd7f5b96aa" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_M_NKD_Head_A.FRY_M_NKD_Head_A_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="f3283bba-6025-dd5e-7a68-36fa639db970" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_M_NKD_Head_A.FRY_M_NKD_Head_A_Mouth_Interior_Mesh.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="9d087230-74a2-4f4b-83d4-495422b6f663" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_M_NKD_Head_A.FRY_M_NKD_Head_A_Eyes_Mesh.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="710eb31a-df28-4c0e-96cf-48dd7f5b96aa" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_M_NKD_Head_A.FRY_M_NKD_Head_A_Ears_Mesh.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="873e5acb-1bc5-28df-7fc9-c9e25cf8bb84" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_M_NKD_Head_A.FRY_M_NKD_Head_A_Tearline_Mesh.4" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="90ba2c8c-ddec-49b5-8918-3eb707e678e6" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_M_NKD_Head_A.FRY_M_NKD_Head_A_Eyelashes_Mesh.5" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="90ba2c8c-ddec-49b5-8918-3eb707e678e6" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_M_NKD_Head_A.FRY_M_NKD_Head_A_Eyeshadow_Mesh.6" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_M_NKD_Head_A.FRY_M_NKD_Head_A_Scalp_Mesh.7" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="fec45f15-7f6c-4f11-aae1-0f13eca1b380" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_M_NKD_Head_A.FRY_M_NKD_Head_A_COPY1_Mesh.8" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="9c0e25b2-6b06-44b6-8e34-c303aa37bcec" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_M_NKD_Head_A.FRY_M_NKD_Head_A_COPY2_Mesh.9" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource"> FRY_M_NKD_Head_B
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="b97df95a-e271-dd4f-ea7e-b35a185a5522" />
+					<attribute id="BoundsMax" type="fvec3" value="0.09863359 1.933398 0.0817401" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.09863359 1.598026 -0.1607366" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="325cde3d-181f-44c5-9a9b-04c83bf1d336" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="FRY_M_NKD_Head_B" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="5f666752-50f5-4804-afdf-b2c00018edb8" />
+					<attribute id="SkeletonSlot" type="FixedString" value="1" />
+					<attribute id="Slot" type="FixedString" value="Head" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Anims/Fairies/_Male/Resources/FRY_M_NKD_Head_B.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Shared/Assets/Characters/_Anims/Fairies/_Male/Resources/FRY_M_NKD_Head_B.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144396663052566628" />
+					<children>
+						<node id="AnimationSetOverrides">
+							<attribute id="PairElement1" type="guid" value="b6aa23c3-c96d-42d5-8ffa-8d441d18faa7" />
+							<attribute id="PairElement2" type="FixedString" value="f4ead328-66b0-35c8-4c30-319ce28fa36f" />
+							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="7f86ad2f-349a-473b-8fed-7c0a8b8c367b" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="c465d4f0-e0b8-6f59-1515-8ee33a15669e" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="dc2fea90-dece-48a1-87a9-edac526d2857" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_M_NKD_Head_B.FRY_M_NKD_Head_B_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="f3283bba-6025-dd5e-7a68-36fa639db970" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_M_NKD_Head_B.FRY_M_NKD_Head_B_Mouth_Interior_Mesh.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="9d087230-74a2-4f4b-83d4-495422b6f663" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_M_NKD_Head_B.FRY_M_NKD_Head_B_Eyes_Mesh.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="dc2fea90-dece-48a1-87a9-edac526d2857" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_M_NKD_Head_B.FRY_M_NKD_Head_B_Ears_Mesh.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="873e5acb-1bc5-28df-7fc9-c9e25cf8bb84" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_M_NKD_Head_B.FRY_M_NKD_Head_B_Tearline_Mesh.4" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="90ba2c8c-ddec-49b5-8918-3eb707e678e6" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_M_NKD_Head_B.FRY_M_NKD_Head_B_Eyelashes_Mesh.5" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="90ba2c8c-ddec-49b5-8918-3eb707e678e6" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_M_NKD_Head_B.FRY_M_NKD_Head_B_Eyeshadow_Mesh.6" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_M_NKD_Head_B.FRY_M_NKD_Head_B_Scalp_Mesh.7" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="fec45f15-7f6c-4f11-aae1-0f13eca1b380" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_M_NKD_Head_B.FRY_M_NKD_Head_B_COPY1_Mesh.8" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="9c0e25b2-6b06-44b6-8e34-c303aa37bcec" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_M_NKD_Head_B.FRY_M_NKD_Head_B_COPY2_Mesh.9" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource"> FRY_M_NKD_Head_C
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="c277276f-3a23-4bc8-9c20-710e14117598" />
+					<attribute id="BoundsMax" type="fvec3" value="0.09335084 1.933398 0.08174011" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.09353372 1.598034 -0.1579522" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="3b3d57e9-4b2e-444c-8ea1-d7d37c21778c" />
+					<attribute id="MaterialType" type="uint8" value="18" />
+					<attribute id="Name" type="LSString" value="FRY_M_NKD_Head_C" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="dc8dd726-d107-4f4c-9be4-5a0c74eabb08" />
+					<attribute id="SkeletonSlot" type="FixedString" value="1" />
+					<attribute id="Slot" type="FixedString" value="Head" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Anims/Fairies/_Male/Resources/FRY_M_NKD_Head_C.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Shared/Assets/Characters/_Anims/Fairies/_Male/Resources/FRY_M_NKD_Head_C.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209006" />
+					<children>
+						<node id="AnimationSetOverrides">
+							<attribute id="PairElement1" type="guid" value="b6aa23c3-c96d-42d5-8ffa-8d441d18faa7" />
+							<attribute id="PairElement2" type="FixedString" value="f4ead328-66b0-35c8-4c30-319ce28fa36f" />
+							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="fa186b98-cf58-b3cd-9e35-f87f073524ff" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="c465d4f0-e0b8-6f59-1515-8ee33a15669e" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="55e3ce8c-8f09-470d-baf4-663c0a3605f1" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_M_NKD_Head_C.FRY_M_NKD_Head_C_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="f3283bba-6025-dd5e-7a68-36fa639db970" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_M_NKD_Head_C.FRY_M_NKD_Head_C_Mouth_Interior_Mesh.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="9d087230-74a2-4f4b-83d4-495422b6f663" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_M_NKD_Head_C.FRY_M_NKD_Head_C_Eyes_Mesh.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="55e3ce8c-8f09-470d-baf4-663c0a3605f1" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_M_NKD_Head_C.FRY_M_NKD_Head_C_Ears_Mesh.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="873e5acb-1bc5-28df-7fc9-c9e25cf8bb84" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_M_NKD_Head_C.FRY_M_NKD_Head_C_Tearline_Mesh.4" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="90ba2c8c-ddec-49b5-8918-3eb707e678e6" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_M_NKD_Head_C.FRY_M_NKD_Head_C_Eyelashes_Mesh.5" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="90ba2c8c-ddec-49b5-8918-3eb707e678e6" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_M_NKD_Head_C.FRY_M_NKD_Head_C_Eyeshadow_Mesh.6" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_M_NKD_Head_C.FRY_M_NKD_Head_C_Scalp_Mesh.7" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="fec45f15-7f6c-4f11-aae1-0f13eca1b380" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_M_NKD_Head_C.FRY_M_NKD_Head_C_COPY1_Mesh.8" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="9c0e25b2-6b06-44b6-8e34-c303aa37bcec" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_M_NKD_Head_C.FRY_M_NKD_Head_C_COPY2_Mesh.9" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource"> FRY_MS_NKD_Head_A
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="c277276f-3a23-4bc8-9c20-710e14117598" />
+					<attribute id="BoundsMax" type="fvec3" value="0.09227238 1.933398 0.08174011" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.09227238 1.59803 -0.1477359" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="84cd0009-aeff-461e-9d35-ba2c8c75f155" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="FRY_MS_NKD_Head_A" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="70bd3c45-643a-49ab-aec4-6dd3b0dd0a10" />
+					<attribute id="SkeletonSlot" type="FixedString" value="1" />
+					<attribute id="Slot" type="FixedString" value="Head" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Anims/Fairies/_MaleSmall/Resources/FRY_MS_NKD_Head_A.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Shared/Assets/Characters/_Anims/Fairies/_MaleSmall/Resources/FRY_MS_NKD_Head_A.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725665" />
+					<children>
+						<node id="AnimationSetOverrides">
+							<attribute id="PairElement1" type="guid" value="b6aa23c3-c96d-42d5-8ffa-8d441d18faa7" />
+							<attribute id="PairElement2" type="FixedString" value="f4ead328-66b0-35c8-4c30-319ce28fa36f" />
+							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="48453c88-8a91-1704-73ba-6936197a3527" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="c465d4f0-e0b8-6f59-1515-8ee33a15669e" />
+						</node>
+						<node id="Base" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="aae68eca-7614-4450-b9c2-e2f8e2cd6ea5" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_MS_NKD_Head_A.FRY_MS_NKD_Head_A_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="f3283bba-6025-dd5e-7a68-36fa639db970" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_MS_NKD_Head_A.FRY_MS_NKD_Head_A_Mouth_Interior_Mesh.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="9d087230-74a2-4f4b-83d4-495422b6f663" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_MS_NKD_Head_A.FRY_MS_NKD_Head_A_Eyes_Mesh.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="aae68eca-7614-4450-b9c2-e2f8e2cd6ea5" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_MS_NKD_Head_A.FRY_MS_NKD_Head_A_Ears_Mesh.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="873e5acb-1bc5-28df-7fc9-c9e25cf8bb84" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_MS_NKD_Head_A.FRY_MS_NKD_Head_A_Tearline_Mesh.4" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="90ba2c8c-ddec-49b5-8918-3eb707e678e6" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_MS_NKD_Head_A.FRY_MS_NKD_Head_A_Eyelashes_Mesh.5" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="90ba2c8c-ddec-49b5-8918-3eb707e678e6" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_MS_NKD_Head_A.FRY_MS_NKD_Head_A_Eyeshadow_Mesh.6" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_MS_NKD_Head_A.FRY_MS_NKD_Head_A_Scalp_Mesh.7" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="fec45f15-7f6c-4f11-aae1-0f13eca1b380" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_MS_NKD_Head_A.FRY_MS_NKD_Head_A_COPY1_Mesh.8" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="9c0e25b2-6b06-44b6-8e34-c303aa37bcec" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_MS_NKD_Head_A.FRY_MS_NKD_Head_A_COPY2_Mesh.9" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource"> FRY_MS_NKD_Head_B
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="b97df95a-e271-dd4f-ea7e-b35a185a5522" />
+					<attribute id="BoundsMax" type="fvec3" value="0.09863359 1.933398 0.0817401" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.09863359 1.598026 -0.1607366" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="63d24c9b-97f6-421b-89cf-2635e2d89d13" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="FRY_MS_NKD_Head_B" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="61442d75-9a28-49c1-96e8-877b418cb501" />
+					<attribute id="SkeletonSlot" type="FixedString" value="1" />
+					<attribute id="Slot" type="FixedString" value="Head" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Anims/Fairies/_MaleSmall/Resources/FRY_MS_NKD_Head_B.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Shared/Assets/Characters/_Anims/Fairies/_MaleSmall/Resources/FRY_MS_NKD_Head_B.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144396663052566628" />
+					<children>
+						<node id="AnimationSetOverrides">
+							<attribute id="PairElement1" type="guid" value="b6aa23c3-c96d-42d5-8ffa-8d441d18faa7" />
+							<attribute id="PairElement2" type="FixedString" value="f4ead328-66b0-35c8-4c30-319ce28fa36f" />
+							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="7f86ad2f-349a-473b-8fed-7c0a8b8c367b" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="c465d4f0-e0b8-6f59-1515-8ee33a15669e" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="62134122-b6c7-45b3-b520-cb1765d12b5a" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_MS_NKD_Head_B.FRY_MS_NKD_Head_B_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="f3283bba-6025-dd5e-7a68-36fa639db970" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_MS_NKD_Head_B.FRY_MS_NKD_Head_B_Mouth_Interior_Mesh.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="9d087230-74a2-4f4b-83d4-495422b6f663" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_MS_NKD_Head_B.FRY_MS_NKD_Head_B_Eyes_Mesh.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="62134122-b6c7-45b3-b520-cb1765d12b5a" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_MS_NKD_Head_B.FRY_MS_NKD_Head_B_Ears_Mesh.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="873e5acb-1bc5-28df-7fc9-c9e25cf8bb84" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_MS_NKD_Head_B.FRY_MS_NKD_Head_B_Tearline_Mesh.4" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="90ba2c8c-ddec-49b5-8918-3eb707e678e6" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_MS_NKD_Head_B.FRY_MS_NKD_Head_B_Eyelashes_Mesh.5" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="90ba2c8c-ddec-49b5-8918-3eb707e678e6" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_MS_NKD_Head_B.FRY_MS_NKD_Head_B_Eyeshadow_Mesh.6" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_MS_NKD_Head_B.FRY_MS_NKD_Head_B_Scalp_Mesh.7" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="fec45f15-7f6c-4f11-aae1-0f13eca1b380" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_MS_NKD_Head_B.FRY_MS_NKD_Head_B_COPY1_Mesh.8" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="9c0e25b2-6b06-44b6-8e34-c303aa37bcec" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_MS_NKD_Head_B.FRY_MS_NKD_Head_B_COPY2_Mesh.9" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource"> FRY_MS_NKD_Head_C
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="c277276f-3a23-4bc8-9c20-710e14117598" />
+					<attribute id="BoundsMax" type="fvec3" value="0.09335084 1.933398 0.08174011" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.09353372 1.598034 -0.1579522" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="5a1cb333-0d81-4fa7-a2e6-97a21010cfef" />
+					<attribute id="MaterialType" type="uint8" value="18" />
+					<attribute id="Name" type="LSString" value="FRY_MS_NKD_Head_C" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="e99ebed8-c574-4e87-9d74-70ead3f7f717" />
+					<attribute id="SkeletonSlot" type="FixedString" value="1" />
+					<attribute id="Slot" type="FixedString" value="Head" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Anims/Fairies/_MaleSmall/Resources/FRY_MS_NKD_Head_C.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Shared/Assets/Characters/_Anims/Fairies/_MaleSmall/Resources/FRY_MS_NKD_Head_C.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209006" />
+					<children>
+						<node id="AnimationSetOverrides">
+							<attribute id="PairElement1" type="guid" value="b6aa23c3-c96d-42d5-8ffa-8d441d18faa7" />
+							<attribute id="PairElement2" type="FixedString" value="f4ead328-66b0-35c8-4c30-319ce28fa36f" />
+							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="fa186b98-cf58-b3cd-9e35-f87f073524ff" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="c465d4f0-e0b8-6f59-1515-8ee33a15669e" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="27bf6351-bacb-4b2f-8692-b47d5f32de03" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_MS_NKD_Head_C.FRY_MS_NKD_Head_C_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="f3283bba-6025-dd5e-7a68-36fa639db970" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_MS_NKD_Head_C.FRY_MS_NKD_Head_C_Mouth_Interior_Mesh.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="9d087230-74a2-4f4b-83d4-495422b6f663" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_MS_NKD_Head_C.FRY_MS_NKD_Head_C_Eyes_Mesh.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="27bf6351-bacb-4b2f-8692-b47d5f32de03" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_MS_NKD_Head_C.FRY_MS_NKD_Head_C_Ears_Mesh.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="873e5acb-1bc5-28df-7fc9-c9e25cf8bb84" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_MS_NKD_Head_C.FRY_MS_NKD_Head_C_Tearline_Mesh.4" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="90ba2c8c-ddec-49b5-8918-3eb707e678e6" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_MS_NKD_Head_C.FRY_MS_NKD_Head_C_Eyelashes_Mesh.5" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="90ba2c8c-ddec-49b5-8918-3eb707e678e6" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_MS_NKD_Head_C.FRY_MS_NKD_Head_C_Eyeshadow_Mesh.6" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_MS_NKD_Head_C.FRY_MS_NKD_Head_C_Scalp_Mesh.7" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="fec45f15-7f6c-4f11-aae1-0f13eca1b380" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_MS_NKD_Head_C.FRY_MS_NKD_Head_C_COPY1_Mesh.8" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="9c0e25b2-6b06-44b6-8e34-c303aa37bcec" />
+							<attribute id="ObjectID" type="FixedString" value="FRY_MS_NKD_Head_C.FRY_MS_NKD_Head_C_COPY2_Mesh.9" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
