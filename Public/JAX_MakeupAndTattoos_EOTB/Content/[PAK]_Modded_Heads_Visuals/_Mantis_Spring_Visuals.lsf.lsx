@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+	<region id="VisualBank">
+		<node id="VisualBank">
+		    <children>
+				<!-- Lapine -->
+					<node id="Resource">
+						<attribute id="AttachBone" type="FixedString" value="" />
+						<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+						<attribute id="BlueprintInstanceResourceID" type="FixedString" value="94bfc1b8-b166-08e4-c1c2-5ce59f3348f9" />
+						<attribute id="BoundsMax" type="fvec3" value="0.1185938 1.827231 0.095084" />
+						<attribute id="BoundsMin" type="fvec3" value="-0.1185931 1.518031 -0.1171905" />
+						<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+						<attribute id="HairPresetResourceId" type="FixedString" value="" />
+						<attribute id="HairType" type="uint8" value="0" />
+						<attribute id="ID" type="FixedString" value="55fa2de9-1aac-4109-ac6b-ade7310fe371" />
+						<attribute id="MaterialType" type="uint8" value="18" />
+						<attribute id="Name" type="LSString" value="LapineELF.GR2" />
+						<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+						<attribute id="ScalpMaterialId" type="FixedString" value="" />
+						<attribute id="SkeletonResource" type="FixedString" value="e083a5a8-5b67-4b5e-9b09-fd0499ba151e" />
+						<attribute id="SkeletonSlot" type="FixedString" value="1" />
+						<attribute id="Slot" type="FixedString" value="Head" />
+						<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+						<attribute id="SourceFile" type="LSString" value="Generated/LAPINE/LapineELF.GR2" />
+						<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+						<attribute id="Template" type="FixedString" value="Generated/LAPINE/LapineELF.Dummy_Root.0" />
+						<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725665" />
+						<children>
+							<node id="AnimationSetOverrides">
+								<attribute id="PairElement1" type="guid" value="b6aa23c3-c96d-42d5-fa8f-448d181da7fa" />
+								<attribute id="PairElement2" type="FixedString" value="f4ead328-66b0-35c8-4c30-319ce28fa36f" />
+								<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+							</node>
+							<node id="AnimationWaterfall">
+								<attribute id="Object" type="FixedString" value="6b8353a4-c974-f5da-351f-e6fc383cba6f" />
+							</node>
+							<node id="AnimationWaterfall">
+								<attribute id="Object" type="FixedString" value="866afd96-0f2e-59d3-ec9f-270d56d4fd4e" />
+							</node>
+							<node id="AnimationWaterfall">
+								<attribute id="Object" type="FixedString" value="6a7868fe-33ab-1650-7cbd-ac8cc512ee79" />
+							</node>
+							<node id="AnimationWaterfall">
+								<attribute id="Object" type="FixedString" value="c465d4f0-e0b8-6f59-1515-8ee33a15669e" />
+							</node>
+							<node id="Base" />
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="0" />
+								<attribute id="MaterialID" type="FixedString" value="4bff2b45-b222-4a54-b4c9-02e95c668849" />
+								<attribute id="ObjectID" type="FixedString" value="ELF_Foxglove.ELF_Foxglove_Mesh.0" />
+							</node>
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="0" />
+								<attribute id="MaterialID" type="FixedString" value="f3283bba-6025-dd5e-7a68-36fa639db970" />
+								<attribute id="ObjectID" type="FixedString" value="ELF_Foxglove.ELF_Foxglove_Mouth_Interior_Mesh.1" />
+							</node>
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="0" />
+								<attribute id="MaterialID" type="FixedString" value="9d087230-74a2-4f4b-83d4-495422b6f663" />
+								<attribute id="ObjectID" type="FixedString" value="ELF_Foxglove.ELF_Foxglove_Eyes_Mesh.2" />
+							</node>
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="0" />
+								<attribute id="MaterialID" type="FixedString" value="4bff2b45-b222-4a54-b4c9-02e95c668849" />
+								<attribute id="ObjectID" type="FixedString" value="ELF_Foxglove.ELF_Foxglove_Ears_Mesh.3" />
+							</node>
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="0" />
+								<attribute id="MaterialID" type="FixedString" value="873e5acb-1bc5-28df-7fc9-c9e25cf8bb84" />
+								<attribute id="ObjectID" type="FixedString" value="ELF_Foxglove.ELF_Foxglove_Tearline_Mesh.4" />
+							</node>
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="0" />
+								<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
+								<attribute id="ObjectID" type="FixedString" value="ELF_Foxglove.ELF_Foxglove_Eyelashes_Mesh.5" />
+							</node>
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="0" />
+								<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
+								<attribute id="ObjectID" type="FixedString" value="ELF_Foxglove.ELF_Foxglove_Eyeshadow_Mesh.6" />
+							</node>
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="0" />
+								<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
+								<attribute id="ObjectID" type="FixedString" value="ELF_Foxglove.ELF_Foxglove_Scalp_Mesh.7" />
+							</node>
+						</children>
+					</node>
+					<node id="Resource">
+						<attribute id="AttachBone" type="FixedString" value="" />
+						<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+						<attribute id="BlueprintInstanceResourceID" type="FixedString" value="94bfc1b8-b166-08e4-c1c2-5ce59f3348f9" />
+						<attribute id="BoundsMax" type="fvec3" value="0.1185938 1.827231 0.095084" />
+						<attribute id="BoundsMin" type="fvec3" value="-0.1185931 1.518031 -0.1171905" />
+						<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+						<attribute id="HairPresetResourceId" type="FixedString" value="" />
+						<attribute id="HairType" type="uint8" value="0" />
+						<attribute id="ID" type="FixedString" value="91aa0946-9420-4597-b7a9-ece4ef2fd066" />
+						<attribute id="MaterialType" type="uint8" value="18" />
+						<attribute id="Name" type="LSString" value="LapineHELF.GR2" />
+						<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+						<attribute id="ScalpMaterialId" type="FixedString" value="" />
+						<attribute id="SkeletonResource" type="FixedString" value="30d8a90f-edf7-44cd-b771-2ce14dee403d" />
+						<attribute id="SkeletonSlot" type="FixedString" value="1" />
+						<attribute id="Slot" type="FixedString" value="Head" />
+						<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+						<attribute id="SourceFile" type="LSString" value="Generated/LAPINE/LapineHELF.GR2" />
+						<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+						<attribute id="Template" type="FixedString" value="Generated/LAPINE/LapineHELF.Dummy_Root.0" />
+						<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725665" />
+						<children>
+							<node id="AnimationSetOverrides">
+								<attribute id="PairElement1" type="guid" value="b6aa23c3-c96d-42d5-fa8f-448d181da7fa" />
+								<attribute id="PairElement2" type="FixedString" value="f4ead328-66b0-35c8-4c30-319ce28fa36f" />
+								<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+							</node>
+							<node id="AnimationWaterfall">
+								<attribute id="Object" type="FixedString" value="6b8353a4-c974-f5da-351f-e6fc383cba6f" />
+							</node>
+							<node id="AnimationWaterfall">
+								<attribute id="Object" type="FixedString" value="866afd96-0f2e-59d3-ec9f-270d56d4fd4e" />
+							</node>
+							<node id="AnimationWaterfall">
+								<attribute id="Object" type="FixedString" value="6a7868fe-33ab-1650-7cbd-ac8cc512ee79" />
+							</node>
+							<node id="AnimationWaterfall">
+								<attribute id="Object" type="FixedString" value="c465d4f0-e0b8-6f59-1515-8ee33a15669e" />
+							</node>
+							<node id="Base" />
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="0" />
+								<attribute id="MaterialID" type="FixedString" value="5e291d02-97ef-473e-bea1-0e0761f7e80c" />
+								<attribute id="ObjectID" type="FixedString" value="ELF_Foxglove.ELF_Foxglove_Mesh.0" />
+							</node>
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="0" />
+								<attribute id="MaterialID" type="FixedString" value="f3283bba-6025-dd5e-7a68-36fa639db970" />
+								<attribute id="ObjectID" type="FixedString" value="ELF_Foxglove.ELF_Foxglove_Mouth_Interior_Mesh.1" />
+							</node>
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="0" />
+								<attribute id="MaterialID" type="FixedString" value="9d087230-74a2-4f4b-83d4-495422b6f663" />
+								<attribute id="ObjectID" type="FixedString" value="ELF_Foxglove.ELF_Foxglove_Eyes_Mesh.2" />
+							</node>
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="0" />
+								<attribute id="MaterialID" type="FixedString" value="5e291d02-97ef-473e-bea1-0e0761f7e80c" />
+								<attribute id="ObjectID" type="FixedString" value="ELF_Foxglove.ELF_Foxglove_Ears_Mesh.3" />
+							</node>
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="0" />
+								<attribute id="MaterialID" type="FixedString" value="873e5acb-1bc5-28df-7fc9-c9e25cf8bb84" />
+								<attribute id="ObjectID" type="FixedString" value="ELF_Foxglove.ELF_Foxglove_Tearline_Mesh.4" />
+							</node>
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="0" />
+								<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
+								<attribute id="ObjectID" type="FixedString" value="ELF_Foxglove.ELF_Foxglove_Eyelashes_Mesh.5" />
+							</node>
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="0" />
+								<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
+								<attribute id="ObjectID" type="FixedString" value="ELF_Foxglove.ELF_Foxglove_Eyeshadow_Mesh.6" />
+							</node>
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="0" />
+								<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
+								<attribute id="ObjectID" type="FixedString" value="ELF_Foxglove.ELF_Foxglove_Scalp_Mesh.7" />
+							</node>
+						</children>
+					</node>
+				<!-- Lune -->
+					<node id="Resource">
+						<attribute id="AttachBone" type="FixedString" value="" />
+						<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+						<attribute id="BlueprintInstanceResourceID" type="FixedString" value="94bfc1b8-b166-08e4-c1c2-5ce59f3348f9" />
+						<attribute id="BoundsMax" type="fvec3" value="0.1185938 1.827231 0.095084" />
+						<attribute id="BoundsMin" type="fvec3" value="-0.1185931 1.518031 -0.1171905" />
+						<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+						<attribute id="HairPresetResourceId" type="FixedString" value="" />
+						<attribute id="HairType" type="uint8" value="0" />
+						<attribute id="ID" type="FixedString" value="94964079-e35a-469b-8d9d-3ff2c447a62b" />
+						<attribute id="MaterialType" type="uint8" value="18" />
+						<attribute id="Name" type="LSString" value="LuneELF.GR2" />
+						<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+						<attribute id="ScalpMaterialId" type="FixedString" value="" />
+						<attribute id="SkeletonResource" type="FixedString" value="543ab1ab-d8d9-4ff9-b0b2-63b7df80f9b4" />
+						<attribute id="SkeletonSlot" type="FixedString" value="1" />
+						<attribute id="Slot" type="FixedString" value="Head" />
+						<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+						<attribute id="SourceFile" type="LSString" value="Generated/LUNE/LuneELF.GR2" />
+						<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+						<attribute id="Template" type="FixedString" value="Generated/LUNE/LuneELF.Dummy_Root.0" />
+						<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725665" />
+						<children>
+							<node id="AnimationSetOverrides">
+								<attribute id="PairElement1" type="guid" value="b6aa23c3-c96d-42d5-fa8f-448d181da7fa" />
+								<attribute id="PairElement2" type="FixedString" value="f4ead328-66b0-35c8-4c30-319ce28fa36f" />
+								<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+							</node>
+							<node id="AnimationWaterfall">
+								<attribute id="Object" type="FixedString" value="6b8353a4-c974-f5da-351f-e6fc383cba6f" />
+							</node>
+							<node id="AnimationWaterfall">
+								<attribute id="Object" type="FixedString" value="866afd96-0f2e-59d3-ec9f-270d56d4fd4e" />
+							</node>
+							<node id="AnimationWaterfall">
+								<attribute id="Object" type="FixedString" value="6a7868fe-33ab-1650-7cbd-ac8cc512ee79" />
+							</node>
+							<node id="AnimationWaterfall">
+								<attribute id="Object" type="FixedString" value="c465d4f0-e0b8-6f59-1515-8ee33a15669e" />
+							</node>
+							<node id="Base" />
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="0" />
+								<attribute id="MaterialID" type="FixedString" value="6ddc53d2-5c9b-4d67-a663-8d9ca011c8d4" />
+								<attribute id="ObjectID" type="FixedString" value="ELF_Foxglove.ELF_Foxglove_Mesh.0" />
+							</node>
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="0" />
+								<attribute id="MaterialID" type="FixedString" value="f3283bba-6025-dd5e-7a68-36fa639db970" />
+								<attribute id="ObjectID" type="FixedString" value="ELF_Foxglove.ELF_Foxglove_Mouth_Interior_Mesh.1" />
+							</node>
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="0" />
+								<attribute id="MaterialID" type="FixedString" value="9d087230-74a2-4f4b-83d4-495422b6f663" />
+								<attribute id="ObjectID" type="FixedString" value="ELF_Foxglove.ELF_Foxglove_Eyes_Mesh.2" />
+							</node>
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="0" />
+								<attribute id="MaterialID" type="FixedString" value="6ddc53d2-5c9b-4d67-a663-8d9ca011c8d4" />
+								<attribute id="ObjectID" type="FixedString" value="ELF_Foxglove.ELF_Foxglove_Ears_Mesh.3" />
+							</node>
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="0" />
+								<attribute id="MaterialID" type="FixedString" value="873e5acb-1bc5-28df-7fc9-c9e25cf8bb84" />
+								<attribute id="ObjectID" type="FixedString" value="ELF_Foxglove.ELF_Foxglove_Tearline_Mesh.4" />
+							</node>
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="0" />
+								<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
+								<attribute id="ObjectID" type="FixedString" value="ELF_Foxglove.ELF_Foxglove_Eyelashes_Mesh.5" />
+							</node>
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="0" />
+								<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
+								<attribute id="ObjectID" type="FixedString" value="ELF_Foxglove.ELF_Foxglove_Eyeshadow_Mesh.6" />
+							</node>
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="0" />
+								<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
+								<attribute id="ObjectID" type="FixedString" value="ELF_Foxglove.ELF_Foxglove_Scalp_Mesh.7" />
+							</node>
+						</children>
+					</node>
+					<node id="Resource">
+						<attribute id="AttachBone" type="FixedString" value="" />
+						<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+						<attribute id="BlueprintInstanceResourceID" type="FixedString" value="b55a0184-9506-4367-2401-76f40aa15c75" />
+						<attribute id="BoundsMax" type="fvec3" value="0.09813429 1.827186 0.095084" />
+						<attribute id="BoundsMin" type="fvec3" value="-0.09813479 1.51823 -0.1118483" />
+						<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+						<attribute id="HairPresetResourceId" type="FixedString" value="" />
+						<attribute id="HairType" type="uint8" value="0" />
+						<attribute id="ID" type="FixedString" value="44b1fd47-5647-4345-96ce-2520f1c7a0e3" />
+						<attribute id="MaterialType" type="uint8" value="0" />
+						<attribute id="Name" type="LSString" value="LuneTIF.GR2" />
+						<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+						<attribute id="ScalpMaterialId" type="FixedString" value="" />
+						<attribute id="SkeletonResource" type="FixedString" value="6a930cf5-f779-45c6-9dec-1c237bf83e62" />
+						<attribute id="SkeletonSlot" type="FixedString" value="1" />
+						<attribute id="Slot" type="FixedString" value="Head" />
+						<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+						<attribute id="SourceFile" type="LSString" value="Generated/LUNE/LuneTIF.GR2" />
+						<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+						<attribute id="Template" type="FixedString" value="Generated/LUNE/LuneTIF.Dummy_Root.0" />
+						<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725665" />
+						<children>
+							<node id="AnimationSetOverrides">
+								<attribute id="PairElement1" type="guid" value="b6aa23c3-c96d-42d5-fa8f-448d181da7fa" />
+								<attribute id="PairElement2" type="FixedString" value="f4ead328-66b0-35c8-4c30-319ce28fa36f" />
+								<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+							</node>
+							<node id="AnimationWaterfall">
+								<attribute id="Object" type="FixedString" value="3a27e50d-53c0-ea5e-66a0-8af40098d287" />
+							</node>
+							<node id="AnimationWaterfall">
+								<attribute id="Object" type="FixedString" value="3432a2ac-69ad-9a75-a624-4d00dd12b62f" />
+							</node>
+							<node id="AnimationWaterfall">
+								<attribute id="Object" type="FixedString" value="6a7868fe-33ab-1650-7cbd-ac8cc512ee79" />
+							</node>
+							<node id="AnimationWaterfall">
+								<attribute id="Object" type="FixedString" value="c465d4f0-e0b8-6f59-1515-8ee33a15669e" />
+							</node>
+							<node id="Base" />
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="0" />
+								<attribute id="MaterialID" type="FixedString" value="f1a26267-c0c3-401d-a06e-b8f3d9baf9d9" />
+								<attribute id="ObjectID" type="FixedString" value="TIF_Foxglove.TIF_Foxglove_Mesh.0" />
+							</node>
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="0" />
+								<attribute id="MaterialID" type="FixedString" value="f3283bba-6025-dd5e-7a68-36fa639db970" />
+								<attribute id="ObjectID" type="FixedString" value="TIF_Foxglove.TIF_Foxglove_Mouth_Interior_Fangs_Mesh.1" />
+							</node>
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="0" />
+								<attribute id="MaterialID" type="FixedString" value="9d087230-74a2-4f4b-83d4-495422b6f663" />
+								<attribute id="ObjectID" type="FixedString" value="TIF_Foxglove.TIF_Foxglove_Eyes_Mesh.2" />
+							</node>
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="0" />
+								<attribute id="MaterialID" type="FixedString" value="f1a26267-c0c3-401d-a06e-b8f3d9baf9d9" />
+								<attribute id="ObjectID" type="FixedString" value="TIF_Foxglove.TIF_Foxglove_Ears_Mesh.3" />
+							</node>
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="0" />
+								<attribute id="MaterialID" type="FixedString" value="873e5acb-1bc5-28df-7fc9-c9e25cf8bb84" />
+								<attribute id="ObjectID" type="FixedString" value="TIF_Foxglove.TIF_Foxglove_Tearline_Mesh.4" />
+							</node>
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="0" />
+								<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
+								<attribute id="ObjectID" type="FixedString" value="TIF_Foxglove.TIF_Foxglove_Eyelashes_Mesh.5" />
+							</node>
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="0" />
+								<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
+								<attribute id="ObjectID" type="FixedString" value="TIF_Foxglove.TIF_Foxglove_Eyeshadow_Mesh.6" />
+							</node>
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="0" />
+								<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
+								<attribute id="ObjectID" type="FixedString" value="TIF_Foxglove.TIF_Foxglove_Scalp_Mesh.7" />
+							</node>
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="1" />
+								<attribute id="MaterialID" type="FixedString" value="04a8a736-a0f0-bd41-417b-a6e427946ed4" />
+								<attribute id="ObjectID" type="FixedString" value="TIF_Foxglove.TIF_Foxglove_Mesh_LOD1.8" />
+							</node>
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="1" />
+								<attribute id="MaterialID" type="FixedString" value="04a8a736-a0f0-bd41-417b-a6e427946ed4" />
+								<attribute id="ObjectID" type="FixedString" value="TIF_Foxglove.TIF_Foxglove_Ears_Mesh_LOD1.9" />
+							</node>
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="1" />
+								<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
+								<attribute id="ObjectID" type="FixedString" value="TIF_Foxglove.TIF_Foxglove_Scalp_Mesh_LOD1.10" />
+							</node>
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="2" />
+								<attribute id="MaterialID" type="FixedString" value="ae22bc6c-be40-b119-d763-b046b37e1a1f" />
+								<attribute id="ObjectID" type="FixedString" value="TIF_Foxglove.TIF_Foxglove_Mesh_LOD2.11" />
+							</node>
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="2" />
+								<attribute id="MaterialID" type="FixedString" value="ae22bc6c-be40-b119-d763-b046b37e1a1f" />
+								<attribute id="ObjectID" type="FixedString" value="TIF_Foxglove.TIF_Foxglove_Ears_Mesh_LOD2.12" />
+							</node>
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="2" />
+								<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
+								<attribute id="ObjectID" type="FixedString" value="TIF_Foxglove.TIF_Foxglove_Scalp_Mesh_LOD2.13" />
+							</node>
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="3" />
+								<attribute id="MaterialID" type="FixedString" value="ae22bc6c-be40-b119-d763-b046b37e1a1f" />
+								<attribute id="ObjectID" type="FixedString" value="TIF_Foxglove.TIF_Foxglove_Mesh_LOD3.14" />
+							</node>
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="3" />
+								<attribute id="MaterialID" type="FixedString" value="ae22bc6c-be40-b119-d763-b046b37e1a1f" />
+								<attribute id="ObjectID" type="FixedString" value="TIF_Foxglove.TIF_Foxglove_Ears_Mesh_LOD3.15" />
+							</node>
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="4" />
+								<attribute id="MaterialID" type="FixedString" value="12d3181c-a1ba-5753-96aa-f74228851da1" />
+								<attribute id="ObjectID" type="FixedString" value="TIF_Foxglove.TIF_Foxglove_Mesh_LOD4.16" />
+							</node>
+						</children>
+					</node>
+				<!-- Soleil -->
+					<node id="Resource">
+						<attribute id="AttachBone" type="FixedString" value="" />
+						<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+						<attribute id="BlueprintInstanceResourceID" type="FixedString" value="94bfc1b8-b166-08e4-c1c2-5ce59f3348f9" />
+						<attribute id="BoundsMax" type="fvec3" value="0.1185938 1.827231 0.095084" />
+						<attribute id="BoundsMin" type="fvec3" value="-0.1185931 1.518031 -0.1171905" />
+						<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+						<attribute id="HairPresetResourceId" type="FixedString" value="" />
+						<attribute id="HairType" type="uint8" value="0" />
+						<attribute id="ID" type="FixedString" value="22da881f-ac07-4c68-90b5-f421be5deaa7" />
+						<attribute id="MaterialType" type="uint8" value="18" />
+						<attribute id="Name" type="LSString" value="SoleilELF.GR2" />
+						<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+						<attribute id="ScalpMaterialId" type="FixedString" value="" />
+						<attribute id="SkeletonResource" type="FixedString" value="44b45bb5-4cef-43ac-8870-623d2601d268" />
+						<attribute id="SkeletonSlot" type="FixedString" value="1" />
+						<attribute id="Slot" type="FixedString" value="Head" />
+						<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+						<attribute id="SourceFile" type="LSString" value="Generated/SOLEIL/SoleilELF.GR2" />
+						<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+						<attribute id="Template" type="FixedString" value="Generated/SOLEIL/SoleilELF.Dummy_Root.0" />
+						<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725665" />
+						<children>
+							<node id="AnimationSetOverrides">
+								<attribute id="PairElement1" type="guid" value="b6aa23c3-c96d-42d5-fa8f-448d181da7fa" />
+								<attribute id="PairElement2" type="FixedString" value="f4ead328-66b0-35c8-4c30-319ce28fa36f" />
+								<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+							</node>
+							<node id="AnimationWaterfall">
+								<attribute id="Object" type="FixedString" value="6b8353a4-c974-f5da-351f-e6fc383cba6f" />
+							</node>
+							<node id="AnimationWaterfall">
+								<attribute id="Object" type="FixedString" value="866afd96-0f2e-59d3-ec9f-270d56d4fd4e" />
+							</node>
+							<node id="AnimationWaterfall">
+								<attribute id="Object" type="FixedString" value="6a7868fe-33ab-1650-7cbd-ac8cc512ee79" />
+							</node>
+							<node id="AnimationWaterfall">
+								<attribute id="Object" type="FixedString" value="c465d4f0-e0b8-6f59-1515-8ee33a15669e" />
+							</node>
+							<node id="Base" />
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="0" />
+								<attribute id="MaterialID" type="FixedString" value="2ca95655-8da3-4c28-9acf-7c9cf5308697" />
+								<attribute id="ObjectID" type="FixedString" value="ELF_Foxglove.ELF_Foxglove_Mesh.0" />
+							</node>
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="0" />
+								<attribute id="MaterialID" type="FixedString" value="f3283bba-6025-dd5e-7a68-36fa639db970" />
+								<attribute id="ObjectID" type="FixedString" value="ELF_Foxglove.ELF_Foxglove_Mouth_Interior_Mesh.1" />
+							</node>
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="0" />
+								<attribute id="MaterialID" type="FixedString" value="9d087230-74a2-4f4b-83d4-495422b6f663" />
+								<attribute id="ObjectID" type="FixedString" value="ELF_Foxglove.ELF_Foxglove_Eyes_Mesh.2" />
+							</node>
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="0" />
+								<attribute id="MaterialID" type="FixedString" value="2ca95655-8da3-4c28-9acf-7c9cf5308697" />
+								<attribute id="ObjectID" type="FixedString" value="ELF_Foxglove.ELF_Foxglove_Ears_Mesh.3" />
+							</node>
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="0" />
+								<attribute id="MaterialID" type="FixedString" value="873e5acb-1bc5-28df-7fc9-c9e25cf8bb84" />
+								<attribute id="ObjectID" type="FixedString" value="ELF_Foxglove.ELF_Foxglove_Tearline_Mesh.4" />
+							</node>
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="0" />
+								<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
+								<attribute id="ObjectID" type="FixedString" value="ELF_Foxglove.ELF_Foxglove_Eyelashes_Mesh.5" />
+							</node>
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="0" />
+								<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
+								<attribute id="ObjectID" type="FixedString" value="ELF_Foxglove.ELF_Foxglove_Eyeshadow_Mesh.6" />
+							</node>
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="0" />
+								<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
+								<attribute id="ObjectID" type="FixedString" value="ELF_Foxglove.ELF_Foxglove_Scalp_Mesh.7" />
+							</node>
+						</children>
+					</node>
+					<node id="Resource">
+						<attribute id="AttachBone" type="FixedString" value="" />
+						<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+						<attribute id="BlueprintInstanceResourceID" type="FixedString" value="b55a0184-9506-4367-2401-76f40aa15c75" />
+						<attribute id="BoundsMax" type="fvec3" value="0.09813429 1.827186 0.095084" />
+						<attribute id="BoundsMin" type="fvec3" value="-0.09813479 1.51823 -0.1118483" />
+						<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+						<attribute id="HairPresetResourceId" type="FixedString" value="" />
+						<attribute id="HairType" type="uint8" value="0" />
+						<attribute id="ID" type="FixedString" value="5c8ad869-8a53-4275-86de-6cb0cc371f26" />
+						<attribute id="MaterialType" type="uint8" value="0" />
+						<attribute id="Name" type="LSString" value="SoleilTIF.GR2" />
+						<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+						<attribute id="ScalpMaterialId" type="FixedString" value="" />
+						<attribute id="SkeletonResource" type="FixedString" value="e9e1697e-983d-4a62-aa66-e596e6b0d995" />
+						<attribute id="SkeletonSlot" type="FixedString" value="1" />
+						<attribute id="Slot" type="FixedString" value="Head" />
+						<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+						<attribute id="SourceFile" type="LSString" value="Generated/SOLEIL/SoleilTIF.GR2" />
+						<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+						<attribute id="Template" type="FixedString" value="Generated/SOLEIL/SoleilTIF.Dummy_Root.0" />
+						<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725665" />
+						<children>
+							<node id="AnimationSetOverrides">
+								<attribute id="PairElement1" type="guid" value="b6aa23c3-c96d-42d5-fa8f-448d181da7fa" />
+								<attribute id="PairElement2" type="FixedString" value="f4ead328-66b0-35c8-4c30-319ce28fa36f" />
+								<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+							</node>
+							<node id="AnimationWaterfall">
+								<attribute id="Object" type="FixedString" value="3a27e50d-53c0-ea5e-66a0-8af40098d287" />
+							</node>
+							<node id="AnimationWaterfall">
+								<attribute id="Object" type="FixedString" value="3432a2ac-69ad-9a75-a624-4d00dd12b62f" />
+							</node>
+							<node id="AnimationWaterfall">
+								<attribute id="Object" type="FixedString" value="6a7868fe-33ab-1650-7cbd-ac8cc512ee79" />
+							</node>
+							<node id="AnimationWaterfall">
+								<attribute id="Object" type="FixedString" value="c465d4f0-e0b8-6f59-1515-8ee33a15669e" />
+							</node>
+							<node id="Base" />
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="0" />
+								<attribute id="MaterialID" type="FixedString" value="8040d610-992f-4617-87f5-7a6a46af4766" />
+								<attribute id="ObjectID" type="FixedString" value="TIF_Foxglove.TIF_Foxglove_Mesh.0" />
+							</node>
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="0" />
+								<attribute id="MaterialID" type="FixedString" value="f3283bba-6025-dd5e-7a68-36fa639db970" />
+								<attribute id="ObjectID" type="FixedString" value="TIF_Foxglove.TIF_Foxglove_Mouth_Interior_Fangs_Mesh.1" />
+							</node>
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="0" />
+								<attribute id="MaterialID" type="FixedString" value="9d087230-74a2-4f4b-83d4-495422b6f663" />
+								<attribute id="ObjectID" type="FixedString" value="TIF_Foxglove.TIF_Foxglove_Eyes_Mesh.2" />
+							</node>
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="0" />
+								<attribute id="MaterialID" type="FixedString" value="8040d610-992f-4617-87f5-7a6a46af4766" />
+								<attribute id="ObjectID" type="FixedString" value="TIF_Foxglove.TIF_Foxglove_Ears_Mesh.3" />
+							</node>
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="0" />
+								<attribute id="MaterialID" type="FixedString" value="873e5acb-1bc5-28df-7fc9-c9e25cf8bb84" />
+								<attribute id="ObjectID" type="FixedString" value="TIF_Foxglove.TIF_Foxglove_Tearline_Mesh.4" />
+							</node>
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="0" />
+								<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
+								<attribute id="ObjectID" type="FixedString" value="TIF_Foxglove.TIF_Foxglove_Eyelashes_Mesh.5" />
+							</node>
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="0" />
+								<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
+								<attribute id="ObjectID" type="FixedString" value="TIF_Foxglove.TIF_Foxglove_Eyeshadow_Mesh.6" />
+							</node>
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="0" />
+								<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
+								<attribute id="ObjectID" type="FixedString" value="TIF_Foxglove.TIF_Foxglove_Scalp_Mesh.7" />
+							</node>
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="1" />
+								<attribute id="MaterialID" type="FixedString" value="04a8a736-a0f0-bd41-417b-a6e427946ed4" />
+								<attribute id="ObjectID" type="FixedString" value="TIF_Foxglove.TIF_Foxglove_Mesh_LOD1.8" />
+							</node>
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="1" />
+								<attribute id="MaterialID" type="FixedString" value="04a8a736-a0f0-bd41-417b-a6e427946ed4" />
+								<attribute id="ObjectID" type="FixedString" value="TIF_Foxglove.TIF_Foxglove_Ears_Mesh_LOD1.9" />
+							</node>
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="1" />
+								<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
+								<attribute id="ObjectID" type="FixedString" value="TIF_Foxglove.TIF_Foxglove_Scalp_Mesh_LOD1.10" />
+							</node>
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="2" />
+								<attribute id="MaterialID" type="FixedString" value="ae22bc6c-be40-b119-d763-b046b37e1a1f" />
+								<attribute id="ObjectID" type="FixedString" value="TIF_Foxglove.TIF_Foxglove_Mesh_LOD2.11" />
+							</node>
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="2" />
+								<attribute id="MaterialID" type="FixedString" value="ae22bc6c-be40-b119-d763-b046b37e1a1f" />
+								<attribute id="ObjectID" type="FixedString" value="TIF_Foxglove.TIF_Foxglove_Ears_Mesh_LOD2.12" />
+							</node>
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="2" />
+								<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
+								<attribute id="ObjectID" type="FixedString" value="TIF_Foxglove.TIF_Foxglove_Scalp_Mesh_LOD2.13" />
+							</node>
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="3" />
+								<attribute id="MaterialID" type="FixedString" value="ae22bc6c-be40-b119-d763-b046b37e1a1f" />
+								<attribute id="ObjectID" type="FixedString" value="TIF_Foxglove.TIF_Foxglove_Mesh_LOD3.14" />
+							</node>
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="3" />
+								<attribute id="MaterialID" type="FixedString" value="ae22bc6c-be40-b119-d763-b046b37e1a1f" />
+								<attribute id="ObjectID" type="FixedString" value="TIF_Foxglove.TIF_Foxglove_Ears_Mesh_LOD3.15" />
+							</node>
+							<node id="Objects">
+								<attribute id="LOD" type="uint8" value="4" />
+								<attribute id="MaterialID" type="FixedString" value="12d3181c-a1ba-5753-96aa-f74228851da1" />
+								<attribute id="ObjectID" type="FixedString" value="TIF_Foxglove.TIF_Foxglove_Mesh_LOD4.16" />
+							</node>
+						</children>
+					</node>
+            </children>
+		</node>
+	</region>
+</save>
