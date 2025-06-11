@@ -3,7 +3,7 @@
 	<version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
 	<region id="MaterialBank">
 		<node id="MaterialBank">
-		<children>
+			<children>
         <!-- Humanoid Female -->
 				<node id="Resource"> VisenyaELF
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
@@ -17962,7 +17962,7 @@
 						</node>
 					</children>
 				</node>
-        </children>
+            </children>
         </node>
     </region>
 </save>
