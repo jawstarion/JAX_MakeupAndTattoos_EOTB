@@ -5,7 +5,1276 @@
 		<node id="VisualBank">
 			<children>
 				<!-- Jerinski -->
-				<!-- RS -->
+					<!-- Reza -->
+						<node id="Resource">
+							<attribute id="ID" type="FixedString" value="954c2fb2-d94c-454b-b1db-1a2fd11e1c57" />
+							<attribute id="Name" type="LSString" value="J_MHEB_edit_Elf" />
+							<attribute id="SourceFile" type="LSString" value="Generated/Public/jerinski_MHEB_edit/[PAK]_jerinski_MHEB_edit/J_MHEB_edit_Elf.GR2" />
+							<attribute id="Slot" type="FixedString" value="Head" />
+							<attribute id="RemapperSlotId" type="FixedString" value="" />
+							<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+							<attribute id="AttachBone" type="FixedString" value="" />
+							<attribute id="Template" type="FixedString" value="Generated/Public/jerinski_MHEB_edit/[PAK]_jerinski_MHEB_edit/J_MHEB_edit_Elf.Dummy_Root.0" />
+							<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+							<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+							<attribute id="SkeletonResource" type="FixedString" value="545e10c0-5855-428e-946b-5032e42146d9" />
+							<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+							<attribute id="HairPresetResourceId" type="FixedString" value="" />
+							<attribute id="ScalpMaterialId" type="FixedString" value="" />
+							<attribute id="SkeletonSlot" type="FixedString" value="1" />
+							<attribute id="BlueprintInstanceResourceID" type="FixedString" value="b97df95a-e271-dd4f-ea7e-b35a185a5522" />
+							<attribute id="MaterialType" type="uint8" value="0" />
+							<attribute id="HairType" type="uint8" value="0" />
+							<attribute id="BoundsMin" type="fvec3" value="-0.09812755 1.59803 -0.1560431" />
+							<attribute id="BoundsMax" type="fvec3" value="0.09812792 1.933398 0.0817401" />
+							<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+							<children>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Mesh.0" />
+									<attribute id="MaterialID" type="FixedString" value="24893d8e-7dc6-4473-b65a-0d47ba3bcc25" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Mouth_Interior_Mesh.1" />
+									<attribute id="MaterialID" type="FixedString" value="f3283bba-6025-dd5e-7a68-36fa639db970" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Eyes_Mesh.2" />
+									<attribute id="MaterialID" type="FixedString" value="9d087230-74a2-4f4b-83d4-495422b6f663" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Ears_Mesh.3" />
+									<attribute id="MaterialID" type="FixedString" value="24893d8e-7dc6-4473-b65a-0d47ba3bcc25" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Tearline_Mesh.4" />
+									<attribute id="MaterialID" type="FixedString" value="873e5acb-1bc5-28df-7fc9-c9e25cf8bb84" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Eyelashes_Mesh.5" />
+									<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Eyeshadow_Mesh.6" />
+									<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Scalp_Mesh.7" />
+									<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="AnimationWaterfall">
+									<attribute id="Object" type="FixedString" value="f408b053-4f61-79b5-8a93-484822920fe5" />
+								</node>
+								<node id="AnimationWaterfall">
+									<attribute id="Object" type="FixedString" value="c465d4f0-e0b8-6f59-1515-8ee33a15669e" />
+								</node>
+								<node id="AnimationSetOverrides">
+									<attribute id="PairElement1" type="guid" value="b6aa23c3-c96d-42d5-8ffa-8d441d18faa7" />
+									<attribute id="PairElement2" type="FixedString" value="f4ead328-66b0-35c8-4c30-319ce28fa36f" />
+									<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+								</node>
+								<node id="AnimationSetOverrides">
+									<attribute id="PairElement1" type="guid" value="978ef74e-3f22-4719-a113-fa48ebe1444a" />
+									<attribute id="PairElement2" type="FixedString" value="e0797961-5116-e536-dea9-a53607af78ac" />
+									<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+								</node>
+								<node id="ClothProxyMapping" />
+								<node id="Base" />
+							</children>
+						</node>
+						<node id="Resource">
+							<attribute id="ID" type="FixedString" value="e9fb4edd-9041-4da7-992a-dbfe26210b54" />
+							<attribute id="Name" type="LSString" value="J_MHEB_edit_Elf_MS" />
+							<attribute id="SourceFile" type="LSString" value="Generated/Public/jerinski_MHEB_edit/[PAK]_jerinski_MHEB_edit/J_MHEB_edit_Elf_MS.GR2" />
+							<attribute id="Slot" type="FixedString" value="Head" />
+							<attribute id="RemapperSlotId" type="FixedString" value="" />
+							<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+							<attribute id="AttachBone" type="FixedString" value="" />
+							<attribute id="Template" type="FixedString" value="Generated/Public/jerinski_MHEB_edit/[PAK]_jerinski_MHEB_edit/J_MHEB_edit_Elf_MS.Dummy_Root.0" />
+							<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+							<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+							<attribute id="SkeletonResource" type="FixedString" value="e9306568-0019-4506-9d1b-29798d85738a" />
+							<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+							<attribute id="HairPresetResourceId" type="FixedString" value="" />
+							<attribute id="ScalpMaterialId" type="FixedString" value="" />
+							<attribute id="SkeletonSlot" type="FixedString" value="1" />
+							<attribute id="BlueprintInstanceResourceID" type="FixedString" value="b97df95a-e271-dd4f-ea7e-b35a185a5522" />
+							<attribute id="MaterialType" type="uint8" value="0" />
+							<attribute id="HairType" type="uint8" value="0" />
+							<attribute id="BoundsMin" type="fvec3" value="-0.09812755 1.59803 -0.1560431" />
+							<attribute id="BoundsMax" type="fvec3" value="0.09812792 1.933398 0.0817401" />
+							<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+							<children>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Mesh.0" />
+									<attribute id="MaterialID" type="FixedString" value="24893d8e-7dc6-4473-b65a-0d47ba3bcc25" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Mouth_Interior_Mesh.1" />
+									<attribute id="MaterialID" type="FixedString" value="f3283bba-6025-dd5e-7a68-36fa639db970" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Eyes_Mesh.2" />
+									<attribute id="MaterialID" type="FixedString" value="9d087230-74a2-4f4b-83d4-495422b6f663" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Ears_Mesh.3" />
+									<attribute id="MaterialID" type="FixedString" value="24893d8e-7dc6-4473-b65a-0d47ba3bcc25" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Tearline_Mesh.4" />
+									<attribute id="MaterialID" type="FixedString" value="873e5acb-1bc5-28df-7fc9-c9e25cf8bb84" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Eyelashes_Mesh.5" />
+									<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Eyeshadow_Mesh.6" />
+									<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Scalp_Mesh.7" />
+									<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="AnimationWaterfall">
+									<attribute id="Object" type="FixedString" value="058dcf48-6271-bcfc-bf3b-1fdc283764ba" />
+								</node>
+								<node id="AnimationWaterfall">
+									<attribute id="Object" type="FixedString" value="ef6e497f-fc1f-8a85-14ec-f1e6f3a56995" />
+								</node>
+								<node id="AnimationWaterfall">
+									<attribute id="Object" type="FixedString" value="c465d4f0-e0b8-6f59-1515-8ee33a15669e" />
+								</node>
+								<node id="AnimationSetOverrides">
+									<attribute id="PairElement1" type="guid" value="b6aa23c3-c96d-42d5-8ffa-8d441d18faa7" />
+									<attribute id="PairElement2" type="FixedString" value="f4ead328-66b0-35c8-4c30-319ce28fa36f" />
+									<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+								</node>
+								<node id="AnimationSetOverrides">
+									<attribute id="PairElement1" type="guid" value="978ef74e-3f22-4719-a113-fa48ebe1444a" />
+									<attribute id="PairElement2" type="FixedString" value="e0797961-5116-e536-dea9-a53607af78ac" />
+									<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+								</node>
+								<node id="ClothProxyMapping" />
+								<node id="Base" />
+							</children>
+						</node>
+						<node id="Resource">
+							<attribute id="ID" type="FixedString" value="67acc413-e9ef-4c18-b5d7-14175764d9ed" />
+							<attribute id="Name" type="LSString" value="J_MHEB_edit_Gith" />
+							<attribute id="SourceFile" type="LSString" value="Generated/Public/jerinski_MHEB_edit/[PAK]_jerinski_MHEB_edit/J_MHEB_edit_Gith.GR2" />
+							<attribute id="Slot" type="FixedString" value="Head" />
+							<attribute id="RemapperSlotId" type="FixedString" value="" />
+							<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+							<attribute id="AttachBone" type="FixedString" value="" />
+							<attribute id="Template" type="FixedString" value="Generated/Public/jerinski_MHEB_edit/[PAK]_jerinski_MHEB_edit/J_MHEB_edit_Gith.Dummy_Root.0" />
+							<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+							<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+							<attribute id="SkeletonResource" type="FixedString" value="16c5144a-e057-464b-bd50-7b97d636e2b7" />
+							<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+							<attribute id="HairPresetResourceId" type="FixedString" value="" />
+							<attribute id="ScalpMaterialId" type="FixedString" value="" />
+							<attribute id="SkeletonSlot" type="FixedString" value="1" />
+							<attribute id="BlueprintInstanceResourceID" type="FixedString" value="b97df95a-e271-dd4f-ea7e-b35a185a5522" />
+							<attribute id="MaterialType" type="uint8" value="0" />
+							<attribute id="HairType" type="uint8" value="0" />
+							<attribute id="BoundsMin" type="fvec3" value="-0.09812755 1.59803 -0.1560431" />
+							<attribute id="BoundsMax" type="fvec3" value="0.09812792 1.933398 0.0817401" />
+							<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+							<children>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Mesh.0" />
+									<attribute id="MaterialID" type="FixedString" value="386657ec-0a8d-4719-a568-4ad37619f9ea" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Mouth_Interior_Fangs_Mesh.1" />
+									<attribute id="MaterialID" type="FixedString" value="11928c80-9ca0-7d96-683b-31a7fe7c24ed" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Eyes_Mesh.2" />
+									<attribute id="MaterialID" type="FixedString" value="9d087230-74a2-4f4b-83d4-495422b6f663" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Ears_Mesh.3" />
+									<attribute id="MaterialID" type="FixedString" value="386657ec-0a8d-4719-a568-4ad37619f9ea" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Tearline_Mesh.4" />
+									<attribute id="MaterialID" type="FixedString" value="873e5acb-1bc5-28df-7fc9-c9e25cf8bb84" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Eyelashes_Mesh.5" />
+									<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Eyeshadow_Mesh.6" />
+									<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Scalp_Mesh.7" />
+									<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="AnimationWaterfall">
+									<attribute id="Object" type="FixedString" value="b8d9fd03-f6fe-caad-e549-f5d0831c95fb" />
+								</node>
+								<node id="AnimationWaterfall">
+									<attribute id="Object" type="FixedString" value="ed419251-554e-999a-26b2-8b9e9d3a7a7c" />
+								</node>
+								<node id="AnimationWaterfall">
+									<attribute id="Object" type="FixedString" value="c465d4f0-e0b8-6f59-1515-8ee33a15669e" />
+								</node>
+								<node id="AnimationSetOverrides">
+									<attribute id="PairElement1" type="guid" value="b6aa23c3-c96d-42d5-8ffa-8d441d18faa7" />
+									<attribute id="PairElement2" type="FixedString" value="f4ead328-66b0-35c8-4c30-319ce28fa36f" />
+									<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+								</node>
+								<node id="AnimationSetOverrides">
+									<attribute id="PairElement1" type="guid" value="978ef74e-3f22-4719-a113-fa48ebe1444a" />
+									<attribute id="PairElement2" type="FixedString" value="e0797961-5116-e536-dea9-a53607af78ac" />
+									<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+								</node>
+								<node id="ClothProxyMapping" />
+								<node id="Base" />
+							</children>
+						</node>
+						<node id="Resource">
+							<attribute id="ID" type="FixedString" value="85fc1110-1a81-4ac0-8636-b19f0ee48421" />
+							<attribute id="Name" type="LSString" value="J_MHEB_edit_Gith2" />
+							<attribute id="SourceFile" type="LSString" value="Generated/Public/jerinski_MHEB_edit/[PAK]_jerinski_MHEB_edit/J_MHEB_edit_Gith2.GR2" />
+							<attribute id="Slot" type="FixedString" value="Head" />
+							<attribute id="RemapperSlotId" type="FixedString" value="" />
+							<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+							<attribute id="AttachBone" type="FixedString" value="" />
+							<attribute id="Template" type="FixedString" value="Generated/Public/jerinski_MHEB_edit/[PAK]_jerinski_MHEB_edit/J_MHEB_edit_Gith2.Dummy_Root.0" />
+							<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+							<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+							<attribute id="SkeletonResource" type="FixedString" value="87c04667-c491-41fe-878b-c94eb6b97826" />
+							<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+							<attribute id="HairPresetResourceId" type="FixedString" value="" />
+							<attribute id="ScalpMaterialId" type="FixedString" value="" />
+							<attribute id="SkeletonSlot" type="FixedString" value="1" />
+							<attribute id="BlueprintInstanceResourceID" type="FixedString" value="b97df95a-e271-dd4f-ea7e-b35a185a5522" />
+							<attribute id="MaterialType" type="uint8" value="0" />
+							<attribute id="HairType" type="uint8" value="0" />
+							<attribute id="BoundsMin" type="fvec3" value="-0.09812755 1.59803 -0.1560431" />
+							<attribute id="BoundsMax" type="fvec3" value="0.09812792 1.933398 0.0817401" />
+							<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+							<children>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Mesh.0" />
+									<attribute id="MaterialID" type="FixedString" value="82f4898a-c8cf-4447-8526-2d12d44203ef" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Mouth_Interior_Fangs_Mesh.1" />
+									<attribute id="MaterialID" type="FixedString" value="11928c80-9ca0-7d96-683b-31a7fe7c24ed" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Eyes_Mesh.2" />
+									<attribute id="MaterialID" type="FixedString" value="9d087230-74a2-4f4b-83d4-495422b6f663" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Ears_Mesh.3" />
+									<attribute id="MaterialID" type="FixedString" value="82f4898a-c8cf-4447-8526-2d12d44203ef" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Tearline_Mesh.4" />
+									<attribute id="MaterialID" type="FixedString" value="873e5acb-1bc5-28df-7fc9-c9e25cf8bb84" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Eyelashes_Mesh.5" />
+									<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Eyeshadow_Mesh.6" />
+									<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Scalp_Mesh.7" />
+									<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="AnimationWaterfall">
+									<attribute id="Object" type="FixedString" value="b8d9fd03-f6fe-caad-e549-f5d0831c95fb" />
+								</node>
+								<node id="AnimationWaterfall">
+									<attribute id="Object" type="FixedString" value="ed419251-554e-999a-26b2-8b9e9d3a7a7c" />
+								</node>
+								<node id="AnimationWaterfall">
+									<attribute id="Object" type="FixedString" value="c465d4f0-e0b8-6f59-1515-8ee33a15669e" />
+								</node>
+								<node id="AnimationSetOverrides">
+									<attribute id="PairElement1" type="guid" value="b6aa23c3-c96d-42d5-8ffa-8d441d18faa7" />
+									<attribute id="PairElement2" type="FixedString" value="f4ead328-66b0-35c8-4c30-319ce28fa36f" />
+									<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+								</node>
+								<node id="AnimationSetOverrides">
+									<attribute id="PairElement1" type="guid" value="978ef74e-3f22-4719-a113-fa48ebe1444a" />
+									<attribute id="PairElement2" type="FixedString" value="e0797961-5116-e536-dea9-a53607af78ac" />
+									<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+								</node>
+								<node id="ClothProxyMapping" />
+								<node id="Base" />
+							</children>
+						</node>
+						<node id="Resource">
+							<attribute id="ID" type="FixedString" value="2011cd45-cbf7-42b9-b74f-cda0a5a567b8" />
+							<attribute id="Name" type="LSString" value="J_MHEB_edit_Halfelf" />
+							<attribute id="SourceFile" type="LSString" value="Generated/Public/jerinski_MHEB_edit/[PAK]_jerinski_MHEB_edit/J_MHEB_edit_Halfelf.GR2" />
+							<attribute id="Slot" type="FixedString" value="Head" />
+							<attribute id="RemapperSlotId" type="FixedString" value="" />
+							<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+							<attribute id="AttachBone" type="FixedString" value="" />
+							<attribute id="Template" type="FixedString" value="Generated/Public/jerinski_MHEB_edit/[PAK]_jerinski_MHEB_edit/J_MHEB_edit_Halfelf.Dummy_Root.0" />
+							<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+							<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+							<attribute id="SkeletonResource" type="FixedString" value="31143f5e-e883-446a-a322-c9d196c873d1" />
+							<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+							<attribute id="HairPresetResourceId" type="FixedString" value="" />
+							<attribute id="ScalpMaterialId" type="FixedString" value="" />
+							<attribute id="SkeletonSlot" type="FixedString" value="1" />
+							<attribute id="BlueprintInstanceResourceID" type="FixedString" value="b97df95a-e271-dd4f-ea7e-b35a185a5522" />
+							<attribute id="MaterialType" type="uint8" value="0" />
+							<attribute id="HairType" type="uint8" value="0" />
+							<attribute id="BoundsMin" type="fvec3" value="-0.09812755 1.59803 -0.1560431" />
+							<attribute id="BoundsMax" type="fvec3" value="0.09812792 1.933398 0.0817401" />
+							<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+							<children>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Mesh.0" />
+									<attribute id="MaterialID" type="FixedString" value="24893d8e-7dc6-4473-b65a-0d47ba3bcc25" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Mouth_Interior_Mesh.1" />
+									<attribute id="MaterialID" type="FixedString" value="f3283bba-6025-dd5e-7a68-36fa639db970" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Eyes_Mesh.2" />
+									<attribute id="MaterialID" type="FixedString" value="9d087230-74a2-4f4b-83d4-495422b6f663" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Ears_Mesh.3" />
+									<attribute id="MaterialID" type="FixedString" value="24893d8e-7dc6-4473-b65a-0d47ba3bcc25" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Tearline_Mesh.4" />
+									<attribute id="MaterialID" type="FixedString" value="873e5acb-1bc5-28df-7fc9-c9e25cf8bb84" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Eyelashes_Mesh.5" />
+									<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Eyeshadow_Mesh.6" />
+									<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Scalp_Mesh.7" />
+									<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="AnimationWaterfall">
+									<attribute id="Object" type="FixedString" value="f408b053-4f61-79b5-8a93-484822920fe5" />
+								</node>
+								<node id="AnimationWaterfall">
+									<attribute id="Object" type="FixedString" value="c465d4f0-e0b8-6f59-1515-8ee33a15669e" />
+								</node>
+								<node id="AnimationSetOverrides">
+									<attribute id="PairElement1" type="guid" value="b6aa23c3-c96d-42d5-8ffa-8d441d18faa7" />
+									<attribute id="PairElement2" type="FixedString" value="f4ead328-66b0-35c8-4c30-319ce28fa36f" />
+									<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+								</node>
+								<node id="AnimationSetOverrides">
+									<attribute id="PairElement1" type="guid" value="978ef74e-3f22-4719-a113-fa48ebe1444a" />
+									<attribute id="PairElement2" type="FixedString" value="e0797961-5116-e536-dea9-a53607af78ac" />
+									<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+								</node>
+								<node id="ClothProxyMapping" />
+								<node id="Base" />
+							</children>
+						</node>
+						<node id="Resource">
+							<attribute id="ID" type="FixedString" value="56ba1a79-5954-4058-9d1c-158f06c42d48" />
+							<attribute id="Name" type="LSString" value="J_MHEB_edit_Halfelf-Orc" />
+							<attribute id="SourceFile" type="LSString" value="Generated/Public/jerinski_MHEB_edit/[PAK]_jerinski_MHEB_edit/J_MHEB_edit_Halfelf-Orc.GR2" />
+							<attribute id="Slot" type="FixedString" value="Head" />
+							<attribute id="RemapperSlotId" type="FixedString" value="" />
+							<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+							<attribute id="AttachBone" type="FixedString" value="" />
+							<attribute id="Template" type="FixedString" value="Generated/Public/jerinski_MHEB_edit/[PAK]_jerinski_MHEB_edit/J_MHEB_edit_Halfelf-Orc.Dummy_Root.0" />
+							<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+							<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+							<attribute id="SkeletonResource" type="FixedString" value="58f64d19-639f-4ef1-a6cc-3a82a521acdc" />
+							<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+							<attribute id="HairPresetResourceId" type="FixedString" value="" />
+							<attribute id="ScalpMaterialId" type="FixedString" value="" />
+							<attribute id="SkeletonSlot" type="FixedString" value="1" />
+							<attribute id="BlueprintInstanceResourceID" type="FixedString" value="b97df95a-e271-dd4f-ea7e-b35a185a5522" />
+							<attribute id="MaterialType" type="uint8" value="0" />
+							<attribute id="HairType" type="uint8" value="0" />
+							<attribute id="BoundsMin" type="fvec3" value="-0.09812755 1.59803 -0.1560431" />
+							<attribute id="BoundsMax" type="fvec3" value="0.09812792 1.933398 0.0817401" />
+							<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+							<children>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_heorc.J_MHEB_Mesh.0" />
+									<attribute id="MaterialID" type="FixedString" value="75707331-a590-4002-951d-4dd92d207d31" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_heorc.J_MHEB_Mouth_Interior_Mesh.1" />
+									<attribute id="MaterialID" type="FixedString" value="283ba5b9-eddd-277c-6b76-27c7d67b5fad" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_heorc.J_MHEB_Eyes_Mesh.2" />
+									<attribute id="MaterialID" type="FixedString" value="9d087230-74a2-4f4b-83d4-495422b6f663" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_heorc.J_MHEB_Ears_Mesh.3" />
+									<attribute id="MaterialID" type="FixedString" value="75707331-a590-4002-951d-4dd92d207d31" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_heorc.J_MHEB_Tearline_Mesh.4" />
+									<attribute id="MaterialID" type="FixedString" value="873e5acb-1bc5-28df-7fc9-c9e25cf8bb84" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_heorc.J_MHEB_Eyelashes_Mesh.5" />
+									<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_heorc.J_MHEB_Eyeshadow_Mesh.6" />
+									<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_heorc.J_MHEB_Scalp_Mesh.7" />
+									<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="AnimationWaterfall">
+									<attribute id="Object" type="FixedString" value="f408b053-4f61-79b5-8a93-484822920fe5" />
+								</node>
+								<node id="AnimationWaterfall">
+									<attribute id="Object" type="FixedString" value="c465d4f0-e0b8-6f59-1515-8ee33a15669e" />
+								</node>
+								<node id="AnimationSetOverrides">
+									<attribute id="PairElement1" type="guid" value="b6aa23c3-c96d-42d5-8ffa-8d441d18faa7" />
+									<attribute id="PairElement2" type="FixedString" value="f4ead328-66b0-35c8-4c30-319ce28fa36f" />
+									<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+								</node>
+								<node id="AnimationSetOverrides">
+									<attribute id="PairElement1" type="guid" value="978ef74e-3f22-4719-a113-fa48ebe1444a" />
+									<attribute id="PairElement2" type="FixedString" value="e0797961-5116-e536-dea9-a53607af78ac" />
+									<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+								</node>
+								<node id="ClothProxyMapping" />
+								<node id="Base" />
+							</children>
+						</node>
+						<node id="Resource">
+							<attribute id="ID" type="FixedString" value="0c7f878e-23f3-4bc4-a7eb-d692a7f3a488" />
+							<attribute id="Name" type="LSString" value="J_MHEB_edit_Halfelf_MS" />
+							<attribute id="SourceFile" type="LSString" value="Generated/Public/jerinski_MHEB_edit/[PAK]_jerinski_MHEB_edit/J_MHEB_edit_Halfelf_MS.GR2" />
+							<attribute id="Slot" type="FixedString" value="Head" />
+							<attribute id="RemapperSlotId" type="FixedString" value="" />
+							<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+							<attribute id="AttachBone" type="FixedString" value="" />
+							<attribute id="Template" type="FixedString" value="Generated/Public/jerinski_MHEB_edit/[PAK]_jerinski_MHEB_edit/J_MHEB_edit_Halfelf_MS.Dummy_Root.0" />
+							<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+							<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+							<attribute id="SkeletonResource" type="FixedString" value="f9afc5f7-5638-4a67-8f32-db88a133ec38" />
+							<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+							<attribute id="HairPresetResourceId" type="FixedString" value="" />
+							<attribute id="ScalpMaterialId" type="FixedString" value="" />
+							<attribute id="SkeletonSlot" type="FixedString" value="1" />
+							<attribute id="BlueprintInstanceResourceID" type="FixedString" value="b97df95a-e271-dd4f-ea7e-b35a185a5522" />
+							<attribute id="MaterialType" type="uint8" value="0" />
+							<attribute id="HairType" type="uint8" value="0" />
+							<attribute id="BoundsMin" type="fvec3" value="-0.09812755 1.59803 -0.1560431" />
+							<attribute id="BoundsMax" type="fvec3" value="0.09812792 1.933398 0.0817401" />
+							<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+							<children>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Mesh.0" />
+									<attribute id="MaterialID" type="FixedString" value="24893d8e-7dc6-4473-b65a-0d47ba3bcc25" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Mouth_Interior_Mesh.1" />
+									<attribute id="MaterialID" type="FixedString" value="f3283bba-6025-dd5e-7a68-36fa639db970" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Eyes_Mesh.2" />
+									<attribute id="MaterialID" type="FixedString" value="9d087230-74a2-4f4b-83d4-495422b6f663" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Ears_Mesh.3" />
+									<attribute id="MaterialID" type="FixedString" value="24893d8e-7dc6-4473-b65a-0d47ba3bcc25" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Tearline_Mesh.4" />
+									<attribute id="MaterialID" type="FixedString" value="873e5acb-1bc5-28df-7fc9-c9e25cf8bb84" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Eyelashes_Mesh.5" />
+									<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Eyeshadow_Mesh.6" />
+									<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Scalp_Mesh.7" />
+									<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="AnimationWaterfall">
+									<attribute id="Object" type="FixedString" value="058dcf48-6271-bcfc-bf3b-1fdc283764ba" />
+								</node>
+								<node id="AnimationWaterfall">
+									<attribute id="Object" type="FixedString" value="ef6e497f-fc1f-8a85-14ec-f1e6f3a56995" />
+								</node>
+								<node id="AnimationWaterfall">
+									<attribute id="Object" type="FixedString" value="c465d4f0-e0b8-6f59-1515-8ee33a15669e" />
+								</node>
+								<node id="AnimationSetOverrides">
+									<attribute id="PairElement1" type="guid" value="b6aa23c3-c96d-42d5-8ffa-8d441d18faa7" />
+									<attribute id="PairElement2" type="FixedString" value="f4ead328-66b0-35c8-4c30-319ce28fa36f" />
+									<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+								</node>
+								<node id="AnimationSetOverrides">
+									<attribute id="PairElement1" type="guid" value="978ef74e-3f22-4719-a113-fa48ebe1444a" />
+									<attribute id="PairElement2" type="FixedString" value="e0797961-5116-e536-dea9-a53607af78ac" />
+									<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+								</node>
+								<node id="ClothProxyMapping" />
+								<node id="Base" />
+							</children>
+						</node>
+						<node id="Resource">
+							<attribute id="ID" type="FixedString" value="13bca852-0894-4acd-a7b0-68e67c9f636b" />
+							<attribute id="Name" type="LSString" value="J_MHEB_edit_Human" />
+							<attribute id="SourceFile" type="LSString" value="Generated/Public/jerinski_MHEB_edit/[PAK]_jerinski_MHEB_edit/J_MHEB_edit_Human.GR2" />
+							<attribute id="Slot" type="FixedString" value="Head" />
+							<attribute id="RemapperSlotId" type="FixedString" value="" />
+							<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+							<attribute id="AttachBone" type="FixedString" value="" />
+							<attribute id="Template" type="FixedString" value="Generated/Public/jerinski_MHEB_edit/[PAK]_jerinski_MHEB_edit/J_MHEB_edit_Human.Dummy_Root.0" />
+							<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+							<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+							<attribute id="SkeletonResource" type="FixedString" value="d8e8eedb-9a93-4e5c-93da-f2f7f6a0b5da" />
+							<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+							<attribute id="HairPresetResourceId" type="FixedString" value="" />
+							<attribute id="ScalpMaterialId" type="FixedString" value="" />
+							<attribute id="SkeletonSlot" type="FixedString" value="1" />
+							<attribute id="BlueprintInstanceResourceID" type="FixedString" value="b97df95a-e271-dd4f-ea7e-b35a185a5522" />
+							<attribute id="MaterialType" type="uint8" value="0" />
+							<attribute id="HairType" type="uint8" value="0" />
+							<attribute id="BoundsMin" type="fvec3" value="-0.09812755 1.59803 -0.1560431" />
+							<attribute id="BoundsMax" type="fvec3" value="0.09812792 1.933398 0.0817401" />
+							<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+							<children>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Mesh.0" />
+									<attribute id="MaterialID" type="FixedString" value="24893d8e-7dc6-4473-b65a-0d47ba3bcc25" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Mouth_Interior_Mesh.1" />
+									<attribute id="MaterialID" type="FixedString" value="f3283bba-6025-dd5e-7a68-36fa639db970" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Eyes_Mesh.2" />
+									<attribute id="MaterialID" type="FixedString" value="9d087230-74a2-4f4b-83d4-495422b6f663" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Ears_Mesh.3" />
+									<attribute id="MaterialID" type="FixedString" value="24893d8e-7dc6-4473-b65a-0d47ba3bcc25" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Tearline_Mesh.4" />
+									<attribute id="MaterialID" type="FixedString" value="873e5acb-1bc5-28df-7fc9-c9e25cf8bb84" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Eyelashes_Mesh.5" />
+									<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Eyeshadow_Mesh.6" />
+									<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Scalp_Mesh.7" />
+									<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="AnimationWaterfall">
+									<attribute id="Object" type="FixedString" value="f408b053-4f61-79b5-8a93-484822920fe5" />
+								</node>
+								<node id="AnimationWaterfall">
+									<attribute id="Object" type="FixedString" value="c465d4f0-e0b8-6f59-1515-8ee33a15669e" />
+								</node>
+								<node id="AnimationSetOverrides">
+									<attribute id="PairElement1" type="guid" value="b6aa23c3-c96d-42d5-8ffa-8d441d18faa7" />
+									<attribute id="PairElement2" type="FixedString" value="f4ead328-66b0-35c8-4c30-319ce28fa36f" />
+									<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+								</node>
+								<node id="AnimationSetOverrides">
+									<attribute id="PairElement1" type="guid" value="978ef74e-3f22-4719-a113-fa48ebe1444a" />
+									<attribute id="PairElement2" type="FixedString" value="e0797961-5116-e536-dea9-a53607af78ac" />
+									<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+								</node>
+								<node id="ClothProxyMapping" />
+								<node id="Base" />
+							</children>
+						</node>
+						<node id="Resource">
+							<attribute id="ID" type="FixedString" value="cb169350-adab-4e2c-80e3-3a9166133c6f" />
+							<attribute id="Name" type="LSString" value="J_MHEB_edit_Human_MS" />
+							<attribute id="SourceFile" type="LSString" value="Generated/Public/jerinski_MHEB_edit/[PAK]_jerinski_MHEB_edit/J_MHEB_edit_Human_MS.GR2" />
+							<attribute id="Slot" type="FixedString" value="Head" />
+							<attribute id="RemapperSlotId" type="FixedString" value="" />
+							<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+							<attribute id="AttachBone" type="FixedString" value="" />
+							<attribute id="Template" type="FixedString" value="Generated/Public/jerinski_MHEB_edit/[PAK]_jerinski_MHEB_edit/J_MHEB_edit_Human_MS.Dummy_Root.0" />
+							<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+							<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+							<attribute id="SkeletonResource" type="FixedString" value="4e5f8619-2b42-4092-920b-90b90e416a5b" />
+							<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+							<attribute id="HairPresetResourceId" type="FixedString" value="" />
+							<attribute id="ScalpMaterialId" type="FixedString" value="" />
+							<attribute id="SkeletonSlot" type="FixedString" value="1" />
+							<attribute id="BlueprintInstanceResourceID" type="FixedString" value="b97df95a-e271-dd4f-ea7e-b35a185a5522" />
+							<attribute id="MaterialType" type="uint8" value="0" />
+							<attribute id="HairType" type="uint8" value="0" />
+							<attribute id="BoundsMin" type="fvec3" value="-0.09812755 1.59803 -0.1560431" />
+							<attribute id="BoundsMax" type="fvec3" value="0.09812792 1.933398 0.0817401" />
+							<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+							<children>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Mesh.0" />
+									<attribute id="MaterialID" type="FixedString" value="24893d8e-7dc6-4473-b65a-0d47ba3bcc25" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Mouth_Interior_Mesh.1" />
+									<attribute id="MaterialID" type="FixedString" value="f3283bba-6025-dd5e-7a68-36fa639db970" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Eyes_Mesh.2" />
+									<attribute id="MaterialID" type="FixedString" value="9d087230-74a2-4f4b-83d4-495422b6f663" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Ears_Mesh.3" />
+									<attribute id="MaterialID" type="FixedString" value="24893d8e-7dc6-4473-b65a-0d47ba3bcc25" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Tearline_Mesh.4" />
+									<attribute id="MaterialID" type="FixedString" value="873e5acb-1bc5-28df-7fc9-c9e25cf8bb84" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Eyelashes_Mesh.5" />
+									<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Eyeshadow_Mesh.6" />
+									<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Scalp_Mesh.7" />
+									<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="AnimationWaterfall">
+									<attribute id="Object" type="FixedString" value="058dcf48-6271-bcfc-bf3b-1fdc283764ba" />
+								</node>
+								<node id="AnimationWaterfall">
+									<attribute id="Object" type="FixedString" value="ef6e497f-fc1f-8a85-14ec-f1e6f3a56995" />
+								</node>
+								<node id="AnimationWaterfall">
+									<attribute id="Object" type="FixedString" value="c465d4f0-e0b8-6f59-1515-8ee33a15669e" />
+								</node>
+								<node id="AnimationSetOverrides">
+									<attribute id="PairElement1" type="guid" value="b6aa23c3-c96d-42d5-8ffa-8d441d18faa7" />
+									<attribute id="PairElement2" type="FixedString" value="f4ead328-66b0-35c8-4c30-319ce28fa36f" />
+									<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+								</node>
+								<node id="AnimationSetOverrides">
+									<attribute id="PairElement1" type="guid" value="978ef74e-3f22-4719-a113-fa48ebe1444a" />
+									<attribute id="PairElement2" type="FixedString" value="e0797961-5116-e536-dea9-a53607af78ac" />
+									<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+								</node>
+								<node id="ClothProxyMapping" />
+								<node id="Base" />
+							</children>
+						</node>
+						<node id="Resource">
+							<attribute id="ID" type="FixedString" value="8904f55b-dcc9-4769-8b1b-354330ab5d17" />
+							<attribute id="Name" type="LSString" value="J_MHEB_edit_Tiefling" />
+							<attribute id="SourceFile" type="LSString" value="Generated/Public/jerinski_MHEB_edit/[PAK]_jerinski_MHEB_edit/J_MHEB_edit_Tiefling.GR2" />
+							<attribute id="Slot" type="FixedString" value="Head" />
+							<attribute id="RemapperSlotId" type="FixedString" value="" />
+							<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+							<attribute id="AttachBone" type="FixedString" value="" />
+							<attribute id="Template" type="FixedString" value="Generated/Public/jerinski_MHEB_edit/[PAK]_jerinski_MHEB_edit/J_MHEB_edit_Tiefling.Dummy_Root.0" />
+							<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+							<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+							<attribute id="SkeletonResource" type="FixedString" value="b74c9764-e86f-4b7f-807d-132b5a5c80fb" />
+							<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+							<attribute id="HairPresetResourceId" type="FixedString" value="" />
+							<attribute id="ScalpMaterialId" type="FixedString" value="" />
+							<attribute id="SkeletonSlot" type="FixedString" value="1" />
+							<attribute id="BlueprintInstanceResourceID" type="FixedString" value="b97df95a-e271-dd4f-ea7e-b35a185a5522" />
+							<attribute id="MaterialType" type="uint8" value="0" />
+							<attribute id="HairType" type="uint8" value="0" />
+							<attribute id="BoundsMin" type="fvec3" value="-0.09812755 1.59803 -0.1560431" />
+							<attribute id="BoundsMax" type="fvec3" value="0.09812792 1.933398 0.0817401" />
+							<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+							<children>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Mesh.0" />
+									<attribute id="MaterialID" type="FixedString" value="8ebfe1a1-110b-4471-8fee-f94d67e1c6d4" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Mouth_Interior_Fangs_Mesh.1" />
+									<attribute id="MaterialID" type="FixedString" value="f3283bba-6025-dd5e-7a68-36fa639db970" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Eyes_Mesh.2" />
+									<attribute id="MaterialID" type="FixedString" value="9d087230-74a2-4f4b-83d4-495422b6f663" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Ears_Mesh.3" />
+									<attribute id="MaterialID" type="FixedString" value="8ebfe1a1-110b-4471-8fee-f94d67e1c6d4" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Tearline_Mesh.4" />
+									<attribute id="MaterialID" type="FixedString" value="873e5acb-1bc5-28df-7fc9-c9e25cf8bb84" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Eyelashes_Mesh.5" />
+									<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Eyeshadow_Mesh.6" />
+									<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Scalp_Mesh.7" />
+									<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="AnimationWaterfall">
+									<attribute id="Object" type="FixedString" value="f408b053-4f61-79b5-8a93-484822920fe5" />
+								</node>
+								<node id="AnimationWaterfall">
+									<attribute id="Object" type="FixedString" value="c465d4f0-e0b8-6f59-1515-8ee33a15669e" />
+								</node>
+								<node id="AnimationSetOverrides">
+									<attribute id="PairElement1" type="guid" value="b6aa23c3-c96d-42d5-8ffa-8d441d18faa7" />
+									<attribute id="PairElement2" type="FixedString" value="f4ead328-66b0-35c8-4c30-319ce28fa36f" />
+									<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+								</node>
+								<node id="AnimationSetOverrides">
+									<attribute id="PairElement1" type="guid" value="978ef74e-3f22-4719-a113-fa48ebe1444a" />
+									<attribute id="PairElement2" type="FixedString" value="e0797961-5116-e536-dea9-a53607af78ac" />
+									<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+								</node>
+								<node id="ClothProxyMapping" />
+								<node id="Base" />
+							</children>
+						</node>
+						<node id="Resource">
+							<attribute id="ID" type="FixedString" value="585c3273-4d37-4ad5-b8dc-980f9a6ab9aa" />
+							<attribute id="Name" type="LSString" value="J_MHEB_edit_Tiefling_MS" />
+							<attribute id="SourceFile" type="LSString" value="Generated/Public/jerinski_MHEB_edit/[PAK]_jerinski_MHEB_edit/J_MHEB_edit_Tiefling_MS.GR2" />
+							<attribute id="Slot" type="FixedString" value="Head" />
+							<attribute id="RemapperSlotId" type="FixedString" value="" />
+							<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+							<attribute id="AttachBone" type="FixedString" value="" />
+							<attribute id="Template" type="FixedString" value="Generated/Public/jerinski_MHEB_edit/[PAK]_jerinski_MHEB_edit/J_MHEB_edit_Tiefling_MS.Dummy_Root.0" />
+							<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+							<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+							<attribute id="SkeletonResource" type="FixedString" value="bccce3bb-45e2-4a63-9736-0ceb64e3538e" />
+							<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+							<attribute id="HairPresetResourceId" type="FixedString" value="" />
+							<attribute id="ScalpMaterialId" type="FixedString" value="" />
+							<attribute id="SkeletonSlot" type="FixedString" value="1" />
+							<attribute id="BlueprintInstanceResourceID" type="FixedString" value="b97df95a-e271-dd4f-ea7e-b35a185a5522" />
+							<attribute id="MaterialType" type="uint8" value="0" />
+							<attribute id="HairType" type="uint8" value="0" />
+							<attribute id="BoundsMin" type="fvec3" value="-0.09812755 1.59803 -0.1560431" />
+							<attribute id="BoundsMax" type="fvec3" value="0.09812792 1.933398 0.0817401" />
+							<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+							<children>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Mesh.0" />
+									<attribute id="MaterialID" type="FixedString" value="8d1bace0-b2fa-489f-8c1f-a6dae35dc1d0" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Mouth_Interior_Mesh.1" />
+									<attribute id="MaterialID" type="FixedString" value="f3283bba-6025-dd5e-7a68-36fa639db970" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Eyes_Mesh.2" />
+									<attribute id="MaterialID" type="FixedString" value="9d087230-74a2-4f4b-83d4-495422b6f663" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Ears_Mesh.3" />
+									<attribute id="MaterialID" type="FixedString" value="8d1bace0-b2fa-489f-8c1f-a6dae35dc1d0" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Tearline_Mesh.4" />
+									<attribute id="MaterialID" type="FixedString" value="873e5acb-1bc5-28df-7fc9-c9e25cf8bb84" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Eyelashes_Mesh.5" />
+									<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Eyeshadow_Mesh.6" />
+									<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="J_MHEB_edit.C_J_MHEB_Scalp_Mesh.7" />
+									<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="AnimationWaterfall">
+									<attribute id="Object" type="FixedString" value="3c385f2a-96fd-f341-150d-fb69d9a5eb04" />
+								</node>
+								<node id="AnimationWaterfall">
+									<attribute id="Object" type="FixedString" value="ef6e497f-fc1f-8a85-14ec-f1e6f3a56995" />
+								</node>
+								<node id="AnimationWaterfall">
+									<attribute id="Object" type="FixedString" value="c465d4f0-e0b8-6f59-1515-8ee33a15669e" />
+								</node>
+								<node id="AnimationSetOverrides">
+									<attribute id="PairElement1" type="guid" value="b6aa23c3-c96d-42d5-8ffa-8d441d18faa7" />
+									<attribute id="PairElement2" type="FixedString" value="f4ead328-66b0-35c8-4c30-319ce28fa36f" />
+									<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+								</node>
+								<node id="AnimationSetOverrides">
+									<attribute id="PairElement1" type="guid" value="978ef74e-3f22-4719-a113-fa48ebe1444a" />
+									<attribute id="PairElement2" type="FixedString" value="e0797961-5116-e536-dea9-a53607af78ac" />
+									<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+								</node>
+								<node id="ClothProxyMapping" />
+								<node id="Base" />
+							</children>
+						</node>
+				<!-- Remotelysane -->
+					<!-- RS Strong Head -->
+						<node id="Resource">
+							<attribute id="ID" type="FixedString" value="4c412527-9dce-4126-92a9-d0d6e1750131" />
+							<attribute id="Name" type="LSString" value="RS_MS_HUM" />
+							<attribute id="SourceFile" type="LSString" value="Generated/Public/RS_MS_Head_8cd61375-e769-1657-2951-210561320d75/RS_MS_HUM.GR2" />
+							<attribute id="Slot" type="FixedString" value="Unassigned" />
+							<attribute id="RemapperSlotId" type="FixedString" value="" />
+							<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+							<attribute id="AttachBone" type="FixedString" value="" />
+							<attribute id="Template" type="FixedString" value="Generated/Public/RS_MS_Head_8cd61375-e769-1657-2951-210561320d75/RS_MS_HUM.Dummy_Root.0" />
+							<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+							<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+							<attribute id="SkeletonResource" type="FixedString" value="18e6312c-472a-4e17-753e-97e8c2f68aa9" />
+							<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+							<attribute id="HairPresetResourceId" type="FixedString" value="" />
+							<attribute id="ScalpMaterialId" type="FixedString" value="" />
+							<attribute id="SkeletonSlot" type="FixedString" value="1" />
+							<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+							<attribute id="MaterialType" type="uint8" value="0" />
+							<attribute id="HairType" type="uint8" value="0" />
+							<attribute id="BoundsMin" type="fvec3" value="0 0 0" />
+							<attribute id="BoundsMax" type="fvec3" value="0 0 0" />
+							<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+							<children>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="RS_MS_HUM.RS_Hum_Head_Mesh.0" />
+									<attribute id="MaterialID" type="FixedString" value="44146f6a-9d05-c77f-9425-054f08b35e73" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="RS_MS_HUM.RS_Hum_Head_Mouth_Interior_Mesh.1" />
+									<attribute id="MaterialID" type="FixedString" value="f3283bba-6025-dd5e-7a68-36fa639db970" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="RS_MS_HUM.RS_Hum_Head_Eyes_Mesh.2" />
+									<attribute id="MaterialID" type="FixedString" value="9d087230-74a2-4f4b-83d4-495422b6f663" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="RS_MS_HUM.RS_Hum_Head_Ears_Mesh.3" />
+									<attribute id="MaterialID" type="FixedString" value="44146f6a-9d05-c77f-9425-054f08b35e73" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="RS_MS_HUM.RS_Hum_Head_Tearline_Mesh.4" />
+									<attribute id="MaterialID" type="FixedString" value="873e5acb-1bc5-28df-7fc9-c9e25cf8bb84" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="RS_MS_HUM.RS_Hum_Head_Eyelashes_Mesh.5" />
+									<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="RS_MS_HUM.RS_Hum_Head_Eyeshadow_Mesh.6" />
+									<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="RS_MS_HUM.RS_Hum_Head_Scalp_Mesh.7" />
+									<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="AnimationWaterfall">
+									<attribute id="Object" type="FixedString" value="f2b884f2-68cd-c8d6-3fb5-db17d0b7bcf4" />
+								</node>
+								<node id="AnimationWaterfall">
+									<attribute id="Object" type="FixedString" value="4b35ee0b-52d3-672c-fa90-5e95c7257d1e" />
+								</node>
+								<node id="AnimationWaterfall">
+									<attribute id="Object" type="FixedString" value="ef6e497f-fc1f-8a85-14ec-f1e6f3a56995" />
+								</node>
+								<node id="AnimationWaterfall">
+									<attribute id="Object" type="FixedString" value="c465d4f0-e0b8-6f59-1515-8ee33a15669e" />
+								</node>
+								<node id="AnimationSetOverrides">
+									<attribute id="PairElement1" type="guid" value="b6aa23c3-c96d-42d5-8ffa-8d441d18faa7" />
+									<attribute id="PairElement2" type="FixedString" value="f4ead328-66b0-35c8-4c30-319ce28fa36f" />
+									<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+								</node>
+								<node id="ClothProxyMapping" />
+								<node id="Base" />
+							</children>
+						</node>
+						<node id="Resource">
+							<attribute id="ID" type="FixedString" value="80526daa-a252-4f09-bc03-e6a308129ef4" />
+							<attribute id="Name" type="LSString" value="RS_MS_HELF" />
+							<attribute id="SourceFile" type="LSString" value="Generated/Public/RS_MS_Head_8cd61375-e769-1657-2951-210561320d75/RS_MS_HELF.GR2" />
+							<attribute id="Slot" type="FixedString" value="Unassigned" />
+							<attribute id="RemapperSlotId" type="FixedString" value="" />
+							<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+							<attribute id="AttachBone" type="FixedString" value="" />
+							<attribute id="Template" type="FixedString" value="Generated/Public/RS_MS_Head_8cd61375-e769-1657-2951-210561320d75/RS_MS_HELF.Dummy_Root.0" />
+							<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+							<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+							<attribute id="SkeletonResource" type="FixedString" value="58690e1d-196a-3c4e-2e2c-a4aa8a4e338d" />
+							<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+							<attribute id="HairPresetResourceId" type="FixedString" value="" />
+							<attribute id="ScalpMaterialId" type="FixedString" value="" />
+							<attribute id="SkeletonSlot" type="FixedString" value="1" />
+							<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+							<attribute id="MaterialType" type="uint8" value="0" />
+							<attribute id="HairType" type="uint8" value="0" />
+							<attribute id="BoundsMin" type="fvec3" value="0 0 0" />
+							<attribute id="BoundsMax" type="fvec3" value="0 0 0" />
+							<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+							<children>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="RS_MS_HELF.RS_Helf_Head_Ears_Mesh.0" />
+									<attribute id="MaterialID" type="FixedString" value="254d957e-7e83-cb7a-e20b-5987db95ae47" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="RS_MS_HELF.RS_Helf_Head_Mouth_Interior_Mesh.1" />
+									<attribute id="MaterialID" type="FixedString" value="f3283bba-6025-dd5e-7a68-36fa639db970" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="RS_MS_HELF.RS_Test_Head_Eyes_Mesh.2" />
+									<attribute id="MaterialID" type="FixedString" value="9d087230-74a2-4f4b-83d4-495422b6f663" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="RS_MS_HELF.RS_Helf_Head_Mesh.3" />
+									<attribute id="MaterialID" type="FixedString" value="254d957e-7e83-cb7a-e20b-5987db95ae47" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="RS_MS_HELF.RS_Helf_Head_Tearline_Mesh.4" />
+									<attribute id="MaterialID" type="FixedString" value="873e5acb-1bc5-28df-7fc9-c9e25cf8bb84" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="RS_MS_HELF.RS_Helf_Head_Eyelashes_Mesh.5" />
+									<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="RS_MS_HELF.RS_Helf_Head_Eyeshadow_Mesh.6" />
+									<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="RS_MS_HELF.RS_Helf_Head_Scalp_Mesh.7" />
+									<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="AnimationWaterfall">
+									<attribute id="Object" type="FixedString" value="f2b884f2-68cd-c8d6-3fb5-db17d0b7bcf4" />
+								</node>
+								<node id="AnimationWaterfall">
+									<attribute id="Object" type="FixedString" value="4b35ee0b-52d3-672c-fa90-5e95c7257d1e" />
+								</node>
+								<node id="AnimationWaterfall">
+									<attribute id="Object" type="FixedString" value="ef6e497f-fc1f-8a85-14ec-f1e6f3a56995" />
+								</node>
+								<node id="AnimationWaterfall">
+									<attribute id="Object" type="FixedString" value="c465d4f0-e0b8-6f59-1515-8ee33a15669e" />
+								</node>
+								<node id="AnimationSetOverrides">
+									<attribute id="PairElement1" type="guid" value="b6aa23c3-c96d-42d5-8ffa-8d441d18faa7" />
+									<attribute id="PairElement2" type="FixedString" value="f4ead328-66b0-35c8-4c30-319ce28fa36f" />
+									<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+								</node>
+								<node id="ClothProxyMapping" />
+								<node id="Base" />
+							</children>
+						</node>
+						<node id="Resource">
+							<attribute id="ID" type="FixedString" value="b44f255d-711f-42dc-9bce-31aaeeb49f9d" />
+							<attribute id="Name" type="LSString" value="RS_MS_TIF" />
+							<attribute id="SourceFile" type="LSString" value="Generated/Public/RS_MS_Head_8cd61375-e769-1657-2951-210561320d75/RS_MS_TIF.GR2" />
+							<attribute id="Slot" type="FixedString" value="Unassigned" />
+							<attribute id="RemapperSlotId" type="FixedString" value="" />
+							<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+							<attribute id="AttachBone" type="FixedString" value="" />
+							<attribute id="Template" type="FixedString" value="Generated/Public/RS_MS_Head_8cd61375-e769-1657-2951-210561320d75/RS_MS_TIF.Dummy_Root.0" />
+							<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+							<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+							<attribute id="SkeletonResource" type="FixedString" value="53acfc07-36d8-d79c-b52f-d845f6940eb4" />
+							<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+							<attribute id="HairPresetResourceId" type="FixedString" value="" />
+							<attribute id="ScalpMaterialId" type="FixedString" value="" />
+							<attribute id="SkeletonSlot" type="FixedString" value="1" />
+							<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+							<attribute id="MaterialType" type="uint8" value="0" />
+							<attribute id="HairType" type="uint8" value="0" />
+							<attribute id="BoundsMin" type="fvec3" value="0 0 0" />
+							<attribute id="BoundsMax" type="fvec3" value="0 0 0" />
+							<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+							<children>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="RS_MS_TIF.RS_Tif_Head_Mesh.0" />
+									<attribute id="MaterialID" type="FixedString" value="9a774038-8a73-0e58-939a-e3a91bcd99ce" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="RS_MS_TIF.RS_Tif_Head_Mouth_Interior_Mesh.1" />
+									<attribute id="MaterialID" type="FixedString" value="f3283bba-6025-dd5e-7a68-36fa639db970" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="RS_MS_TIF.RS_Tif_Head_Eyes_Mesh.2" />
+									<attribute id="MaterialID" type="FixedString" value="9d087230-74a2-4f4b-83d4-495422b6f663" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="RS_MS_TIF.RS_Tif_Head_Ears_Mesh.3" />
+									<attribute id="MaterialID" type="FixedString" value="9a774038-8a73-0e58-939a-e3a91bcd99ce" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="RS_MS_TIF.RS_Tif_Head_Tearline_Mesh.4" />
+									<attribute id="MaterialID" type="FixedString" value="873e5acb-1bc5-28df-7fc9-c9e25cf8bb84" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="RS_MS_TIF.RS_Tif_Head_Eyelashes_Mesh.5" />
+									<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="RS_MS_TIF.RS_Tif_Head_Eyeshadow_Mesh.6" />
+									<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="RS_MS_TIF.RS_Tif_Head_Scalp_Mesh.7" />
+									<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="AnimationWaterfall">
+									<attribute id="Object" type="FixedString" value="f2b884f2-68cd-c8d6-3fb5-db17d0b7bcf4" />
+								</node>
+								<node id="AnimationWaterfall">
+									<attribute id="Object" type="FixedString" value="4b35ee0b-52d3-672c-fa90-5e95c7257d1e" />
+								</node>
+								<node id="AnimationWaterfall">
+									<attribute id="Object" type="FixedString" value="ef6e497f-fc1f-8a85-14ec-f1e6f3a56995" />
+								</node>
+								<node id="AnimationWaterfall">
+									<attribute id="Object" type="FixedString" value="c465d4f0-e0b8-6f59-1515-8ee33a15669e" />
+								</node>
+								<node id="AnimationSetOverrides">
+									<attribute id="PairElement1" type="guid" value="b6aa23c3-c96d-42d5-8ffa-8d441d18faa7" />
+									<attribute id="PairElement2" type="FixedString" value="f4ead328-66b0-35c8-4c30-319ce28fa36f" />
+									<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+								</node>
+								<node id="ClothProxyMapping" />
+								<node id="Base" />
+							</children>
+						</node>
+						<node id="Resource">
+							<attribute id="ID" type="FixedString" value="d74b8fa5-2da3-46cf-8c8a-cae9a22bbe47" />
+							<attribute id="Name" type="LSString" value="RS_MS_ELF" />
+							<attribute id="SourceFile" type="LSString" value="Generated/Public/RS_MS_Head_8cd61375-e769-1657-2951-210561320d75/RS_MS_ELF.GR2" />
+							<attribute id="Slot" type="FixedString" value="Head" />
+							<attribute id="RemapperSlotId" type="FixedString" value="" />
+							<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+							<attribute id="AttachBone" type="FixedString" value="" />
+							<attribute id="Template" type="FixedString" value="Generated/Public/RS_MS_Head_8cd61375-e769-1657-2951-210561320d75/RS_MS_ELF.Dummy_Root.0" />
+							<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+							<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+							<attribute id="SkeletonResource" type="FixedString" value="53acfc07-36d8-d79c-b52f-d845f6940eb4" />
+							<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+							<attribute id="HairPresetResourceId" type="FixedString" value="" />
+							<attribute id="ScalpMaterialId" type="FixedString" value="" />
+							<attribute id="SkeletonSlot" type="FixedString" value="1" />
+							<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+							<attribute id="MaterialType" type="uint8" value="0" />
+							<attribute id="HairType" type="uint8" value="0" />
+							<attribute id="BoundsMin" type="fvec3" value="0 0 0" />
+							<attribute id="BoundsMax" type="fvec3" value="0 0 0" />
+							<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+							<children>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="RS_MS_ELF.RS_Elf_Head_Mesh.0" />
+									<attribute id="MaterialID" type="FixedString" value="5f0410de-12f2-748d-e07c-63218698ff7d" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="RS_MS_ELF.RS_Elf_Head_Mouth_Interior_Mesh.1" />
+									<attribute id="MaterialID" type="FixedString" value="f3283bba-6025-dd5e-7a68-36fa639db970" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="RS_MS_ELF.RS_Elf_Head_Eyes_Mesh.2" />
+									<attribute id="MaterialID" type="FixedString" value="9d087230-74a2-4f4b-83d4-495422b6f663" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="RS_MS_ELF.RS_Elf_Head_Ears_Mesh.3" />
+									<attribute id="MaterialID" type="FixedString" value="5f0410de-12f2-748d-e07c-63218698ff7d" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="RS_MS_ELF.RS_Elf_Head_Tearline_Mesh.4" />
+									<attribute id="MaterialID" type="FixedString" value="873e5acb-1bc5-28df-7fc9-c9e25cf8bb84" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="RS_MS_ELF.RS_Elf_Head_Eyelashes_Mesh.5" />
+									<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="RS_MS_ELF.RS_Elf_Head_Eyeshadow_Mesh.6" />
+									<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="Objects">
+									<attribute id="ObjectID" type="FixedString" value="RS_MS_ELF.RS_Elf_Head_Scalp_Mesh.7" />
+									<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
+									<attribute id="LOD" type="uint8" value="0" />
+								</node>
+								<node id="AnimationWaterfall">
+									<attribute id="Object" type="FixedString" value="f2b884f2-68cd-c8d6-3fb5-db17d0b7bcf4" />
+								</node>
+								<node id="AnimationWaterfall">
+									<attribute id="Object" type="FixedString" value="4b35ee0b-52d3-672c-fa90-5e95c7257d1e" />
+								</node>
+								<node id="AnimationWaterfall">
+									<attribute id="Object" type="FixedString" value="ef6e497f-fc1f-8a85-14ec-f1e6f3a56995" />
+								</node>
+								<node id="AnimationWaterfall">
+									<attribute id="Object" type="FixedString" value="c465d4f0-e0b8-6f59-1515-8ee33a15669e" />
+								</node>
+								<node id="AnimationSetOverrides">
+									<attribute id="PairElement1" type="guid" value="b6aa23c3-c96d-42d5-8ffa-8d441d18faa7" />
+									<attribute id="PairElement2" type="FixedString" value="f4ead328-66b0-35c8-4c30-319ce28fa36f" />
+									<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+								</node>
+								<node id="ClothProxyMapping" />
+								<node id="Base" />
+							</children>
+						</node>
             </children>
 		</node>
 	</region>
